@@ -1,0 +1,5673 @@
+ཀ-ངོས	cylinder
+ཀི-རེ-སིའི-རྨང-གཞིའི-ཡི-གེ	basic Greek
+ཀུང-སི	company
+ཀུན-ཁྱབ-རིགས-གྲས	universal type
+ཀུན-མངོན	show all
+ཀུན-འདེམས	select all
+ཀོ-ཁུག	briefcase
+ཀོང-ཡིག	characters cut in intaglio
+ཀོར-ཏིག-གྲིབ-ནག	gouraud shading
+ཀྱག-ཀྱོག	zigzag
+ཀླད-ཀོར-ཁ-སྐོང	to zero fill
+ཀླད-ཀོར-གནས-ཡུལ-བཀའ-བརྡ	zero address instruction
+ཀླད-ཀོར-ཐང	zero value
+ཀླད-ཀོར-དུ-དྲིལ-བའི-ལུགས-ཀྱི-ཟིན-ཐོ-འགོད-ཐབས	return-to-zero recording
+ཀླད-ཀོར-དུ-མ-དྲིལ-བའི-ལུགས-ཀྱི-ཟིན-ཐོ-འགོད-ཐབས	non-return-to-zero recording
+ཀླད-ཀོར-ཕྱིས-པའི-རྩོལ-ནུས	zero suppression function
+ཀླད-ཀོར-བསུབ-པ	zero suppression
+ཀླད-ཀོར-རིམ-པའི-གནས-ཡུལ	zero-level address
+ཀླད-ཀོར	zero
+ཀློག	to read
+ཀློག-པ-ནོར-སྐྱོན	bad read
+ཀློག-པ	read
+ཀློག-པའི-ལྟ-སྤྱོད	read access
+ཀློག-བྱེད-སྡུད-མགོ	read head
+ཀློག-མི-ཐུབ	cannot read
+ཀློག-ཙམ-གསོག-ཆས	read-only memory
+ཀློག-ཙམ	read only
+ཀློག-འཁོར-ཡུན	read cycle time
+ཀློག-འབྲི-ཁ-དབྱེ	read/write opening
+ཀློག-འབྲི-ཤུར-ཁ	read/write slot
+ཀློག-འབྲི-སྡུད-མགོ	read/write head
+ཀློག-འབྲི	read write
+ཀློག-སྟེགས	read station
+ཀློག-སྲུང	read protect
+ཁ-ཐོར-གདམ-གསེས	diffusion selection
+ཁ-དོག	color
+ཁ-དོག-རེའུ-མིག	color table
+ཁ-དོག-སྒྲིག-འགོད	color setup
+ཁ-དོག-སྣོན-བརྩེགས	color overlay
+ཁ-པར-ཁཱ	calling card
+ཁ-པར-མཐུད-ལམ	phone line
+ཁ-པར-ཚོགས-འདུ	conference call
+ཁ-པར-ཨང-གྲངས	phone number
+ཁ-པར-ཨང-དེབ	phone book
+ཁ-པར	phone
+ཁ-ཕྱེ-བའི-ཡིག-ཆ-མང-དྲགས	too many files opened
+ཁ-ཕྱོགས-བསྐྱར-བསྒྲིགས	redirection
+ཁ-ཕྱོགས	direction
+ཁ-ཕྲལ	separate; split
+ཁ-བརྡ-ཁང	chat room
+ཁ-བརྡ-འགོ-འཛུགས	opens chat
+ཁ-བརྡ	chat
+ཁ-བྱང-གི-ཚན-བྱང	title bar
+ཁ-བྱང-ཡི-གེ	caption text
+ཁ-བྱང-ཡིག-ཕྲེང	title line
+ཁ-བྱང-རྣམ-གཞག	title format
+ཁ-བྱང-སྒྲོམ-བུ	title box
+ཁ-ཞེང-ཆེ-ཤོས	max size
+ཁ-ཟུམ-རིགས-གྲས	encapsulated type
+ཁ-ཟུམ-རེས-འཁོར	closed loop
+ཁ-འབྱེད-དུས-ཚོད	up time
+ཁ-འབྱེད-མཁན	open by
+ཁ-འབྱེད-སྟངས	open with
+ཁ-འབྱེད	open
+ཁ-རྒྱག	close
+ཁ-རྒྱག-བཞིན-པ	shutting down
+ཁ-རྒྱག-སྲུང-བ	closed guard
+ཁ-སྐད-ངོས-འཛིན	spoken-language identification
+ཁ-སྐོང	fill
+ཁ-སྐོང-དཔེ-རྣམ	fill pattern
+ཁ-སྒྱུར-དབྱུ-གུ	joystick
+ཁ-སྒྱུར-བཟོ-ལས-འཕྲུལ-མི	manipulating industrial robot
+ཁ-སྒྱུར-བཤེར-དཔྱད	manipulation detection
+ཁ-སྣོན	append
+ཁག-སྦྲེལ-དྲ-རྒྱ	partially connected network
+ཁབ-ལེན-གསོག-ཆས	magnetic storage
+ཁམ-པ	brown
+ཁར-ནོ-རི-མོ	karnaugh map
+ཁས-མི-ལེན	don't accept
+ཁས-ལེན-བརྡ-རྟགས	enabling signal
+ཆོག-འཐུས-བརྡ-རྟགས	enabling signal
+ཁས-ལེན	accept
+ཁཱ-ཀློག-ཆས	card reader
+ཁཱ-ཁུང-བརྟོལ-ཆས	card puncher
+ཁཱ-དབྱིབས-སྡུད-ཐགས	magnetic tape cassette
+ཁཱ-ཕྲེང-སྟར	card row
+ཁཱ-འདྲེན-ཆས	card feed
+ཁཱ-རིགས-དགར-འཕྲུལ-འཁོར	card sorter
+ཁཱ-རྒྱུ-ལམ	card path
+ཁཱ-རྩེག-པ	card deck
+ཁཱ-ལེན-སྒམ	card stacker
+ཁཱ-སྐྱེལ-སྒམ	card hopper
+ཁཱ-སྒྲོམ	pocket
+ཁཱ-སྟར	card column
+ཁཱ	card
+ཁུང-བརྟོལ-ཁཱ	punched card
+ཁུང-བརྟོལ-གནས	punch position; punching position
+ཁུང-བརྟོལ-ཐགས	punched tape
+ཁུང-བརྟོལ-འཁོར	punch
+ཁུང-བརྟོལ-རྒྱུ-ལམ	punch path
+ཁུང-བརྟོལ-སྟེགས	punch station
+ཁུང-བུའི-དཔེ-ཚུལ	hole pattern
+ཁུང-ལྷན-ཡོ-ཆས	spot punch
+ཁུང-སྙིགས	chad
+ཁུངས-གནས-ཡུལ	source address
+ཁུངས-དཀར-ཆག	source directory
+ཁུངས-དཔེ-དུམ	source module
+ཁུངས-བགོ-བཤའ	resource allocation
+ཁུངས-བྱ-རིམ	source program
+ཁུངས-ཚབ-ཨང	source code
+ཁུངས-ཚབ-ཨང-སྐྱེད-སྒྲུབ-ཆས	source code generator
+ཁུངས-ཡིག-ཆ	source file
+ཁུངས-ཡིག-རྐྱང	source text
+ཁུངས-ཡིག-སྐྱེད-སྒྲུབ	generate objective file
+ཁུངས	source
+ཁུལ-ཁུང	zone punch
+ཁུལ-ཁོངས-ཐོབ-པ	get zones
+ཁུལ-ཁོངས-མིང	zone name
+ཁུལ-ཁོངས	region; area
+ཁུལ-དགར-རྣམ-གཞག-བཟོ-བ	format partition
+ཁུལ-ཚན	partition
+ཁུལ-ཨང	area code
+ཁེ-དབང-འཆར-འགོད	opportunistic planning
+ཁེ-ལས	enterprise
+ཁེགས	blocked
+ཁོ-ལཱ-གདན	koala pad
+ཁོ-ཧོ-ནན-རྟེན-འཕྲོ	kohonen map
+ཁོངས-གཏོགས	slave
+ཁོངས-མི-ལེན-མཁན	member recipient
+ཁོངས-མི	members
+ཁོངས-མིང	domain name
+ཁོངས-མིང-ཞབས-ཞུ-ཆས	name server
+ཁོངས-མིའི-ཟིན-ཐོ	member record
+ཁོངས	domain
+ཁོམ-དུས	when idle
+ཁོར-ཡུག	environment
+ཁོར-ཡུག-གྱོང-གུད-དུས-ཚོད	environmental loss time
+ཁོར-ཡུག-ཆ-རྐྱེན	environmental condition
+ཁོར-ཡུག-ཞིབ-བརྗོད	environment description
+ཁོར-ཡུག-འགྱུར-ཚད	environment variables
+ཁོར-ཡུག-སྒྲིག-འགོད	environment
+ཁྱད-ཆ-ཆེར-སྐྱེད-ཆས	differential amplifier
+ཁྱད-ཆོས-འགྲེལ-བརྗོད	characteristic description
+ཁྱད-ཆོས	characteristics
+ཁྱད-དབང-ཆུང-ཤོས	minimum privilege
+ཁྱད-དབང-བཀའ-བརྡ	privileged instruction
+ཁྱད-པར-ཨང-སྒྲིག	differential encoding
+ཁྱད-པར	specific
+ཁྱད-རྟགས-བར-གསེང	significant interval
+ཁྱད-རྟགས-འཆར-བརྙན	feature map
+ཁྱད-རྟགས-རྣམ-པ	significant condition
+ཁྱད-རྟགས-ལ-ལྟོས-པའི-སྐད-གདངས-ཤན-འབྱེད	feature-based speech recognition
+ཁྱད-རྟགས-སྐད-ཅིག-མ	significant instant
+ཁྱབ-ཁོངས-གཏན-འཁེལ	range specification
+ཁྱབ-ཁོངས-གི-དཔེ-དབྱིབས	domain model
+ཁྱབ-ཁོངས-ཤེས-རིག	domain knowledge
+ཁྱབ-ཁོངས	span; scope; range
+ཁྱབ-ཆུང-དྲ-རྒྱ	local area network
+ཁྱབ-ཆུང-དྲ-རྒྱའི-གནས-ཡུལ-རྐྱང-པ	LAN individual address
+ཁྱབ-ཆུང-དྲ-རྒྱའི-གླིང-ཡོངས-གནས-ཡུལ	LAN global address
+ཁྱབ-ཆུང-དྲ-རྒྱའི-དྲ-སྒོ	LAN gateway
+ཁྱབ-ཆུང-དྲ-རྒྱའི-མང-བསྒྲགས	LAN multicast
+ཁྱབ-ཆུང-དྲ-རྒྱའི-ཚོ-གནས-ཡུལ	LAN group address
+ཁྱབ-ཆུང-དྲ-རྒྱའི-ཚོ-བསྒྲགས	LAN multicast
+ཁྱབ-ཆུང-དྲ-རྒྱའི-ཞབས-ཞུ-ཆས	LAN server
+ཁྱབ-ཆུང-དྲ-རྒྱའི-རྒྱང-བསྒྲགས-གནས-ཡུལ	LAN broadcast address
+ཁྱབ-ཆུང-དྲ-རྒྱའི-རྒྱང-བསྒྲགས	LAN broadcast
+ཁྱབ-ཆེན-དྲ-རྒྱ	wide area network
+ཁྱབ-ཚུལ-གཞི-གྲངས-མཛོད	distributed database
+ཁྱབ-ཚུལ-གྱི-གཞི-གྲངས-སྒྲིག-གཅོད	distributed data processing
+ཁྱབ-ཚུལ	distribution
+ཁྱབ-འགྲེམས-གོ-རིམ	transmittal step
+ཁྱབ-འགྲེམས-དོན-རྐྱེན	transmittal event
+ཁྱབ-འགྲེམས-བརྒྱུད-གཏོང	transmittal
+ཁྱབ-འདུས	implication
+ཁྱབ-འབྲིང-དྲ-རྒྱ	metropolitan network
+ཁྱིམ-མཚེས-མངོན-སྟོན-བྱེད	show neighbors
+ཁྱིམ-མཚེས	neighbor
+ཁྱིམ-སྤྱོད	home use
+ཁྱུ-ཚོགས	cluster
+ཁྱེར-བདེའི-རྩིས-འཁོར	portable computer
+ཁྱོན-བསྡོམས-རྩོལ-ནུས	total function
+ཁྱོན-བསྡོམས	sum; total; grand total
+ཁྱོན-ཡོངས-ཆ-འཕྲིན	global info
+ཁྱོན-ཡོངས-བཀའ	global commands
+ཁྱོན-ཡོངས-སྒྲིག-འགོད	global settings
+ཁྱོན-ཡོངས	global
+ཁྲ-མིག	pane
+ཁྲིད-པང	deflector
+ཁྲོ-ཅང-ཤིང-རྟ	trojan horse
+ཁྲོབ	entropy
+ཁྲོམ-ལམ	street
+གང-མཐོང-དེ-ཐོབ	WYSIWYG
+གང-རུང	any
+གཅིག-གྱུར	unified
+གཅིག-པུ	only one
+གཅིག-བརྒལ-གནས-ཡུལ-འཚོལ-ཐབས	one-ahead addressing
+གཅིག-མཐུན-ཁྱབ-འགྱུར	consistent generalization
+གཅིག-མཐུན-འདྲེན-སྤྱོད	uniform referencing
+གཅིག-མཐུན-འབྲེལ-ཡོད-ཚད	coincidental cohesion
+གཅིག-ཟུང-གསབ-ཨང	ones complement
+གཅིག-རྡེབ	click
+གཅིག-ལ-གཅིག-སྣོན-པའི-གནས-ཡུལ-བཀའ-བརྡ	one-plus-one address instruction
+གཅུན-སྡོམ-ལ-བརྟེན-པའི-ཁྱབ-འགྱུར	constraint-based generalization
+གཅུན-སྡོམ	constraint
+གཅུན-སྲོལ	constraint rule
+གཅོད-ཚིག	assertion
+གཅོད-ཚེག	breakpoint
+གཅོད-ས	breakpoint
+གཅོད-སའི-བཀའ-བརྡ	breakpoint instruction
+གཅོད-སར-མཚམས-འཇོག	breakpoint halt
+གཉིས-གོང-འགྲིལ-གྲངས-ཕྲེང	binary digit string
+གཉིས-གོང-འགྲིལ-གྲངས-འགོད-ཐབས	binary notation
+གཉིས-གོང-འགྲིལ-ཆ-འགྲིག-འཕྲིན-ལམ	symmetric binary channel
+གཉིས-གོང-འགྲིལ-ལུགས-ཀྱི-བཤེར-འཚོལ	binary search
+གཉིས-གོང-འགྲིལ-ལུགས-ཀྱི-འཇལ-ཚད	binary unit
+གཉིས-གོང-འགྲིལ-ལུགས-གྲངས-ཀ	binary digit
+གཉིས-གོང-འགྲིལ-ལུགས-གྲངས	binary numeral
+གཉིས-གོང-འགྲིལ-ལུགས-ཡིག-རྟགས	binary character
+གཉིས-གོང-འགྲིལ-ལུགས-སྟོན-གྲངས-ཀྱི-ཐུང-བཅད-ཕྱིར-གཤོལ	truncated binary exponential backoff
+གཉིས-གོང-འགྲིལ-ལུགས-སྡེ-ཚན	binary cell
+གཉིས-གོང-འགྲིལ-ལུགས-ཨང-རྩིས-ལུགས-རྩིས	binary arithmetic operation
+གཉིས-གོང-འགྲིལ-ལུགས	binary
+གཉིས-གོང-འགྲིལ-སྒྲིག-ཨང-གྲངས-འགོད-ཐབས	binary-coded notation
+གཉིས-གོང-འགྲིལ	binary
+གཉིས-གོང-འདྲིལ-གྲངས-ཀའི-བརྡ-རྟགས	binary digital signal
+གཉིས-གོང-འདྲིལ-ལུགས-བརྡ-རྟགས	binary signal
+གཉིས-ཕྱོགས-ཆ-ཚང-བརྒྱུད-གཏོང	full-duplex transmission
+གཉིས-ཕྱོགས-བརྒྱུད-གཏོང	duplex transmission
+གཉིས-བལྟོས-གསབ-ཨང	twos complement
+གཉིས-ལྔ-མཉམ-བསྲེས-གོང-འགྲིལ-ལུགས-ཨང-རྟགས	biquinary code
+གཉུག-ལྷུ	component
+གཉུག-སྐད	metalanguage
+གཏག-རྡེབ-པར-འཁོར	impact printer
+གཏག-རྡེབ-མིན-པའི-པར-འཁོར	nonimpact printer
+གཏན-ཁེལ-བྱས-པའི-གྲངས-ཐང	limit value
+གཏན-གནས-བཅོལ-ཆས	fixed-point register
+གཏན-གྲངས-རིམ-འཇུག	fixed-count iteration
+གཏན-དུ-ཐོ-མ-འགོད	never register
+གཏན-ནས-མིན	never
+གཏན-ཚིགས-ཀྱི-ལྟ-སྤྱོད-ཚོད-འཛིན	logical access control
+གཏན-ཚིགས-གཉུག-ལྷུ	logic element
+གཏན-ཚིགས-གདུབ-བུ	logical ring
+གཏན-ཚིགས-གནས-སྤོ	logical shift; logic shift
+གཏན-ཚིགས-གཤིབ-སྡུར	logical comparison
+གཏན-ཚིགས-ངན-པ	malicious logic
+གཏན-ཚིགས-ཅན-གྱི-བྱ-རིམ-ཇུས-འགོད	logic programming
+གཏན-ཚིགས-ཇུས-འགོད	logic design
+གཏན-ཚིགས-དཔེ-རྣམ	logical schema
+གཏན-ཚིགས-ཕྲེང-ལམ-ཚོད-འཛིན-བུ-རིམ	logical link control sublayer
+གཏན-ཚིགས-བཀའ-བརྡ	logic instruction
+གཏན-ཚིགས-བྱ-ཡུལ	logical object
+གཏན-ཚིགས-མཚོན-རྟགས	logic symbol
+གཏན-ཚིགས-ཟིན-ཐོ	logical record
+གཏན-ཚིགས-འགྱུར-ཚད	logic variable
+གཏན-ཚིགས-འབར-མདེལ	logic bomb
+གཏན-ཚིགས-འབྲེལ-ཡོད-ཚད	logical cohesion
+གཏན-ཚིགས-ཡོ-ཆས	logic devices
+གཏན-ཚིགས-རི-མོ	logic diagram
+གཏན-ཚིགས-རིགས-གྲས	logical type
+གཏན-ཚིགས-རིམ-པ	logical level
+གཏན-ཚིགས-རྟེན-འབྱུང-གྲངས	logic function
+གཏན-ཚིགས-ལུགས-རྩིས	logic operation
+གཏན-ཚིགས-ལྷུ-ཆས	logic unit
+གཏན-ཚིགས-སྣོན-རྩིས	logical add
+གཏན-ཚིགས-སྦྲེལ-ལམ-གྱི-ཚོད-འཛིན-རིགས-གྲས	logical link control type
+གཏན-ཚིགས-སྦྲེལ-ལམ-ཚོད-འཛིན-གྲོས-མཐུན	logical link control protocol
+གཏན-ཚིགས	logical
+གཏན-འཁེལ-ཚད	certainty factor
+གཏན-འཇགས-གསོག-ཆས	permanent storage
+གཏན-འཇགས-རྟེན-འབྱུང-གྲངས-འབྱུང-ཆས	fixed function generator
+གཏན-འཇགས-རྨང-གྲངས-གྲངས-ལུགས	fixed radix numeration system
+གཏན-འཇགས-སྡུད-སྡེར	fixed disk
+གཏན-འཇགས	fixed; permanent
+གཏིང-ཚད-དང-ཐོག-བཤེར-འཚོལ	depth-first search
+གཏུབ-གཅོད-ཧེ-བག	truncation error
+གཏུབ-གཅོད	truncation
+གཏུམ-པ	encapsulation
+གཏོགས-གཤིས-ཁོངས	property field
+གཏོགས-གཤིས-གྲངས-ཐང	property value
+གཏོགས-གཤིས-འབྲེལ-བ	attribute relationship
+གཏོགས-གཤིས-རིགས	attribute class
+གཏོགས-གཤིས-ཤོག-ངོས	property page
+གཏོགས-གཤིས	attribute; property
+གཏོང	send
+གཏོང-ཆས	player
+གཏོང-བ	play; send
+གཏོང-བའི-དུས-ཚོད	play time
+གཏོང-མཁན	sender
+གཏོང-མཚམས-འཇོག-པ	stop sending
+གཏོང-འཁོར	player
+གཏོང-སྒམ	out-basket
+གཏོར-བཤིག-ཀློག-འདོན	destructive read
+གཏོར-མིན-ཀློག-འདོན	nondestructive read
+གདགས-སྲིབ-ཡིག-རྟགས	sign character
+གདགས-སྲིབ-རྟགས	sign
+གདམ-ཁོངས	selection range
+གདམ-གསེས	filter
+གདམ-གསེས-བརྡ-རྟགས	selection signal
+གདམ-གསེས-མྱུར-པོ	fast select
+གདམ-བྱ	alternate select
+གདམ-ཚན-མཐེབ-གཅུས	option button
+གདམ-ཚན-ཡིག-དུམ	option field
+གདམ-ཚན-ཤོག-ངོས	option page
+གདམ-ཚན-སྒྲོམ-བུ	group box
+གདམ-ཚན	option
+གདུབ-དབྱིབས-དྲ-རྒྱ	ring network
+གདུབ-དྲ	ring network
+གདུབ-བུ	ring
+གདུབ-སྒུག-དུས-ཚོད	ring latency
+གདེང-འཇོག-ཞུ-ཐོ	evaluation report
+གདེང-འཇོག-རྟེན-འབྱུང-གྲངས	evaluation function
+གདེང-འཇོག-སྒྲིག-ཆས	valuator device
+གདོང-གཏུག	conflicts
+གདོང-གཏུག-སེལ-བ	conflict resolution
+གདོང-ཐུག	collision
+གདོང-ཐུག-བཙན-སྐུལ	collision enforcement
+གདོང-ཛར	volume label
+གདོང-འཛར-ཡིག-དུམ	label field
+གདོང-འཛར	label
+གདོད-དཔེ	prototype
+གདོད-སྐད-ནང-འཇུག	input primitive
+གནད-དོན-བར-སྟོང	problem space
+གནད-དོན-མཚན-འཇོག	problem definition
+གནད-དོན-ཞིབ-བརྗོད	problem description
+གནད-དོན-སྡུད-དབྱེ	problem reduction
+གནད-བསྡུས	abstract
+གནད-ཚིག	keywords
+གནད-འགག	critical
+གནད-ཡིག	keyword
+གནད-ཡིག-གཙོ-བོ	primary key
+གནད-ཡིག-ཕལ-པ	secondary key
+གནད-ཡིག-བཤེར-འཚོལ	search key
+གནས-༦༤-ལག-རྩལ	64 bit technology
+གནས-༨	8 bits
+གནས-ན-ཡིག-ཚིགས	n-bit byte
+གནས-༡༦	16 bits
+གནས-གང-རུང	anywhere
+གནས-གཡར-གྲངས	borrow digit
+གནས-གོང-འགྲིལ-གྲངས	carry digit
+གནས-གོང-འགྲིལ-སོར-བཞག-སྣོན-ཆས	carry-save adder
+གནས-ངེས-ཆས	locator
+གནས-ངེས-དུས-ཚོད	positioning time
+གནས-ངེས-རིགས-གྲས	fixed-point type
+གནས-ངེས-སྒྲིག-ཆས	locator device
+གནས-ངེས	locate
+གནས-བདག-སྐད-བརྡ	host language
+གནས-བརྒྱད-མ	octet
+གནས-བརྒྱད-ཡིག-ཚིགས	bit byte
+གནས-བརྗེ	transposition
+གནས-བསྐྱར-ངེས-བྱ-རིམ	relocatable program
+གནས-བསྐྱར-ངེས-རུང-བའི-གནས-ཡུལ	relocatable address
+གནས-བསྐྱར-ངེས	to relocate
+གནས-མང-ལྟ-སྤྱོད-དྲ-རྒྱ	multiple access network
+གནས-མང-ལྟ-སྤྱོད	multiple access
+གནས-ཚད-རིས-དབྱིབས	coordinate graphics
+གནས-འགྱུར-བཅོལ-ཆས	index register
+གནས-འགྲིལ	carry
+གནས-འཚོལ-ནུས-པ	addressability
+གནས-འཚོལ-རྒྱུན-འགལ	addressing exception
+གནས-འཚོལ	addressing
+གནས-འཛུགས	to set
+གནས-ཡུན	lifetime
+གནས-ཡུལ-ཨཱིཌ	address ID
+གནས-ཡུལ-ཎལྡན-བཀའ-བརྡ	n-address instruction
+གནས-ཡུལ-ཁག	address part
+གནས-ཡུལ-ཁྱབ-ཁོངས	address range
+གནས-ཡུལ-གཅིག-རྐྱང-བཀའ-བརྡ	single-address instruction
+གནས-ཡུལ-གཙོ-བོ	home address
+གནས-ཡུལ-གསུམ-ལྡན-བཀའ-བརྡ	three-address instruction
+གནས-ཡུལ-ངོ-མ	real address
+གནས-ཡུལ-ཆ-ལྡན-བཀའ-བརྡ	two-address instruction
+གནས-ཡུལ-དོ-དམ	address administration
+གནས-ཡུལ-བཀའ-བརྡ	address instruction
+གནས-ཡུལ-བགོ-བཤའ	address assignment
+གནས-ཡུལ-བཟོ-བཅོས	address modification
+གནས-ཡུལ-བར-སྟོང	address space
+གནས-ཡུལ-མང-པོའི-བཀའ-བརྡ	multiaddress instruction
+གནས-ཡུལ-འཚོལ-ཐབས	addressing method
+གནས-ཡུལ-འཚོལ-རུང-ཅན	addressability
+གནས-ཡུལ-རེའུ-མིག	address table
+གནས-ཡུལ-རྣམ-གཞག	address format
+གནས-ཡུལ-ལྟར-འདོན-སྤྱོད	call by address
+གནས-ཡུལ-སྒྱུར-བའི-བྱ-རིམ	address translator
+གནས-ཡུལ-སྒྲིག-པ	to address
+གནས-ཡུལ-སྟོང-པ	null address
+གནས-ཡུལ-སྤོ-ཡོ-ཚད	address offset
+གནས-ཡུལ	address
+གནས-རིས	bitmap
+གནས-ལྟར-མཚོན-ཐབས	positional representation
+གནས-ས-ལྟར-འདོན-སྤྱོད	call by location
+གནས-ས	location; position
+གནས-སའི-དེབ-ཏུ-སྣོན-འཇུག-བྱེད-པ	add to address book
+གནས-སའི-དེབ	address book
+གནས-སྐབས-ཡིག-ཆ	temporary file
+གནས-སྒྲིག-རུང-གསོག-ཆས-མེད-པའི-རྩིས-ཆས	calculator without addressable storage
+གནས-སྒྲིག-རུང-གསོག-ཆས-ཡོད-པའི-རྩིས-ཆས	calculator with addressable storage
+གནས-སྒྲིག-རུང-གསོག-ཆས	addressable storage
+གནས-སྟངས-རེའུ-མིག	state diagram
+གནས-སྟངས-སྒྱུར-བའི-དཔེ-རིས	state transition diagram
+གནས-སྤོ-བཅོལ-ཆས	shift register
+གནས-སྤོ	shift
+གནས-སྦྲེལ	to bind
+གནས	bit
+གནོད-མེད-སྐྱོན	failsafe
+གནོན-མཐེབ	push button
+གནོན-ཤུགས-ཚོད-ལྟ	stress test
+གནོན-སྡོད	press and hold
+གནོན	press; click
+གབ-ཐིག	hidden line
+གབ-ཡིག	hidden character
+གབ-ཡིབ	blanking
+གཙང-བཤེར	purge
+གཙང-སེལ	clear
+གཙེར-སྒྲ-འཕར-བརྡ	noise burst signal
+གཙེར-སྒྲ	noise
+གཙོ-རྐང-བྱ-རིམ	body stub
+གཙོ-ལས	master task
+གཞན-གསོག	save as
+གཞན-ཉར-ཡིག-ཆ	save as file
+གཞན-ཉར	save as
+གཞན-དབང-གློག-ལམ-ལྐོག-ཉན	passive wiretapping
+གཞན-དབང-ཚིག-ཐོ	passive vocabulary
+གཞན-དབང-འཇིགས-སྐུལ	passive threat
+གཞན-དབང-ས-ཚིགས	passive station
+གཞན-འགུལ-ལིང-ཚེ-མངོན-ཆས	passive matrix display device
+གཞན-འགུལ-ལིང-ཚེ-མངོན-སྟོན	passive matrix display
+གཞི-གདན-མེད-པ	no shading
+གཞི-གྲངས-ཀྱི-གཏོགས-གཤིས	data attribute
+གཞི-གྲངས-ཀྱི-གྲ-སྒྲིག	preparation of data
+གཞི-གྲངས-ཀློག-པ	read data
+གཞི-གྲངས-ཁུག	packet
+གཞི-གྲངས-ཁུངས	data source
+གཞི-གྲངས-གནད-འགག-ཡི-གེ	database key
+གཞི-གྲངས-གཞི-རྒྱུ	data element
+གཞི-གྲངས-གསང-སྡོམ	data encryption
+གཞི-གྲངས-གྲ-སྒྲིག-དང-སྒྲིག-གཅོད	preparation and handling of data
+གཞི-གྲངས-གློག-ལམ-ནང-གསལ-རང-བཞིན	data circuit transparency
+གཞི-གྲངས-གློག-ལམ-མཇུག-སྦྲེལ-སྒྲིག-ཆས	data circuit-terminating equipment
+གཞི-གྲངས-གློག-ལམ	data circuit
+གཞི-གྲངས-ངོས-འཛིན	data validation
+གཞི-གྲངས-ཆ-ཚང	data integrity
+གཞི-གྲངས-ཆད-ས	data breakpoint
+གཞི-གྲངས-ཆེ-ཆུང	data size
+གཞི-གྲངས-ཐང	data value
+གཞི-གྲངས-ཐུམ-བུ	datagram
+གཞི-གྲངས-ཐུམ-བུའི-ལས-དོན	datagram service
+གཞི-གྲངས-ཐོབ-ལེན	data acquisition
+གཞི-གྲངས-དངུལ-ཁང	data bank
+གཞི-གྲངས-དངོས-བཀོལ-བྱ-རིམ	database utility
+གཞི-གྲངས-དཔེ-དབྱིབས-ལག-ཆ	data modeling facility; DMF
+གཞི-གྲངས-དཔེ-དབྱིབས	data model
+གཞི-གྲངས-དབྱེ-ཞིབ	data analysis
+གཞི-གྲངས-དབྱེ-འབྱེད	data authentication
+གཞི-གྲངས-དོ-དམ	data management
+གཞི-གྲངས-དྲ-རྒྱ	data network
+གཞི-གྲངས-ནང-འཇུག	data entry
+གཞི-གྲངས-ནང-འཇུག-ས-ཚིགས	data input station
+གཞི-གྲངས-ཕྱོགས-བསྡུས	data collection
+གཞི-གྲངས-ཕྲེང-ལམ	data link
+གཞི-གྲངས-བཀོད-སྤྱོད-སྐད-བརྡ	data manipulation language; dml
+གཞི-གྲངས-བདེ-འཇགས	data security
+གཞི-གྲངས-བཟོ-བཅོས	change data
+གཞི-གྲངས-བར-ཁུལ	data buffer
+གཞི-གྲངས-བར-འཇུག	insert data
+གཞི-གྲངས-བར-རྫས	data medium
+གཞི-གྲངས-བརྒྱུད-གཏོང	data transmission
+གཞི-གྲངས-བརྒྱུད-གཏོང-དུས-རིམ	data transfer phase
+གཞི-གྲངས-བརྒྱུད-སྐྱེལ	data transfer
+གཞི-གྲངས-བརྗེ-ཆས	data switching exchange
+གཞི-གྲངས-བརྗེ-སྒྱུར	data transform
+གཞི-གྲངས-བརྡ-རྟགས-ཕྱོད	data signaling rate
+གཞི-གྲངས-བསྐྱར-འཛུགས	data reconstruction
+གཞི-གྲངས-བསྐྱར-སྒྲིག	data reconstitution
+གཞི-གྲངས-བྱ-ཡུལ	data object
+གཞི-གྲངས-མང-སྤྱོད-ཆས	data multiplexer
+གཞི-གྲངས-མཐའ-སྣེའི-སྒྲིག-ཆས	data terminal equipment
+གཞི-གྲངས-མཚད-ཉིད-སྐད-བརྡ	data definition language; data description language; DDL
+གཞི-གྲངས-མཚོན-པའི-རིགས-གྲས	types of data representation
+གཞི-གྲངས-མཛོད-ཀྱི-དོ-དམ-པ	database administrator; dba
+གཞི-གྲངས-མཛོད-ཀྱི-དོ-དམ-སྐད-རིགས	database administration language; dal
+གཞི-གྲངས-མཛོད-ཀྱི-དོ-དམ	database administration
+གཞི-གྲངས-མཛོད-ཀྱི-སྒྲིག-གཅོད-བྱ-རིམ	database handler
+གཞི-གྲངས-མཛོད-དཔེ-རྣམ	database schema
+གཞི-གྲངས-མཛོད-དོ-དམ-རྒྱུད-ཁོངས	database management system; dbms
+གཞི-གྲངས-མཛོད-བཟོ	create database
+གཞི-གྲངས-མཛོད-བུ-དཔེ-རྣམ	database subschema
+གཞི-གྲངས-མཛོད-ཡིག-ཆའི-སྒྲིག-འཛུགས	database file organization
+གཞི-གྲངས-མཛོད-རྩིས-འཁོར	database machine
+གཞི-གྲངས-མཛོད-སྐད-བརྡ	database language
+གཞི-གྲངས-མཛོད	database
+གཞི-གྲངས-མིང	data name
+གཞི-གྲངས-ཚབ-ཨང	data code
+གཞི-གྲངས-ཚབ-ཨང-ཚོགས-སྤྱི	data code set
+གཞི-གྲངས-ཚིག-མཛོད-རྒྱུད-ཁོངས	data dictionary system
+གཞི-གྲངས-ཚིག-མཛོད-སྒྲིག-ཆས	data dictionary facilities
+གཞི-གྲངས-ཚོགས-སྤྱི	data set
+གཞི-གྲངས-ཚོར-སྐྱོན	data-sensitive fault
+གཞི-གྲངས-ཞིབ-ཐོ	data inventory
+གཞི-གྲངས-ཞིབ-བརྗོད	data description
+གཞི-གྲངས-ཞིབ-བཤེར	data check
+གཞི-གྲངས-ཟིན-ཐོ	data record
+གཞི-གྲངས-ཟུང-སྦྱོར	data coupling
+གཞི-གྲངས-འགྱུར-སླ-བའི-རང-བཞིན	data volatility
+གཞི-གྲངས-འདུ-ཚང	data sink
+གཞི-གྲངས-འཕྲིན-གཏོང	data communication
+གཞི-གྲངས-འཚོལ-ལེན	retrieval data
+གཞི-གྲངས-ཡིག-ཆ	data file
+གཞི-གྲངས-ཡིག-དུམ	data field in databases
+གཞི-གྲངས-རང-ཚུགས-ཅན	data independence
+གཞི-གྲངས-རིགས-གྲས	data type
+གཞི-གྲངས-རེའུ-མིག	data table
+གཞི-གྲངས-རྒྱུ	data element
+གཞི-གྲངས-རྒྱུན-འགལ	data exception
+གཞི-གྲངས-རྒྱུན-རེའུ-མིག	data flow diagram
+གཞི-གྲངས-རྒྱུན-རྗེས-འདེད	data-flow trace
+གཞི-གྲངས-རྒྱུན	data flow
+གཞི-གྲངས-རྗེས-འདེད	data trace
+གཞི-གྲངས-རྣམ-གཞག	data format
+གཞི-གྲངས-ལག-སྟར-སྒྲིག-སྲོལ	data manipulation rule
+གཞི-གྲངས-ལུད-པ	data overruns
+གཞི-གྲངས-ལྟེ-གནས	data center
+གཞི-གྲངས-ལྷག-རོ	residual data
+གཞི-གྲངས-ས-ཚིགས	data station
+གཞི-གྲངས-སུབས	remove data
+གཞི-གྲངས-སོར-ཆུད	recovery of data
+གཞི-གྲངས-སྐྱེན-པོའི-ནོར-སྐྱོན	data-sensitive fault
+གཞི-གྲངས-སྐྱོན-ཤོར	data corruption
+གཞི-གྲངས-སྒྱུར-ཆས	data converter
+གཞི-གྲངས-སྒྲིག-གཅོད-ཚིགས-ཚེག	data processing node
+གཞི-གྲངས-སྒྲིག-གཅོད-རྒྱུད-ཁོངས	data processing system
+གཞི-གྲངས-སྒྲིག-གཅོད-ལྟེ-གནས	data processing center
+གཞི-གྲངས-སྒྲིག-གཅོད-ས-ཚིགས	data processing station
+གཞི-གྲངས-སྒྲིག-གཅོད	data processing
+གཞི-གྲངས-སྒྲིག-གཞི-ཅན-གྱི-སྒྲིག-སྲོལ	data structuring rule
+གཞི-གྲངས-སྒྲིག-གཞི	data structure
+གཞི-གྲངས-སྒྲིག-འཛུགས	organization of data
+གཞི-གྲངས-སྟུག-ཚད	data density
+གཞི-གྲངས-སྡུད-ཆས	data concentrator
+གཞི-གྲངས-སྡུད-ཚིགས	data collection station
+གཞི-གྲངས-སྡེ-ཁག	data division
+གཞི-གྲངས-སྣོན-པ	add data
+གཞི-གྲངས-སྤོ-གསོག	datadump
+གཞི-གྲངས-སྨོ-ལྷུ	data module
+གཞི-གྲངས-སྨྱན-གཟུགས	data media
+གཞི-གྲངས-སྲུང-སྐྱོབ	data protection
+གཞི-གྲངས-སླར-སྐྱེས	data restoration
+གཞི-གྲངས	data
+གཞི-ཐིག	baseline
+གཞི-དཀར-ཡིག-ནག	black on white
+གཞི-དཀར	white-back
+གཞི-ནག-ཡིག-དཀར	white on black
+གཞི-པང	base board
+གཞི-འཛིན-ཐིག	reference line
+གཞི-འཛིན-དུ-དྲིལ-བའི-ལུགས-ཀྱི-ཟིན-ཐོ-འགོད-ཐབས	return-to-reference recording
+གཞི-འཛིན-ས-མཐའ	reference edge; guide edge
+གཞི-རིས-གྲུབ-འབྲས	underpainting
+གཞི-རྩའི-གནས-ཡུལ	base address
+གཞི-རྩའི-ངེས-ཚད-ཐ-སྙད	basic quantitative terms
+གཞི-རྩའི-རིགས-གྲས	underlying type
+གཞི-རྩའི-རྣམ-གཞག	basic format
+གཞུང-དཔང	notarization
+གཞུང-ཕྱོགས-རྣམ-གཞག-ཅན	vertical formatting
+གཞུང-ཕྱོགས-སྡུད-ཐོ	longitudinal magnetic recording
+གཞུང-ཕྱོགས	portrait
+གཞུང-ཚད-ཚུལ	vertical
+གཞུང-ཚད-རྣམ-གཞག	portrait format; vertical format
+གཞུང-ལས-རང-འགུལ-ཅན	office automation
+གཞུང-སྒྲིག	upright typewriting
+གཞུང-སྟར-གཡས-མ	right column
+གཟུགས-བརྙན	image
+གཡབ-ཁུལ-ཆག-པོ-བཟོས-པ	bad sectoring
+གཡབ-ཁུལ-རྫུན-མ	fake sector
+གཡབ-ཁུལ-སྙོམ-སྒྲིག	sector alignment
+གཡབ-ཁུལ	sector
+གཡབ-དབྱིབས-ལྟེབ-ཤོག	fanfold paper
+གཡས-ཐག	right margin
+གཡས-ནས-གཡོན	right to left
+གཡས-ཕྱོགས	to right side; right-hand side
+གཡས-མཐེབ	right button
+གཡས-འོག	lower right
+གཡས-ཤོག	right side page
+གཡས-ཤོག-མགོ-བྱང	right side page header
+གཡས-སུ-འགྲིལ	scroll right
+གཡས-སུ-སྤོ	move right
+གཡས-སྙོམ-མེད	ragged right
+གཡས-སྙོམ	to right-justify
+གཡས-སྟེང	upper right
+གཡས-སྟེང-ཟུར	upper right corner
+གཡས-སྤོ	move right
+གཡས	right
+གཡེང-ཚེག-བཅོལ-ཆས	floating-point register
+གཡེང-ཚེག-མཚོན-ཐབས	floating-point representation
+གཡེང-ཚེག-མཚོན-ལུགས	floating-point representation
+གཡེང-ཚེག-ཞབས-གྲངས	floating-point base
+གཡེང-ཚེག-རིགས-གྲས	floating-point type
+གཡེང-ཚེག-རྨང-གྲངས	floating-point radix
+གཡེང-འགུལ-མཐོ-ཚད	flying height
+གཡོན-གྱི-ཤོག-ངོས	left page
+གཡོན-ཐག	left margin
+གཡོན-ནས-གཡས	left to right
+གཡོན-ཕྱོགས	to left side; left-hand side
+གཡོན-མཐའི-སྟར	most left column
+གཡོན-མཐེབ	 left key|left button 
+གཡོན-འགྲིག-མིན	ragged left
+གཡོན-འོག	lower left
+གཡོན-ཤོག-མགོ-བྱང	left page header
+གཡོན-སྙོམ	to left-justify
+གཡོན-སྟེང	upper left
+གཡོན-སྤོ	move left
+གཡོན	left
+གཤམ-སྤོ	down
+གཤིབ-ཕྲེང-སྒྱུར-ཆས	serializer; parallel-serial converter; dynamicizer
+གཤིབ-བགྲོད-བརྒྱུད-གཏོང	parallel transmission
+གཤིབ-བགྲོད-མཐུད-ཁ	concurrent port
+གཤིབ-བགྲོད-སྣོན-རྩིས-ཆས	parallel adder
+གཤིབ-བགྲོད-སྣོན-རྩིས	parallel addition
+གཤིབ-བགྲོད	parallel
+གཤིས-ཐང	attribute value
+གཤེར-བདར-པང-ལེབ	LCD panel
+གཤེར-བདར-བརྙན-ཡོལ	LCD screen
+གསང-དོན-ཁྱབ-འགྱེད	compromising emanation
+གསང-དོན	privacy
+གསང-བ	confidential
+གསང-འགྲོལ	to decode; decryption; decipherment
+གསང-འདོར	sanitizing
+གསང-ཡིག	cipher text
+གསང-ཡིག-ཁོ-ན-རྒོལ-བ	ciphertext-only attack
+གསང-ཡིག-སྒྲིག-འགོད	set password
+གསང-རྒྱ	confidentiality
+གསང-ལྡེ	key
+གསང-ལྡེའི-རིང-ཚད	key length
+གསང-ཤོར	compromise
+གསང-སྡོམ	encryption; encipherment
+གསང-སྤྲིངས	BCC
+གསང-ཨང	password
+གསང-ཨང-ངེས-པ	remember password
+གསང-ཨང-ངོས-འཛིན	password confirmation
+གསང-ཨང-དབྱེ-ཞིབ-ཀྱི-རྒོལ-བ	cryptanalytical attack
+གསང-ཨང-དབྱེ-ཞིབ	cryptanalysis
+གསང-ཨང-ནང-འཇུག	enter password
+གསང-ཨང-ནུས-མེད	password is invalid
+གསང-ཨང-ནོར-པ	incorrect password
+གསང-ཨང-བཟོ-བཅོས-ལེགས-འགྲུབ-བྱུང-བ	password successfully changed
+གསང-ཨང-བསྐྱར-འཇུག	re-enter password
+གསང-ཨང-མི-མཐུན-བ	password error
+གསང-ཨང-རིག-པ	cryptography
+གསང-ཨང-རིང-ཚད	password length
+གསང-ཨང-རྒྱུད-ཁོངས	cryptographic system
+གསང-ཨང-རྙིང-པ	old password
+གསང-ཨང-ལག-རྩལ	cryptographic techniques
+གསང-ཨང-སྤྲོད	provide password
+གསབ-བཅོས	patch
+གསབ-རྩིས	complementary operation
+གསབ-ཨང	complement
+གསབ-ཨང-ཞབས-གྲངས	complement base
+གསར-བཟོ-བྱེད-མཁན	created by
+གསར-བསྒྱུར-བྱ-དགོས	needs updating
+གསར-བསྒྱུར-རྗེས	after update
+གསར-འགྱུར-ཚོ-ཆུང	news group
+གསར-འདོན-ཕྱོད	refresh rate
+གསར-འདོན	refresh
+གསར-འཛུགས	create new
+གསར-རྙེད-སློབ-སྦྱོང	learning by discovery
+གསར-ཤོས	up-to-date
+གསར-སྒྱུར-གཏན-ནས-མ-བྱེད	never update
+གསར-སྒྱུར-ཐེངས-རྗེས-མ	next update
+གསར-སྒྱུར-དབྱིབས-བཟོ	update dynamics
+གསར-སྒྱུར-མི-བྱ	no update
+གསར-སྒྱུར	update
+གསར-སྣོན	added
+གསར-སྤེལ-རྗེས-ཀྱི-དཔྱད-བརྗོད	post-development review
+གསར-སྤེལ-རྨང-ཐིག	developmental baseline
+གསར-སྤེལ	development
+གསལ-ཆ	sharpness
+གསལ-ཐོ-མཐོང-རིས	list views
+གསལ-ཐོ-ཡིག-དུམ	list field
+གསལ-ཐོ-སྒྲིག-གཅོད	list processing
+གསལ-ཐོ	list
+གསལ-ཐོའི-ནང-དོན	list contents
+གསལ-བཤད-རང-བཞིན-ཤེས-བྱ	declarative knowledge
+གསལ-བཤད	specification; declaration
+གསལ-བསྒྲགས-ཀྱི-ཁྱབ-ཁོངས	scope of a declaration
+གསལ-བསྒྲགས-ཁུལ	declarative region
+གསལ-བསྒྲགས-ཆ-ཤས	declarative part
+གསལ-བསྒྲགས	declarations
+གསལ-བྱང	index
+གསལ-བྱང-ཁུང	index hole
+གསལ-བྱང-གནས-ཡུལ	indexed address
+གསལ-བྱང-གཙོ-བོ	primary index
+གསལ-བྱང-དཀར-ཆག	index content
+གསལ-བྱང-ཕལ-པ	secondary index
+གསལ-བྱང-ཡིག-འབྲུ	index word
+གསལ-བྱང-རིགས-གྲས	index type
+གསལ-བྱང-ལམ	index track
+གསལ-བྱེད-གསལ-ཐོ	alphabet
+གསལ-བྱེད-དང-ཨང-ཀིའི-གཞི-གྲངས	alphanumeric data
+གསལ-བྱེད-དང-ཨང-ཀིའི-ཡིག-རྟགས-ཚོགས-སྤྱི	alphanumeric character set
+གསལ-བྱེད-ཕྲེང	alphabetic string
+གསལ-བྱེད-ཚིག	alphabetic word
+གསལ-བྱེད-ཡིག-རྟགས-ཚོགས-སྤྱི	alphabetic character set
+གསལ-བྱེད-ཨང-སྒྲིག-ཚོགས-སྤྱི	alphabetic coded set
+གསལ-བྱེད	letter
+གསལ-ཚད-ཆེ-གཏོང	increase brightness
+གསལ-ཚད-སྟུང-བ	decrease brightness
+གསལ-ཚད	brightness
+གསལ-འགྲེལ-ཆས-བཀའ-བརྡ	interpreter directive
+གསལ-འདེབས	prompt
+གསལ-ཡིག	plaintext; clear text
+གསལ-ཡིག-བདམས-ནས-རྒོལ-བ	chosen-plaintext attack
+གསལ-ཡིག-རྟོགས-ནས-རྒོལ-བ	known-plaintext attack
+གསལ-སྒྲོན	light
+གསུང-བཤད-ཤལ-རིས	utterance spectrogram
+གསུབ-མི-ཐུབ	cannot delete
+གསེག-གཟུགས	italic
+གསེག-བྲིས	italic
+གསེག-འཁྱོག	skew
+གསོག-ཁུལ	store area
+གསོག-ཆས-ཁུལ-དགར	memory partitioning; storage partitioning
+གསོག-ཆས-གཙང-སེལ-རྩོལ-ནུས	clear memory function
+གསོག-ཆས-གཙོ-བོ	main storage; main memory
+གསོག-ཆས-ཆེ-ཆུང	storage size
+གསོག-ཆས-མཛུབ-སྟོན	memory indication; storage indication
+གསོག-ཆས-ལག-རྩལ	technology of storage devices
+གསོག-ཆས-ཤོང-ཚད	storage capacity
+གསོག-ཆས	storage device
+གསོག-བྱང	memory stick
+གསོག-འཇོག-ཁཱར-རྒྱབ-སྐྱོར	support memory card
+གསོག-སྦུག	storage tube
+གེགས-སྡོད-དུས-ཚོད	down time
+གོ-གཅིག-ཆོད-བརྒྱུད-གཏོང	simplex transmission
+གོ-ཆོད-ཁོངས	scope
+གོ-རིམ-བསྐྱུར-བ	abort sequence
+གོ-རིམ-མེད-པའི-སྐད-བརྡ	nonprocedural language
+གོ-རིམ-འབྲེལ-ཡོད-ཚད	sequential cohesion
+གོ-རིམ-ལྟར-བཅོལ-ལེན	sequential access
+གོ-རིམ-ལྟར-བཤེར-འཚོལ	sequential search
+གོ-རིམ-ཨང-གྲངས	serial number
+གོ-རིམ-ཨང-སྒྲིག	sequence numbering
+གོ-རིམ	sequential
+གོ-རྟགས	title
+གོ-ལོག-སེལ-བ	disambiguation
+གོ-ལྡོག-བརྙན-འཕྲིན	inverse video
+གོ-སྐབས-ཞིབ-འཇུག	opportunity study
+གོ-སྡུར-ཚད	contrast
+གོང-མར-འདོར-འགྲིལ-རྩོལ-ནུས	round-up function
+གོང-མར-འདོར-འགྲིལ	to round up
+གོང-སྤོ	move up
+གོམ-གྲངས	number of steps
+གོམ-དབྱེ-ལག-བསྟར	step-by-step operation
+གོམ-ནས-གོམ-བཀོལ-སྤྱོད	step-by-step operation
+གོམ-མཉམ-དབང-རྩའི-དྲ-རྒྱ	synchronous neural network
+གོམ-མཉམ-བརྒྱུད-གཏོང	synchronous transmission
+གོམ-མཉམ-རྗེས-མའི-ཆད-ས	postamble breakpoint
+གོམ-མཉམ-ལས-བྱ	task synchronization
+གོམ-མཉམ	synchronization
+གོམ-འགལ-དབང-རྩའི-དྲ-རྒྱ	asynchronous neural network
+གོམ-འགལ-བརྒྱུད-གཏོང	asynchronous transmission
+གོམ-འགལ-བརྒྱུད-རིམ	asynchronous procedure
+གོམ-འགལ	asynchronous
+གོམ-རིམ-འབྲེལ-ཡོད-ཚད	procedural cohesion
+གོམ-རྐྱང	single step
+གོམ-རྐྱང-བཀོལ-སྤྱོད	single step operation
+གོམ-རྐྱང-ལག-བསྟར	single-step execution
+གྱེན-རིམ	ascending
+གྱེས-ཐོར-གཞི-གྲངས	discrete data
+གྱེས-ཐོར-དུས-ཚོད-བརྡ-རྟགས	discretely timed signal
+གྱེས-ཐོར-བརྡ-རྟགས	discrete signal
+གྱེས-ཐོར-མཚོན-ཐབས	discrete representation
+གྱེས-ཐོར-རིགས-གྲས	discrete type
+གྱེས-ཐོར	discrete
+གྱེས-རྡུལ-མཉམ-པའི-པང-ལེབ	plasma panel
+གྱོང-གུན	loss
+གྲ-སྒྲིག	prepare
+གྲ-སྒྲིག-མ-བྱས	unprepared
+གྲ-སྒྲིག-ཟིན-པ	ready
+གྲང-ཚིགས	cold site
+གྲང-འཇོག-གསོག-ཆས	cryogenic storage
+གྲང-སློང	cold start
+གྲངས-ཀ	 digital|number; digit 
+གྲངས-ཀ-ནས-ལད-ཟློས-སྒྱུར-ཆས	 DAC|digital-to-analog converter 
+གྲངས-ཀ-མཚོན-ཐབས	digital representation
+གྲངས-ཀའི-གཞི-གྲངས	digital data
+གྲངས-ཀའི-བརྡ-རྟགས	digital signal
+གྲངས-ཀའི-མིང-རྟགས	digital signature
+གྲངས-ཀའི-འོད-སྡེར	digital optical disk
+གྲངས-ཀའི-ཡིག-རྟགས	numeric character
+གྲངས-ཀའི-ཡིག-སྐོགས	digital envelope
+གྲངས-ཀའི-རིགས-གྲས	numeric type
+གྲངས-ཀའི-རྩིས-འཁོར	digital computer
+གྲངས-ཀར-སྒྱུར-ཆས	digitizer
+གྲངས-ཀྱི-མཚོན-ཐབས	number representation
+གྲངས-གནས	digit place; digit position
+གྲངས-ཐང	value; numeric; numerical
+གྲངས-ཐང-གཞི-གྲངས	numeric data
+གྲངས-ཐང-ཆུང-ཤོས	minimal value
+གྲངས-ཐང-ཆེ-ཤོས	maximum
+གྲངས-ཐང-མཚོན-ཐབས	numeric representation
+གྲངས-ཐང-ལྟར-འདོན-སྤྱོད	call by value
+གྲངས-ཐང-སྤྲོད-པ	to bind
+གྲངས-བསྒྱུར-དཔྱད-ཆས	numeric device
+གྲངས-བསྒྱུར-འདྲ-རིས	digitized image
+གྲངས-བསྒྱུར	to digitize
+གྲངས-མཐེབ	numeric keys
+གྲངས-མིང-འདོགས-ཐབས	numeration
+གྲངས-ཚད	quantity
+གྲངས-ཚོ-སྒྲིག-གཅོད-ཆས	array processor
+གྲངས-ཚོ	array
+གྲངས-ཚོགས-ཚན-དུམ	array slice
+གྲངས-ཚོགས-རིགས-གྲས	array type
+གྲངས-འགོད-ཐབས	notation
+གྲངས-འབྲེལ-སྟངས-འཛིན	numerical control
+གྲངས-འཛིན-པར-ཆས	digital camera
+གྲངས-འཛིན-ས-ཡིག-བཀོད-མེད-པ	not digitally signed
+གྲངས-རིག	math
+གྲངས-རིག-ཕྱོགས-བསྡུས-ཐབས	mathematical induction
+གྲངས-རིག-རྩིས-རྒྱག-མཚོན-རྟགས	mathematic symbol
+གྲངས-རིམ-རིགས-གྲས	ordinal type
+གྲངས-རྟགས	numbers
+གྲངས-ལུགས-གཏན-ཚིགས	mathematical logic
+གྲངས-ལུགས	numeration systems
+གྲངས	numbers
+གྲབས-ཉར-ཡིག-ཆ	backup file
+གྲབས-ཉར-རྙིང-པ	old backup
+གྲབས-ཉར-སྒྲིག-རིམ	backup procedure
+གྲབས-ཉར	backup
+གྲམ-ཚད	spread prevarication
+གྲལ-རྐྱང	single line
+གྲལ-རྗེས-མ	line down
+གྲལ-སྒྲིག	queue
+གྲིབ-ནག	shading
+གྲིབ-ནག-འཇམ-པོ	smooth shading
+གྲུ-བཞི	rectangle
+གྲུབ-མཐུན-རྩིས-འཁོར-དྲ-རྒྱ	homogeneous computer network
+གྲུབ-ཟིན-པ	completed
+གྲུབ-འགལ-རྩིས-འཁོར-དྲ-རྒྱ	heterogeneous computer network
+གྲུབ-འབྲས	effect
+གྲོང-ཁྱེར	city
+གྲོས-མཐུན-ལ-ཁས-ལེན	accept the agreement
+གྲོས-མཐུན	protocol
+གྲོས-འཆར-ངོས-ལེན-ཐབས	advice taking
+གྲོས-འཆར-སྒྲིག-འགོད	suggested setting
+གྲོས-འཆར	suggest
+གྲོས-རིམ	agenda
+གླིང-ཕྲན	island
+གླིང-ཡོངས-ཀྱི-གནས-ཡུལ-དོ-དམ	global address administration
+གླེང-གཞི-ཆད-ས	preamble breakpoint
+གླེང-མོལ-བྱེད-སྟངས	conversational mode
+གླེང-མོལ-ལྷུ-ཆས	dialog component
+གླེང-མོལ-སྐད-བརྡ	conversational language
+གླེང-མོལ	session
+གླེང-སྒྲོམ-ཁ-བྱང	dialog title
+གླེང-སྒྲོམ-མིང	dialog name
+གླེང-སྒྲོམ	dialog box
+གློག-ཁུངས-ཀྱི-སྐྱོན	power switch failure
+གློག-ཁུངས-དཔེ-རྣམ	power mode
+གློག-ཁུངས-དོ-དམ	power management
+གློག-ཁུངས-མཐུད-པ	plugged in
+གློག-ཁུངས-མཐེབ-གཅུས	power buttons
+གློག-ཁུངས-འཇལ-ཆས	power meter
+གློག-ཁུངས-འཚམ-སྒྲིག-ཆས	power switch adapter
+གློག-ཁུངས-རྣམ-པ	power status
+གློག-ཁུངས-སྡེབ-སྒྲིག-བྱ-རིམ	power configurator
+གློག-ཁུངས	power
+གློག-གསོག-སྒང	charging
+གློག-དེབ-ལྟ-ཀློག	read electronic book
+གློག-བསད	power off
+གློག-བསྲི-སྟངས	power save mode
+གློག-ཡིག	electronic mail
+གློག-ཡིག-གནས-ཡུལ	e-mail address
+གློག-ཡིག-གསར-འཛུགས	create new e-mail
+གློག-ཡིག-ལན-བརྡ	electronic messaging
+གློག-ཡིག-སྦྲག-སྒམ	electronic mailbox
+གློག-རྒྱུན-བསྐྱར-སྡེབ-འདེམས-ཐབས	coincident-current selection
+གློག-རྡུལ-གཞི-གྲངས-བརྗེ-རེས	electronic data interchange
+གློག-རྡུལ-དཔར-སྐྲུན	electronic publishing
+གློག-རྡུལ-དཔེ-ཆ	electronic book
+གློག-རྡུལ-ཡིག-ཆ-བརྗེ-བ	electronic document interchange
+གློག-རྡུལ-ཡིག-ཚགས	electronic archive
+གློག-རྡུལ-རེའུ-མིག	spreadsheet
+གློག-རྡུལ-རེའུ-མིག-བྱ-རིམ	spreadsheet program
+གློག-ལམ-བརྗེ-བ	circuit switching
+གློག-ལམ-ཚབ-ཨང	line code
+གློག-ལམ	circuits
+གློག-སྨན-གྱི-ཐ-ཚིག-ཚབས-ཆེན	critical battery alarm
+གློག-སྨན-གློག-ཁུངས-རྩིས-ཆས	battery-powered calculator
+གློག-སྨན-ཟད-བརྡ	low battery alarm
+གློག-སྨན-རྣམ-པ	battery status
+གློག-སྨན-སྤྱོད-པ	use batteries
+གློག-སྨན	battery
+གློད-གྲོལ	free
+ངག-ཐོག-བཀའ	spoken command
+ངག-ཐོག-འདེམས-བྱང	spoken menu
+ངའི-ཡིག-ཁུག	my briefcase
+ངའི-རྩིས-འཁོར	my computer
+ངར-སློང	to fire
+ངེས-མཁོ-མཐུད-རྟགས	required hyphen
+ངེས-མེད-ཚད	uncertainty
+ངེས-ཚེག-ཁག	fixed-point part
+ངེས-ཚེག-མཚོན-ལུགས	fixed-point representation system
+ངོ-བཤུས-གཏོང-ཡུལ	CC to
+ངོ-བཤུས	CC
+ངོ-འཛིན-དཔེ-བཟོ	cognitive modeling
+ངོ-འཛིན	identify
+ངོ-རྟགས-ངོས-འཛིན	identity validation
+ངོ-རྟགས-ཆ-འཕྲིན	identification info
+ངོ-རྟགས-དབང-རྟགས	identity token
+ངོ-རྟགས-ར-སྤྲོད	identity authentication
+ངོ-རྟགས-སྒྲིག-པ	list identifier
+ངོ-རྟགས	identifier
+ངོས-གཉིས-པར-འདེབས	duplex printing
+ངོས-གཉིས	double-sided
+ངོས-འཛིན-བྱེད-རུང-བ	confirmability
+ངོས-འཛིན-མི-ཐུབ-པ	non-affirmation
+ངོས-འཛིན-ཚོད-ལྟ	validation test
+ངོས-འཛིན	acknowledgment; affirmation
+ངོས-ལེན-ཚོད-ལྟ	acceptance test
+ངོས-ལེབ-རི-མོ-འབྲི-ཆས	flatbed plotter
+ངོས-ལེབ	panel
+ཅམ-བཞག	drop
+ཅུང-ཕྲ	slender
+ཅུང-སྒྲིག	adjusting
+ཅོག-ངོས-ཉེར-སྤྱོད-བྱ-རིམ	desk application
+ཅོག-ངོས-དཔེ-སྐྲུན	desktop publishing
+ཅོག-ངོས-ཞིབ-བཤེར	desk checking
+ཅོག-ངོས-ཡིག-ཆ	desktop file
+ཅོག-ངོས-ལག-ཆའི-ཚན-བྱང	desktop toolbar
+ཅོག-ངོས	desktop
+ཆ-གཏད-ལུགས-རྩིས	dual operation
+ཆ-བགོས-བྱ-རིམ	dispatcher
+ཆ-བགོས	to dispatch
+ཆ-བསགས-རྩིས-ཆས	integrator
+ཆ-མཚུངས-དྲ-རྒྱ	peer-to-peer network
+ཆ-མཚུངས-པ	same
+ཆ-ཚང	all; full; entire
+ཆ-ཚང-གནས-འགྲིལ	complete carry
+ཆ-ཚང-ཉར	save all
+ཆ-ཚང-ཕྱིར-འཐེན	revoke all
+ཆ-ཚང-ཚོད-འཛིན	full control
+ཆ-ཚང-ཡང-དག-པ	total correctness
+ཆ-ཚད-ངོ-མ	actual size
+ཆ-ཚད	dimensions
+ཆ-འགྲིག-གསང-ཡིག-ལག-རྩལ	symmetric cryptography
+ཆ-འགྲིག-གསལ-ཐོ	symmetrical list
+ཆ-འཕྲིན-གནད-བསྡུས	summary info
+ཆ-འཕྲིན-གཞན-དག	additional information
+ཆ-འཕྲིན-ཐོན-ཁུངས	information resource
+ཆ-འཕྲིན-དབྱེ-ཞིབ	information analysis
+ཆ-འཕྲིན-དོ-དམ	information management
+ཆ-འཕྲིན-ནང-དོན	information content
+ཆ-འཕྲིན-པི-ཐེ	information bit
+ཆ-འཕྲིན-ཕྱོད	information rate
+ཆ-འཕྲིན-བྱ-ཡུལ	information object
+ཆ-འཕྲིན-མངོན-སྟོན-བྱེད	display information
+ཆ-འཕྲིན-མཚོན-སྟངས	information representation
+ཆ-འཕྲིན-མཛོད	information base
+ཆ-འཕྲིན-འཇལ-ཚད	measure of information
+ཆ-འཕྲིན-འབྲེལ-ཡོད-ཚད	informational cohesion
+ཆ-འཕྲིན-འཚོལ-ལེན	information retrieval
+ཆ-འཕྲིན-ཡོང-ཁུངས	information source
+ཆ-འཕྲིན-རིག-པ	information theory
+ཆ-འཕྲིན-རིགས-དགར	classification of information
+ཆ-འཕྲིན-རྒྱུད-ཁོངས	information system
+ཆ-འཕྲིན-ལམ-ཆེན	highway
+ཆ-འཕྲིན-སྒེའུ-ཁུང	info window
+ཆ-འཕྲིན-སྒྲིག-གཅོད-རྒྱུད-ཁོངས	information processing system
+ཆ-འཕྲིན-སྒྲིག-གཅོད	information processing
+ཆ-འཕྲིན-སྤོ-ཚད	transinformation content
+ཆ-འཕྲིན-སྦེད-པ	information hiding
+ཆ-འཕྲིན	information
+ཆ-ཡ-དག-བཤེར	parity
+ཆ-རྐྱེན-ཁྲོབ	conditional entropy
+ཆ-རྐྱེན-བརྗོད-ཚིག	conditional statement
+ཆ-རྐྱེན-མཚོན-ཚུལ	conditional expression
+ཆ-རྐྱེན-མེད-པའི-འཕར-སྤོ	unconditional jump
+ཆ-རྐྱེན-འགྲུབ-གཞི	conditional construction
+ཆ-རྐྱེན-འཕར-སྤོ	conditional jump
+ཆ-རྐྱེན-ལ-མ-ལྟོས-པའི-བརྗོད-ཚིག	unconditional statement
+ཆ-རྐྱེན-ལ-ལྟོས-པའི-ཆ-འཕྲིན-ནང-དོན	conditional information content
+ཆ-རྐྱེན	condition
+ཆ-ཤས-གནས-འགྲིལ	partial carry
+ཆ-ཤས-ཡང-དག-པ	partial correctness
+ཆ-ཤས	local
+ཆ-སྙོམས-ཁྲོབ	mean entropy; average information content
+ཆ-སྙོམས-གྲངས-ཐང	average
+ཆ-སྙོམས-ཆ-འཕྲིན-ནང-དོན	average information content
+ཆ-སྙོམས-ཆ-འཕྲིན-ཕྱོད	average information rate
+ཆ-སྙོམས-དུས-ཚོད	mean time
+ཆ-སྙོམས-ཕྱོད-ཀྱི-ཞིབ-གཙིགས-ཚད	mean rate accuracy
+ཆ-སྙོམས-བཅོལ-ལེན-དུས-ཚོད	mean access time
+ཆ-སྙོམས-རྐྱེན-ལྡན-ཆ-འཕྲིན-ནང-དོན	average conditional information content
+ཆ-སྙོམས-ལམ-འཚོལ-དུས-ཚོད	average tracing time
+ཆ-སྙོམས-སོར-ཆུད-དུས-ཚོད	mean time to repair
+ཆ-སྙོམས-སྐྱོན-མེད-ལས-ཀའི-དུས-ཚོད	mean time between failures
+ཆ-སྙོམས-སྤོ-སྒྱུར-ཆ-འཕྲིན-ཕྱོད	average transinformation rate
+ཆ-སྙོམས-སྤོ-སྒྱུར-ཆ-འཕྲིན-ཚད	mean transinformation content
+ཆ-སྙོམས-སྤོ-སྒྱུར-ཆ-འཕྲིན	average transinformation
+ཆག-གྲུགས-ཞིབ-བཤེར-སྤྱོད-པ	enable fragmentation checking
+ཆག-གྲུགས-ལེགས-སྒྲིག	defragment
+ཆག-གྲུགས-ལེགས-སྒྲིག-བྱ-རིམ	defragmentator
+ཆག-གྲུགས	fragments
+ཆད-པ	disconnected
+ཆུ-ཚོད-བཅོལ-ཆས	clock register
+ཆུ-ཚོད-བརྡ-རྟགས	clock signal
+ཆུ-ཚོད-འཁོར-ཡུན	clock period
+ཆུ-ཚོད-རྩ-འཕར	clock pulse
+ཆུ-ཚོད-ལམ	clock track
+ཆུ-ཚོད-ཨ-མ	master clock
+ཆུ-ཚོད	clock
+ཆུ-ཚོན	watercolor
+ཆུ-སྙོམས-ཆེ-ཆུང	horizontal size
+ཆུ-སྙོམས-ཐིག-རིས	horizontal line
+ཆུ-སྙོམས-ཐིག-ཤིང	horizontal ruler
+ཆུ-སྙོམས-དཀྱིལ-འགྲིག	horizontally
+ཆུ-སྙོམས-ཕྱོགས-ཀྱི-འགྲིལ-བྱང	horizontal scroll bar
+ཆུ-སྙོམས-ཕྱོགས	horizontal direction
+ཆུ-སྙོམས-འགྲིལ-མདའ	horizontal
+ཆུ-སྙོམས-རེའུ-འགོད	horizontal tabulation
+ཆུ-སྙོམས-རྣམ-གཞག-ཅན	horizontal formatting
+ཆུ-སྙོམས-ལེགས-སྒྲིག	horizontal resize
+ཆུ-སྙོམས-སྙོམས-གཤིབ	horizontal align
+ཆུ-སྙོམས-སྙོམས-འགྲེལ	tile horizontally
+ཆུ-སྙོམས-སློག-འཁོར	flip horizonal
+ཆུ-སྙོམས	horizontal
+ཆུང-དུ-གཏོང	zoom out
+ཆུང-བའམ-མཚུངས-པ	less than or equal
+ཆུང-བྲིས-གསལ-བྱེད	lower letter
+ཆུང-བྲིས	lower
+ཆུང-འགྱུར-མཐེབ-གཅུས	minimizing button
+ཆུང-འགྱུར-སྒེའུ-ཁུང	minimizing window
+ཆུང-འགྱུར	minimize
+ཆུང-ཤོས	minimal
+ཆེ-ཆུང	size
+ཆེ-ཆུང-ལེགས-སྒྲིག	adjust size; resize
+ཆེ-བའམ-མཚུངས-པ	greater than or equal
+ཆེ-ཤོས	maximum
+ཆེ-སྒྱུར-མཐེབ-གཅུས	maximizing button
+ཆེ-སྒྱུར	maximize
+ཆེད-སྤྱོད	dedicated
+ཆེར-གཏོང	zoom in
+ཆེས-ཆེན	extra large
+ཆེས-ཕྲ	thinner
+ཆེས-སྦོམ	strong
+ཆོག	OK; allow
+ཆོག-འཐུས-བཀོལ-སྤྱོད	permissible action
+ཆོག-འཐུས-རྒྱུན-རྣམ-འདས-གནོན-ཆེ-ཤོས	maximum allowable normal mode over voltage
+ཆོག-འཐུས-སྤྱི-རྣམ-འདས-གནོན-ཆེ-ཤོས	maximum allowable common mode overvoltage
+ཆོད-སྡོམ	qualification
+ཇུས-གཞི	scheme
+ཇུས-འགོད-སྐད-བརྡ	design language
+ཉན-ཆས	headset
+ཉན	listen
+ཉམས-ཞན	vulnerability
+ཉར-གསོག	save; storing
+ཉར-གསོག-གཞི-རྒྱུ	storage element
+ཉར-གསོག-དོ-དམ	storage management
+ཉར-གསོག-བར-རྫས	storage medium
+ཉར-གསོག-བརྒྱུད-གཏོང	store-and-forward
+ཉར-གསོག-བརྡ-འཕྲིན-ཉེན-བརྡ-ཞབས-ཞུ	stored message alert service
+ཉར-གསོག-བརྡ-འཕྲིན-ཐོ-འགོད-ཞབས-ཞུ	stored message listing service
+ཉར-གསོག-བརྡ-འཕྲིན-སྡོམ-རྩིས-ཞབས-ཞུ	stored message summary service
+ཉར-གསོག-ཤོང-ཚད	storage capacity
+ཉར-གསོག-སྒྲིག-གཞི-སྐད-བརྡ	storage structure language
+ཉར-གསོག-སྒྲིག-འཛུགས	storage organization
+ཉར-གསོག-སྡེ-ཚན	storage cell
+ཉར-གསོག-སྲུང-སྐྱོབ	storage protection
+ཉར-བ	keep
+ཉར-མི-འདུག	not saved
+ཉར-ཚགས-བྱེད-མ-ཐུབ	failed to save
+ཉར-ཚགས-རྣམ-གཞག	save form
+ཉར-ཚགས	 to archive|save 
+ཉར-ཡུན	retention period
+ཉར-ས	storage location
+ཉིང-ལྷེབ-ཕྲ-མོ	microchip
+ཉིང-ལྷེབ-ཚོགས	chip group
+ཉིང-ལྷེབ	chip
+ཉིན-ཐོ-ཡིག-ཆ	log file
+ཉིན-ཐོ	log
+ཉིན-རེ	daily
+ཉིན-རེའི-གྲབས-ཉར	daily backup
+ཉིས-ཐིག	double line
+ཉིས-བགོད-ཐབས-བཤེར-འཚོལ	dichotomizing search
+ཉིས-རྡེབ	double click
+ཉེ-ཁོངས	adjacent domains
+ཉེ-ཆར-ཉར-ཚེས	last saved date
+ཉེ-ཆར-ཕྱེ-བའི-ཡིག-ཆ	recent opened file
+ཉེ-ཆར-བྲིས-པའི-དུས-ཚོད	last write time
+ཉེ-མཚམས-ཁུལ	critical section
+ཉེ-མཚེས-ཚིགས-ཚེག	adjacent nodes
+ཉེ-ཚུགས-བརྡ-ཐོ	neighbor notification
+ཉེ-འབྲེལ-ཚིག-ཤན-འབྱེད	contiguous-words recognition
+ཉེན-ཁ	risk
+ཉེན-གཏོང-ས-ཚིགས	beaconing station
+ཉེན-དོན-དབྱེ-ཞིབ	risk analysis
+ཉེན-དོན-ཚོད-སྐོར	risk assessment
+ཉེན-འགན-ངོས-ལེན	risk acceptance
+ཉེར-སྤྱོད-གནད-དོན	application problem
+ཉེར-སྤྱོད-བསྟར-རིམ	utility routine
+ཉེར-སྤྱོད-བྱ-རིམ-ཐོན-ཁུངས	application resource
+ཉེར-སྤྱོད-བྱ-རིམ-ལག-བསྟར-བྱེད-པ	run application
+ཉེར-སྤྱོད-བྱ-རིམ-སྐྱེད-སྒྲུབ-ཆས	application generator
+ཉེར-སྤྱོད-བྱ-རིམ	utility program; application program
+ཉེར-སྤྱོད-མཉེན-ཆས	application software
+ཉེར-སྤྱོད-རིགས-གྲས	applying type
+ཉེར-སྤྱོད	applications
+ཏག-སེ	solitaire
+ཏག-སེའི-རོལ-རྩེད	card game
+ཐ-ཚིག	warning
+ཐ-སྙད-སྟོན-འཛིན	word spotting
+ཐག-གཅོད-ནང-དོན	decision content
+ཐག-གཅོད-རིམ-པ	decision layer
+ཐག-གཅོད-རེའུ-མིག	decision table
+ཐག-རིང-སྲུང-སྐྱོང	telemaintenance
+ཐག-རྐྱང-ཐགས-ཡངས-ཁྱབ-ཆུང-དྲ-རྒྱ	single-cable broadband lan
+ཐགས-ཅན-པར-འཁོར	band［belt］printer
+ཐགས-ཕྲེང	tape row; tape frame
+ཐགས-མདའ	tape spool; hub
+ཐགས-ཞེང	bandwidth
+ཐགས-ཡངས-ཁྱབ-ཆུང-དྲ-རྒྱ	broadband lan
+ཐགས-ཡངས	broadband; wideband
+ཐང	entity occurrence
+ཐང-གང-རུང	any value
+ཐང-གཉིས	binary
+ཐང-འབེབས-ཡོ-ཆས	valuator
+ཐང-སྤྲད-བརྗོད-ཚིག	assignment statement
+ཐང-སྤྲད	assignment
+ཐད-ཀའི-གནས-ཡུལ	direct address
+ཐད-ཀའི-བཀའ-བརྡ	direct instruction
+ཐད-ཀར-གསོག-ཆས-ལ-བཅོལ-ལེན-བྱེད-པ	direct memory access
+ཐད-ཀར-བཅོལ-ལེན	direct access
+ཐད-ཀར-བརྒྱ-ཆའི-ནུས-པ	direct percentage function
+ཐད-ཀར-འབོད-པའི-དགོས-ཆས	direct call facility
+ཐད-ཀར-རིམ-ལོག	directly recursive
+ཐད-ཀར-སྤྲོད-པ	direct submission
+ཐད-ཀར	direct
+ཐད-མཐོང	visual
+ཐད-འབྲེལ-བྱ-རིམ-ཇུས-འགོད	straight line coding
+ཐད-འབྲེལ-བྱ-རིམ	straight line coding
+ཐལ-སྐྱ	light gray
+ཐིག-གཤིས-གསལ-ཐོ	linear list
+ཐིག-གཤིས-བཤེར-འཚོལ	linear search
+ཐིག-གཤིས-སྔོན-དཔག-ཨང-སྒྲིག	linear prediction coding
+ཐིག-གཤིས	linear
+ཐིག-དབྱིབས-དྲ-རྒྱ	linear network
+ཐིག-ཕྲེང	ruler line; thread
+ཐིག-འདེབས-རིས-དབྱིབས	line graphics
+ཐིག-རིས-ཁྲ-རིས	texture mapping
+ཐིག-རིས-ཚབ-ཨང	bar code
+ཐིག-རིས	line
+ཐིག-ཤིང-མངོན-སྟོན-བྱེད	show ruler
+ཐིག-སུབས	delete line
+ཐིག-སྒྲོམ-དཔེ-བཟོ	wireframe modeling
+ཐིག-སྒྲོམ-མཚོན-སྟངས	wire frame representation
+ཐིར-ལྡན-ཆུ-ཚོད	alarm clock
+ཐུག-ཐོན-གློག-ལམ	trigger circuit
+ཐུག-ཐོན	to trigger
+ཐུག-རེག-བརྙན-ཡོལ	touch screen
+ཐུམ-ཅན-མཐའ-སྣེ	packet mode terminal
+ཐུམ-པོ-བརྒྱུད-སྐྱེལ-བྱེད-སྟངས	packet transfer mode
+ཐུམ-པོ-བརྗེ-བ	packet switching
+ཐུམ-པོ-རིམ-སྒྲིག	packet sequencing
+ཐུམ-པོ-སྒྲིག-བཤིག-ཡོ-ཆས	packet assembler/disassembler
+ཐུམ-པོ	packet
+ཐུམ-བརྒྱུད-སྤྲོད-ཕྱོད	packet transferring rate
+ཐུམ-བུའི-གསལ-བསྒྲགས	package declaration
+ཐུམ-མ-བརྒྱབ-པའི-བཅུ-འགྲིལ-ལུགས-ཀྱི-མཚོན-ཐབས	unpacked decimal notation
+ཐུམ-རྒྱག-བཅུ-འགྲིལ-ལུགས-ཀྱི-མཚོན-ཐབས	packed decimal notation
+ཐུར-གཏད-མདའ-རྩེ	down arrow
+ཐུར-རིམ	descending
+ཐེག-བརྒལ	to overload
+ཐེངས-མང-ངར-སློང	multiple firing
+ཐེངས-སྔ-མའི-གསར-སྒྱུར-ཚེས-གྲངས	last updated date
+ཐེངས-སྔ-མའི-བཟོ-བཅོས-དུས-ཚོད	last modified time
+ཐེངས-སྔོན-མའི-གསར-སྒྱུར	last update
+ཐེམ-སྒྱུར-རྩོལ-ནུས	factorial function
+ཐེམ	factorial
+ཐེར-ལེབ	flat
+ཐེལ-ཙེ	stamp
+ཐོ-འགོད-རེའུ-མིག	registry table
+ཐོ-འགོད-སྟུག-ཚད	recording density
+ཐོ-འགོད	register
+ཐོ-འཇུག	logon; login; register
+ཐོ-འཇུག-ཆས	logger
+ཐོ-འཇུག-ཐོབ-ཐང	log on as
+ཐོ-འཇུག-པའི-མིང	logon name
+ཐོ-འཇུག-ཕམ-ཉེས	login failure
+ཐོ-འཇུག-བྱས-མེད	not logged on
+ཐོ-འཇུག-ཟློག-པ	logon denied
+ཐོ-འདོར	to log off; to log out
+ཐོ-འབུད	log out
+ཐོ-རང-འཇུག	automatic logon
+ཐོ-རྒྱག-དོ-དམ	accounting management
+ཐོ-སྒྲོམ	list box
+ཐོ-སྲུང	protect record
+ཐོག-མ	origin
+ཐོག-མའི-གནས-ཡུལ	start address
+ཐོག-མའི-གསང-ཨང	initial password
+ཐོག-མའི-གྲངས-ཐང	initial value; original value
+ཐོག-མའི-ཆ-རྐྱེན-གནས-སྟངས	initial condition mode
+ཐོག-མའི-ཆེ-ཆུང	original size
+ཐོག-མའི-བྱ-རིམ-སྣོན-འཇུག	initial program load
+ཐོག-མའི-བྱ-རིམ-སྣོན-འཇུག-ཆས	initial program loader
+ཐོག-མའི-བྱ-རིམ	initial program
+ཐོག-མའི-ཟླ-ཚེས	start date
+ཐོག-མའི-ཡིག-ཆ	original file
+ཐོག-མའི-སྐད-བརྡ	initial language
+ཐོག-མའི-སྣེ-ཁྲིད-བྱ-རིམ	bootstrap loader
+ཐོག-མར-གཏོང-བ	origination
+ཐོད	top
+ཐོན-ཁུངས-དོ-དམ-ཆས	explorer
+ཐོན-ཁུངས-བཤར-ཆས	asset browser
+ཐོན-ཁུངས	resource
+ཐོན-ཚུལ-གྱི-རྒྱུད-ཁོངས	production system
+ཐོན-རྫས-ཁག-ཐེག	product assurance
+ཐོན-རྫས-དཔེ-བཟོ	product modeling
+ཐོན-རྫས	product
+ཐོན-སྐྱེད-བཟོ-གྲྭ	manufacturer
+ཐོན-སྐྱེད-འཆར-གཞིའི-ཚོད-འཛིན-རྒྱུད-ཁོངས	production planning control system
+ཐོན-སྐྱེད-སྒྲིག-སྲོལ	production rule
+ཐོབ-ཐང-བརྟག-པ	authentication
+ཐོབ-ཐང-ར-སྤྲོད-མ-བྱས-པའི-ལྟ-སྤྱོད	unauthenticated access
+ཐོབ-པ	acquired
+ཐོར-སྦྲེལ-དྲ-རྒྱ	diluted network
+ད-གནས-བར-དུ-པར-འདེབས-པ	print to current position
+ད-མཐུད-ད-སྤྱོད	plug-in
+ད-ཡོད-ཡིག-ཆ	existing file
+ད-ལྟ-ཐོ-འགོད-བྱེད-པ	sign up now
+དཀའ-གནད-བཀྲོལ-བ	troubleshoot
+དཀར-ཆག	directory
+དཀར-ཆག-གཙོ-བོ	home directory
+དཀར-ཆག-གི-མིང	directory name
+དཀར-ཆག-ཆ-ཚང	entire directory
+དཀར-ཆག-ཆ-འཕྲིན-མཛོད	directory information base
+དཀར-ཆག-ཆ-འཕྲིན-སྡོང-འགྲེམས	directory information tree
+དཀར-ཆག-དེ-ཁ-འབྱེད	open the directory
+དཀར-ཆག-དོ-དམ-ཁོངས	directory management domain
+དཀར-ཆག-བཟོ	create directory
+དཀར-ཆག-མ-ལག	directory system
+དཀར-ཆག-མ-ལག-ལས-ཚབ	directory system agent
+དཀར-ཆག-མིང	directory name
+དཀར-ཆག-རྩ-བ	root
+དཀར-ཆག-སྒྲིག-པ	to catalog
+དཀར-ཆག-སྒྲིག-འགོད	directory settings
+དཀར-ཆག-སྡོང-འགྲེམས	directory tree
+དཀར-ཆག-སྤྱོད-མཁན-གྱི-ལས-ཚབ	directory user agent
+དཀར-ཆག-སྤྱོད-མཁན	directory user
+དཀར-ནག	black & white
+དཀར-ནག-རིས-འབྲི	BW drawing
+དཀར-པང	whiteboard
+དཀར-པང-ཁ-འབྱེད	open the whiteboard
+དཀར-པོ	white
+དཀྱིལ-གྱི-གྲངས-ཐང	median
+དཀྱིལ-དུ-སྙོམ-སྒྲིག	align to center
+དཀྱིལ-སྒྲིག	to center
+དཀྲི-བ	wraparound
+དཀྲུག-པ	to scramble
+དཀྲུག-སེལ	to descramble
+དག-ཆ-བཤེར-ཆས	spelling checker
+དག-ཆ-ཞིབ-བཤེར-བྱ-རིམ	spelling checker; spellchecker
+དག-ཆ-རང-བཤེར-ཆས	automatic spelling checker
+དག-བཅོས-ཉམས-གསོ	corrective maintenance
+དག-ཚད-རང-བཞིན	accuracy
+དག-ཚད	accuracy
+དག-ཡིག-སྡེ-ཚན	lexical unit; lexical token
+དགར-འགྲེམས-ཞིབ-ཐོ	distribution list
+དགར-སྐྱེད	splitting
+དགུ-ཟུང-གསབ-ཨང	nines complement; complement on nine
+དགུ-འཕྲད-གནས-འགྲིལ	standing-on-nines carry
+དགེ-ཕྲུག-༼རྣམ-པའི-༽ཐབས-ཇུས	learning-apprentice strategy
+དགོས-ཆས	facilities
+དགོས-མཁོ-གསལ-བཤད-སྐད-བརྡ	requirement specification language
+དགོས-མཁོ-དབྱེ-ཞིབ	requirements analysis
+དགོས-མཁོ	requirement
+དགོས-འདུན-གཏོགས-གཤིས	request attributes
+དགོས-འདུན-ཞབས-ཞུ	service requested
+དགོས-འདུན-ལྟར-ཤོག-ལྷེ-འདྲེན-པ	demand paging
+དང	and
+དང-ཐོག-གཏོང-མཁན	originator
+དངུལ-རྟགས	currency symbol
+དངུལ-ལོར	currency
+དངོས-གནས-གསོག-ཆས	real storage
+དངོས-གཞི-ངོ-རྟགས	entity identification
+དངོས-གཞི	entity
+དངོས-གཞིའི-འཇིག-རྟེན	entity world
+དངོས-གཞིའི-འབྲེལ-བ	entity relationship
+དངོས-གཞིའི-རིགས	entity class
+དངོས-གཟུགས-དབྱིབས-བཟོ	solid modeling
+དངོས-གྲངས-རིགས-གྲས	real type
+དངོས-གྲངས	real number
+དངོས-ཐང-རེའུ-མིག	truth table
+དངོས-དཔེ	instance
+དངོས-དཔེའི-བར-སྟོང	instance space
+དངོས-དཔེར-བརྟེན-པའི-སློབ-སྦྱོང	instance-based learning
+དངོས-བརྒྱུད-སྤྱོད-མཁན	direct user
+དངོས-འདྲའི-ལྡོག-དཔེ	near-miss
+དངོས-རྒྱུ	actual argument
+དངོས-ལུགས-ཀྱི-ལྟ-སྤྱོད-ཚོད-འཛིན	physical access control
+དངོས-ལུགས-གནས-ཡུལ	physical address
+དངོས-ལུགས-ཐོ-འགོད-སྟུག-ཚད	physical recording density
+དངོས-ལུགས-དཔེ-རྣམ	physical schema
+དངོས-ལུགས-ནང-གསོག	physical memory
+དངོས-ལུགས-བརྡ-རྟགས-སྒྲིག-གཅོད-བུ-རིམ	physical signaling sublayer
+དངོས-ལུགས-ཟིན-ཐོ	physical record
+དངོས-ལུགས-རིམ-པ	physical level
+དངོས-ལུགས-སྐྱེལ-བ	physical delivery
+དངོས-ལུགས-སྐྱེལ-བའི-ནང-མཐུད-སྡེ-ཚན	physical delivery access unit
+དངོས-ལུགས-སྐྱེལ-བའི-རྒྱུད-ཁོངས	physical delivery system
+དངོས-ལུགས-སྨྱན-གཟུགས-སྦྲེལ-མཐུད-བུ-རིམ	physical medium attachment sublayer
+དངོས-ལྗོངས	scene
+དངོས-ལྡན-ཞུགས-གྲངས	actual parameter
+དངོས-སུ-གསལ-བཤད	formal specification
+དངོས-སུ-ལེན-མཁན	actual recipient
+དངོས-སྣང-སྒྲ	stereo
+དངོས-སྤྱོད-ཚོད-ལྟ	fitness-for-use test
+དད-པ	belief
+དཔང-ཡིག	certificate
+དཔང-རྟགས	credentials
+དཔར-གྲངས	copies
+དཔར-འདེབས-དབྱུག-མདའ	type bar; print bar
+དཔར-རྒྱ	printing size
+དཔེ-གཞི	instance
+དཔེ-གཞིར-བརྟེན-པའི-སློབ-སྦྱོང	case-based learning
+དཔེ-དངོས-སློབ-སྦྱོང	learning from examples
+དཔེ-དབྱིབས-ལ-བརྟེན-པའི-མཁས-པ-རྒྱུད-ཁོངས	model-based expert system
+དཔེ-དབྱིབས-ལ-བརྟེན-པའི-རྒྱུད-ཁོངས	model-based system
+དཔེ-དབྱིབས-ལྟོས-པའི-འདྲེས-གྲུབ	model-based synthesis
+དཔེ-དབྱིབས-སྐུལ-འདེད-རིགས-འདེད	model-driven inference
+དཔེ-དུམ-ཅན-གྱི-བྱ-རིམ-ཇུས-འགོད	modular programming
+དཔེ-དུམ-ཅན	modularizing
+དཔེ-དུམ-རང-བཞིན	modularity
+དཔེ-དུམ-རེའུ-མིག	modular table
+དཔེ-དུམ	module
+དཔེ-དེབ	book
+དཔེ-པང	template
+དཔེ-པང-ཟླ-སྒྲིག	template matching
+དཔེ-བཏུ	to sample
+དཔེ-མཚོན-ཡིག-ཆ	sample file
+དཔེ-མཚོན-སྒྲིག-འགོད	typical settings
+དཔེ-མཚོན	examples; templates; typical
+དཔེ-འཛར	bookmark
+དཔེ-རིས-ཀྱི-གྲངས-གཞི	chart data
+དཔེ-རིས-ཀྱི-འདེམས-ཚན	chart options
+དཔེ-རིས-ཀྱི-ཡིག-གཟུགས	chart fonts
+དཔེ-རིས	chart
+དཔེ-རྣམ-ཟླ-སྒྲིག	pattern matching
+དཔེ-རྣམ-ཤན-འབྱེད	pattern recognition
+དཔེ-རྣམ-སྦྱོང-བརྡར	pattern training
+དཔེ-རྣམ	schema
+དཔེ-ལད	simulation
+དཔེ-སྒྲུག-རྒྱུན-སྲུང-ལྷུ-ཆས	sample-and-hold device
+དཔེ-སྟོན	instantiation
+དཔྱང-སྡོད	hover
+དཔྱད-གཞི	reference
+དཔྱད-འཇལ	detect
+དཔྱད-ཡིག-ཁུག-མ	material folder
+དཔྱད-ལེན-མིན-པ	non-disjunction
+དཔྱད-ལེན	disjunction
+དབང-ཚད-བཟོ-བཅོས	change permission
+དབང-ཚད	permission
+དབང-རྟགས	ticket
+དབང-རྩ-ཉིང-ལྷེབ	neurochip
+དབང-རྩ-དྲ-རྒྱ	neural network
+དབང-རྩའི-ཆུན-པོ	bundle
+དབང-རྩའི-དྲ-རྒྱའི-དཔེ-དབྱིབས	neural-network model
+དབང-རྩའི-འབྲེལ-མཐུད	neural connection
+དབང-རྩའི-རྩིས-འཁོར	neurocomputer
+དབང-རྩའི-སྦྲེལ-ལམ	neural link
+དབང-སྤྲོད	authorization; delegation
+དབྱིང-ཚུན	inches
+དབྱིན-ཐེ-དྲ-རྒྱ	the Internet
+དབྱིན-ཐེར	intel
+དབྱིན-ཚུན-རེར-ཚེག-གྲངས	dots per inch
+དབྱིབས-རྩིས-དཔེ-བཟོ	geometric modeling
+དབྱིབས	shape
+དབྱུག-འདེབས-པར-འཁོར	bar printer
+དབྱེ-གཅོད-བརྗེ-བ	authentication exchange
+དབྱེ-ཞིབ-ཆས	parser
+དབྱེ-ཞིབ-བྱེད-པ	perform analysis
+དབྱེ-ཞིབ-རྒོལ-རྡེག	analytical attack
+དབྱེ-ཞིབ-སློབ-སྦྱོང	analytic learning
+དབྱེ-ཞིབ	analyze; to parse
+དབྱེ-འབྱེད-ཆ-འཕྲིན	authentication information
+དབྱེ-འབྱེད-དུས-ཚོད	recognition time
+དབྱེ-འབྱེད-ཚུལ	discriminant
+དབྱེ-འབྱེད	authentication
+དམ-སྒྲིག	kerning
+དམ-སྡུད	to pack
+དམའ-རིམ-བརྗོད-ཚིག	elementary statement
+དམའ-རིམ-སྐད-བརྡ	low-level language
+དམའ-ཤོས	lowest
+དམར-པོ	red
+དམར-ཕྱིའི-ཐིག	infrared
+དམར-ཕྱིའི-མཐུད-ཁ	infrared interfaces
+དམར-ཕྱིའི-འཚམ-སྒྲིག-ཆས	infrared adapter
+དམར-སེར	red-yellow
+དམར-སྐྱ	light red
+དམར-སྨུག	maroon; fuchsia
+དམིགས-ཁུལ	aiming field
+དམིགས-བསལ-གྲུབ-འབྲས	special effect
+དམིགས-བསལ-བྱ-འགུལ	special action
+དམིགས-བསལ-ཡིག-རྟགས	special character
+དམིགས-བསལ-རྩོལ-ནུས	special capabilities
+དམིགས-བསལ	special
+དམིགས-ཚད-དང-རྩ-དོན	goals and principles
+དམིགས-ཚད-མཚོན-རྟགས	aiming symbol
+དམིགས-ཚད-ཚབ-ཨང	object code
+དམིགས-འབེན-བྱ-རིམ	target program; object program
+དམིགས-འབེན-ཡིག-ཆ	objective file
+དམིགས-འབེན	target
+དམིགས-འཛུགས-པ	designated
+དམིགས-འཛུགས-པའི-རགས	designated macro
+དམིགས-འཛུགས-མི-བྱེད-པ	not specified
+དམིགས-འཛུགས-སྒྲིག-ཆས	pointing device
+དམིགས-འཛུགས	limit to
+དམིགས-ཡུལ-འཕྲུལ-འཁོར	target machine
+དམིགས-ཡུལ-སྐད-བརྡ	target language
+དམིགས-ཡུལ	purpose
+དམིགས-ས	destination
+དམིགས-སའི-དཔེ-དུམ	object module
+དམིགས-སའི-ཡིག-ཆ	destination file
+དམིགས-སའི-སྒོར-དབྱིབས	aiming circle
+དར-ཆ	semaphore
+དར-རྟགས-བཅོལ-ཆས	flag register
+དར-རྟགས	flag
+དུང-འཁྱིལ-སྡུད-ལམ	spiral track
+དུམ-བགོས	segment
+དུམ-བུ	segmentation
+དུམ-མཚམས	slice
+དུམ-ཚན-བར-གསེང-གཡོན-པ	paragraph left margin
+དུམ-ཚན-སྙོམ-སྒྲིག	paragraph alignment
+དུམ-ཚན	paragraph
+དུམ-ཚིགས-གཏོང-སྐྱེལ	block transfer
+དུས-ཀྱི-བར-ཆོད	time slice
+དུས-ཁུལ	time zone
+དུས-ཆ	time slicing
+དུས-དངོས-ཁོར-ཡུག	real-time environment
+དུས-དངོས-ལུགས-རྩིས	real-time operation
+དུས-དངོས	real time
+དུས-དབྱེ-གནས-མང-ལྟ-སྤྱོད	time division multiple access
+དུས-དབྱེ-བསྐྱར-སྤྱོད	time division multiplexing
+དུས-བཀག-བཟོ-བཅོས	scheduled maintenance
+དུས-བཀག-འབར-མདེལ	time bomb
+དུས-བཀག-སོར-ཆུད	timing recovery
+དུས-བགོ	time sharing
+དུས-བགྲང	clocking
+དུས-བཅད-ཚེས-གྲངས	expiration date
+དུས-བརྒལ-བརྒྱུད-གཏོང	jabber
+དུས-བརྒལ-ཚོད-འཛིན	jabber control
+དུས-བརྒལ	time-out
+དུས-མཉམ	simultaneous
+དུས-ཚོད-བརྒལ-བ	over time
+དུས-ཚོད-འབྲེལ-ཡོད-ཚད	temporal cohesion
+དུས-ཚོད-ཡིག-དུམ	time field
+དུས-ཚོད-སྡུར-ཕྲེང-རྐྱེན-ཆ	time scale factor
+དུས-ཚོད	time
+དུས-འགྱངས-ཆེས-ཆུང-བའི-བྱ-རིམ-ཇུས-འགོད	minimum delay programming
+དུས-འགྱངས-བདག-གཅེས	deferred maintenance
+དུས-འགྱངས	delay
+དུས-ཡོལ-སྟོན-པའི-ཞབས-ཞུ	obsolescing indication service
+དུས-རིམ-གློག-ལམ	sequential circuit
+དུས-རྩིས-ཆས	timer
+དུས-ཤུར-ཆུ-ཚོད	slot time
+དུས-ཤུར	time slot
+དེབ-ཆུང	booklet
+དོ-དམ-ཁོངས-མིང	management domain name
+དོ-དམ-ཁོངས	management domain
+དོ-དམ-ཆ-འཕྲིན-རྒྱུད-ཁོངས	management information system
+དོ-དམ-ཆས	manager
+དོ-དམ-པ	administrator
+དོ-དམ-པའི-ལྡེ-མིག	administrator key
+དོ-དམ-བྱ-རིམ	supervisory program; executive program
+དོ-དམ-མཉེན-ཆས	manage software
+དོ-དམ-རྩོལ-ནུས	manage capabilities
+དོ-དམ-ལག-ཆ	administrative tools
+དོ-དམ	manage
+དོ-བསྡོ-བ	countermeasure
+དོ-མཉམ-སྡོང-འགྲེམས	balanced tree
+དོ-མཉམ-ཧེ-བག	balanced error
+དོག-ཐགས	narrowband
+དོགས-གནད-ཆ-འཕྲིན	question
+དོགས-གནས-ཚད	equivocation
+དོང-རྙི	traps
+དོང-རྙིའི-རིང-ཚད	trap length
+དོན-གཅིག-མིང	synonym
+དོན-གཅོད-འདོན-སྤྱོད	transaction call
+དོན-དངོས-བརྒྱུད-སྐྱེལ-ཕྱོད	actual transfer rate
+དོན-དངོས-ཞུགས-གྲངས	actual argument
+དོན-དངོས	fact
+དོན-མཚོན-ཡི-གེ	ideogram
+དོན-མཚོན-ཡིག-རྟགས	ideographic character
+དོན-རགས-ཁྱབ-འགྱུར	concept generalization
+དོན-རྐྱེན-ཞིབ-བརྗོད	event descriptions
+དོན-རྐྱེན	event
+དོན-སྤྱི-ཁྱད-འགྱུར	concept specialization
+དོན-སྤྱི-གཏན-འཁེལ-བྱེད-པ	concept validation
+དོན-སྤྱི-གྲུབ-པ	concept formation
+དོན-སྤྱི-དཔེ-དབྱིབས	conceptual model
+དོན-སྤྱི-དཔེ-རྣམ-སྐད-བརྡ	conceptual schema language
+དོན-སྤྱི-འགྲེལ-བརྗོད	concept description
+དོན-སྤྱི-འདུ-རིགས	conceptual clustering
+དོན-སྤྱི-རིམ-པ	conceptual level
+དོན-སྤྱི-རྒྱུད-ཁོངས-ཇུས-འགོད	conceptual system design
+དོན-སྤྱི-སློབ-སྦྱོང	concept learning
+དོན-སྤྱི	concept
+དོན-སྤྱིའི-བུ-དཔེ-རྣམ	conceptual subschema
+དོར-གྲངས-ཆུང-ཤོས	minimum abandon step
+དོར-ཟིན-པ	dropped
+དོར	abandon
+དོས-ཁང	stack
+དོས-ཁང-སྟོན-ཆས	stack indicator
+དོས-ཁང-སྟོན-མདའ	stack pointer
+དྭངས-གསལ-མིན-པ	not transparent
+དྲ-ཁཱ	network adapters
+དྲ-གནས	website; web site address
+དྲ-ངོས-གནས-ཡུལ	web page address
+དྲ-ངོས-གཙོ-བོ	home page
+དྲ-ངོས-བཤར-ལྟ	web page browse
+དྲ-ངོས-ཡིག-ཆ	web page document
+དྲ-ངོས	web page
+དྲ-ཐོག-ཁྱིམ-མཚེས	network neighbor
+དྲ-དབྱིབས-དྲ-རྒྱ	mesh network
+དྲ-དབྱིབས	reticulation
+དྲ-བ	web
+དྲ-མིག	grid
+དྲ-མིག-ཁཱ	aperture card
+དྲ-མིག-ཏུ-སྒྱུར-བ	rasterize
+དྲ-མིག-ཐིག	grid lines
+དྲ-མིག-དྲ-རྒྱ	grid network
+དྲ-མིག-བཀོད-པ	grid layout
+དྲ-ཟམ	bridge
+དྲ-རྒྱ-ཐོ-ཕོ	network topology
+དྲ-རྒྱ-བཤར-ལྟ	browse network
+དྲ-རྒྱ-འབྲེལ-མཐུད	network connection
+དྲ-རྒྱ-སྐུད-སྡུད-ཆས	hub
+དྲ-རྒྱ-སྐོར-སྐྱོད	network weaving
+དྲ-རྒྱ	network
+དྲ-རྒྱའི-གཞི-རྒྱུ	network elements
+དྲ-རྒྱའི-གྲོས-མཐུན-ཚད-གཞི	network protocol standard
+དྲ-རྒྱའི-གྲོས-མཐུན	network protocol
+དྲ-རྒྱའི-ཐོ-ཕོ-རིག-པ	network topology
+དྲ-རྒྱའི-ཐོ-འགོད	network registration
+དྲ-རྒྱའི-དཔེ-དབྱིབས	network model
+དྲ-རྒྱའི-དོ-དམ	network management
+དྲ-རྒྱའི-པར-འདེབས	network print
+དྲ-རྒྱའི-བཀོད-པ	network topology
+དྲ-རྒྱའི-བཀོལ-སྤྱོད-རྒྱུད-ཁོངས	network operating system
+དྲ-རྒྱའི-བཀོལ-སྤྱོད	network applications
+དྲ-རྒྱའི-བརྒྱུད-གཏོང-གྲོས-མཐུན	network transport protocol
+དྲ-རྒྱའི-བརྗེ-འཁོར	network exchanger
+དྲ-རྒྱའི-བཤར-འབེབས	network scan
+དྲ-རྒྱའི-མ-ལག-སྒྲིག-གཞི	network architecture
+དྲ-རྒྱའི-མཁོ-མཁན	network client
+དྲ-རྒྱའི-ཚད-གཞི	network standard
+དྲ-རྒྱའི-འགྲོ-ལམ	network path
+དྲ-རྒྱའི-འཆར-གཞི	network planning
+དྲ-རྒྱའི-ཡིབ-ཨང	network mask
+དྲ-རྒྱའི-རི-མོ	network chart
+དྲ-རྒྱའི-རྩོལ-ནུས	network functions
+དྲ-རྒྱའི-ལྟ-ཆས	network monitor
+དྲ-རྒྱའི-ལྟ-སྤྱོད	network access
+དྲ-རྒྱའི-སྒྲིག-གཞི	network structure
+དྲ-རྒྱའི-སྒྲིག-ཆས	network device
+དྲ-རྒྱའི-སྒྲིག-འགོད	network settings
+དྲ-རྒྱའི-སྒྲིག-ལྷུ	networking components
+དྲ-རྒྱར-སྒྲིག-པ	install to network
+དྲ-སྒོ-སྒྲིག-འགོད	gateway settings
+དྲ-སྒོ	gateway
+དྲག-ཚད	intensity
+དྲང-ཐིག	line
+དྲང-དཔེ	positive example
+དྲང-ཕྱོགས-འཕྲིན-ལམ	forward channel
+དྲང-ཕྱོགས-ལོང-སྦྲེལ	forward chaining
+དྲང-འགྲིལ	vertical scrolling
+དྲང-འཕྱང	vertical
+དྲང-འཕྱང-ཁ-ཕྱོགས	perpendicular direction
+དྲང-འཕྱང-ཐིག	vertical line
+དྲང-འཕྱང-ཐིག-ཤིང	vertical ruler
+དྲང-འཕྱང-ཕྱོགས-ཀྱི-འགྲིལ-བྱང	vertical scroll bar
+དྲང-འཕྱང-འགྲིལ-མདའ	vertical scroll bar
+དྲང-འཕྱང-འགྲིལ-རྒྱུག	vertical scroll box
+དྲང-འཕྱང-རེའུ-འབྲི-འགོད	vertical tabulation
+དྲང-འཕྱང-སྡུད-ཐོ	perpendicular magnetic recording
+དྲང-འཕྱང-སློག-འཁོར	flip vertical
+དྲས-གཏུབ-འབག-རིས	clip mask
+དྲས-གཏུབ	cut
+དྲས-པ	cropped
+དྲས-ལེན	clipping
+དྲས-སྦྱར-པང	clipboard
+དྲས-སྦྱར-པང-མངོན-སྟོན-བྱེད	show clipboard
+དྲས-སྦྱར-པང-ལྟ-ཆས	clipboard viewer
+དྲས-སྦྱར	cut and paste
+དྲི-གཏུག	consultation
+དྲི-གཞི-འགྲེལ-བ	problem solving
+དྲིལ-གྲགས	ring
+དྲིལ-སྒྲ	bell
+ན-སིའི-དཔེ-རིས	nassi-shneiderman chart
+ནག-པང-དཔེ-དབྱིབས	blackboard model
+ནག-པོ	black
+ནང-ཁུལ-སོར-ཆུད	inline recovery
+ནང-གསལ	transparent
+ནང-གསོག	memory
+ནང-གསོག-གནས-ཡུལ	memory address
+ནང-གསོག-གི-ཚད-ལྡན-ཤོང-ཚད	standard memory size
+ནང-གསོག-ཆས	internal storage; internal memory
+ནང-གསོག-མི-འདང-བ	out of memory
+ནང-གསོག-འཆར-བརྙན	storage image; core image
+ནང-གསོག-འཇུག-ཤུར	memory slot
+ནང-གསོག-འཛིན-ཆས	memory controller
+ནང-གསོག-ལེགས-བསྒྱུར	optimize memory
+ནང-གསོག-ཤོང-ཚད-ཆེ-ཤོས	max memory space
+ནང-གསོག-ཤོང-ཚད	memory capacity
+ནང-གསོག-སྐྱེད-རུང	extensible memory
+ནང-གསོག-སྤོ-གསོག	memory dump
+ནང-གསོག-སྤྱོད-ཕྱོད	memory usage
+ནང-གི-གཏན-ཚིག-རིམ-པ	internal logical levels
+ནང-གི-དངོས-ལུགས-རིམ-པ	internal physical levels
+ནང-གི-དཔེ-རྣམ	internal schema
+ནང-གི-པར-གཞིའི-ཨང-རྟགས	build number
+ནང-གི	internal
+ནང-དོན-གཙང-སེལ	clear contents
+ནང-དོན-མངོན-སྟོན-བྱེད	show contents
+ནང-དོན-ཟུང-སྦྱོར	content coupling
+ནང-དོན-རིགས-གྲས	content type
+ནང-དོན-ལས-གནས-ཡུལ-འཚོལ-རུང-བའི-གསོག-ཆས	content addressable storage
+ནང-དོན-སྒོ-ལྕགས-རྒྱག	lock contents
+ནང-དོན	content
+ནང-བཅུག	internal installed
+ནང-འཇུག	input
+ནང-འཇུག-གཙང-སེལ-རྩོལ-ནུས	clear entry function
+ནང-འཇུག-དང-ཕྱིར-འདོན-གྱི-རྒྱུ-ལམ	input-output channel
+ནང-འཇུག-དང-ཕྱིར-འདོན-འཛིན-ཆས	input-output controller
+ནང-འཇུག-དང-ཕྱིར-འདོན	input/output
+ནང-འཇུག-དབང-རྩའི-རྒྱུ	input neuron
+ནང-འཇུག-ནུས-ཤོར	input invalid
+ནང-འཇུག-ནོར-སྐྱོན	input error
+ནང-འཇུག-ཕྲེང	input line
+ནང-འཇུག-བུ-རྒྱུད-ཁོངས	input subsystem
+ནང-འཇུག-བྱེད-སྟངས-རྩོམ-སྒྲིག-ཆས	IME
+ནང-འཇུག-བྱེད-སྟངས-སྐྱེད-སྒྲུབ-ཆས	IME Generator
+ནང-འཇུག-བྱེད-སྟངས	input method
+ནང-འཇུག-མཐུད-ཁ	input interfaces
+ནང-འཇུག-རིམ-པ	input layer
+ནང-འཇུག-རྒྱུན	input stream
+ནང-འཇུག-སྒྲིག-ཆས	input devices
+ནང-འཇུག-སྣེ-གྲངས	fan-in
+ནང-འཇུག-སྲུང-སྐྱོབ	input protection
+ནང-འདྲེན	import
+ནང-འབྲི	write-through
+ནང-ཡོད-ནོར-སྐྱོན	indigenous fault
+ནང-རིམ	internal level
+ནང-ལས-བཀོལ-སྤྱོད	housekeeping operation
+ནང-ལོགས-ཀྱི-གདོང-འཛར	internal label
+ནང-ལོགས-ཀྱི-ནོར-སྐྱོན	internal error
+ནང-ལོགས-གཞི-གྲངས	internal data
+ནང-སྒྲིག	built-in
+ནང-སྒྲིག-དམར-ཕྱི-སྒྲིག-ཆས	built-in infrared device
+ནང-སྤོ	to roll in
+ནད-དུག	virus
+ནད-དུག-འགོག-བྱེད-བྱ-རིམ	anti-virus program
+ནད-མཚོན-རྟགས	virus signature
+ནམ-ཡང-ཆེས-སྔོན-མ	always on top
+ནར-དབྱིབས-རི-མོ	bar chart
+ནར-དབྱིབས	bar shape
+ནུས-ཁུངས-གྲོན-ཆུང	energy save
+ནུས-པ	performance
+ནུས-བབ-གསལ-ཐོ	capability list
+ནུས-བབ	capability
+ནུས-མེད-གསང-ཨང	invalid password
+ནུས-འབྱུང-ཚེས-གྲངས	effective date
+ནུས-ལྡན-གནས-ཡུལ	effective address
+ནུས-ལྡན-གྲངས-གནས	significant digit
+ནུས-ལྡན-ཅན	validation
+ནུས-ལྡན-དུས-ཚོད	validity period
+ནུས-ལྡན-བཀའ-བརྡ	effective instruction
+ནུས-ལྡན-བརྙན-རྒྱུ-གྲངས	available pixel number
+ནུས-ལྡན-སྐྱེལ-ཕྱོད	effective transfer rate
+ནུས-ལྡན	valid
+ནུས-ཤོར-ཁུལ-ལྷུ-ཆས	dead-zone unit
+ནུས-ཤོར	failure
+ནོར-ཕྱོད	error rate
+ནོར-བ	gain error
+ནོར-བཅོས-སློབ-སྦྱོང	error-correction learning
+ནོར-བཅོས	error correction; to correct
+ནོར-འཛོལ-ཆ-རྐྱེན	error condition
+ནོར-འཛོལ-མཛུབ-སྟོན	error indication
+ནོར-འཛོལ-ཚོད-འཛིན	error control
+ནོར-སྐྱོན-གྱི-ཡིག-ཆའི-མིང	bad file name
+ནོར-སྐྱོན-དག-བཅོས	error correction
+ནོར-སྐྱོན-བྱུང-འདུག	an error has occurred
+ནོར-སྐྱོན-མངོན-སྟོན-བྱེད	display error
+ནོར-སྐྱོན-ཚབས-ཆེན	fatal error
+ནོར-སྐྱོན-ཚོད-འཛིན-བྱ-རིམ	error control software
+ནོར-སྐྱོན-ཞིབ-བརྗོད	description of error
+ནོར-སྐྱོན-ཞིབ-བཤེར	error checking
+ནོར-སྐྱོན-ཞུ-ཡིག	bug reporting
+ནོར-སྐྱོན-འཇོག-སྒྲིག	error seeding
+ནོར-སྐྱོན-རྩད-གཅོད	error detection
+ནོར-སྐྱོན-སོར-ཆུད	error recovery
+ནོར-སྐྱོན-སྔོན-བརྡ	error prediction
+ནོར-སྐྱོན-སྙན-ཞུ-སྐུར-བ	send bug reporting
+ནོར-སྐྱོན-ཨང-རྟགས	error code
+ནོར-སྐྱོན	error
+པང-འཛིན-རྩིས-འཁོར	laptop
+པང-ལེབ	slab
+པན-ཐེན-རིགས-གྲས	pentium family
+པའོ-ལན-ཐབས	polish notation
+པའོ-ལན-ལྡོག-ཐབས-ལ-ལྡོག-པ	reverse polish notation
+པར-ཁོངས	type area
+པར-གཞི-མངོན-སྟོན-བྱེད	display version
+པར-གཞི-མི-མཐུན	version conflict
+པར-གཞི	version
+པར-གྱི-དཔེ-རྣམ	photo mode
+པར-ཆས	camera
+པར-མི-འདེབས-པའི-རྩོལ-ནུས	nonprint function
+པར-འཁོར-ཁ-འབྱེད	open printer
+པར-འཁོར-དམིགས-འཛུགས-བྱེད-པ	specific printer
+པར-འཁོར-བསྒྲིགས-མི-འདུག	no printers installed
+པར-འཁོར-མ-རྙེད	printer not found
+པར-འཁོར-མཐུད-ཁ	printer port
+པར-འཁོར-ལ-སྦྲེལ	connect to printer
+པར-འཁོར-སྐུལ-འདེད-བྱ-རིམ	printer drivers
+པར-འཁོར-སྒྲིག-འཇུག	install printers
+པར-འཁོར-སྣོན-འཇུག	add printer
+པར-འཁོར	printer
+པར-འདེབས-བཞིན-པ	printing
+པར-འདེབས-མགྱོགས-ཚད	printing speed
+པར-འདེབས-ཞབས-ཞུ-ཆས	print server
+པར-འདེབས-འཁོར-ལོ	print wheel
+པར-འདེབས-འདེམས-ཚན	print option
+པར-འདེབས-འདོར-བ	cancel printing
+པར-འདེབས-རྔ	print drum
+པར-འདེབས-རྩིས-ཆས	printing calculator
+པར-འདེབས-ཤོག-ངོས	print page
+པར-འདེབས-སྐབས-སྡོད	pause printing
+པར-འདེབས-སྔོན-ལྟ	print preview
+པར-འདེབས-སྤུས-ཚད	print quality
+པར-འདེབས	print
+པར-ཡིག-ཉེ-མཚུངས-སྤུས-ཚད	near letter quality
+པར-ཡིག-སྤུས-ཚད	letter quality
+པར-རིས-སྒྲིག-གཅོད	picture processing
+པར-རིས-སྔོན-ལྟ	preview picture
+པར-རིས	picture
+པར-རྣམ	format
+པར-སློག	to duplicate
+པར	photos
+པི-ཐེ-ཕྱོད	bit rate
+པི-ཐེ-སྟུག-ཚད	bit density
+པི-ཐེ	bit
+པི-ཐེའི-གནས-ས	bit position
+པི-ཐེའི-ནོར-ཕྱོད	bit error ratio
+པི-ཐེར-གཏོད-པའི-གྲོས-མཐུན	bit-oriented protocol
+པིར-རིས-ཡིག-རྟགས-སྐྱེད-ཆས	stroke character generator
+པོ-ཏ	baud
+པོ-ཏའི-ཕྱོད	baud
+པོ-ཏིའི-མིང	volume name
+པོ-ལིན-མཚོན-ཚུལ	boolean expression
+པོ-ལིན-རིགས-གྲས	boolean type
+པོ-ལིན-རྟེན-འབྱུང-གྲངས	boolean function
+པོ-ལིན-རྩིས-ཆ	boolean operator
+པོ-ལིན-ལུགས-རྩིས-རེའུ-མིག	boolean operation table
+པོ-ལིན-ལུགས-རྩིས	boolean operation
+པོལ-ཙི-མན-འཕྲུལ-ཆས	boltzmann machine
+ཕ-ཚིགས	parent node
+ཕ-རྒྱུད-རིགས-གྲས	parent type
+ཕན-མེད-གྲངས-ཀ	invalid number
+ཕན-མེད-མིང	invalid name
+ཕན-མེད-འགྲོ-ལམ	invalid path
+ཕན-མེད	invalid
+ཕན-ཚུན-དོགས-པ	mutual suspicion
+ཕན-ཚུན-བརྒྱུད-སྦྲེལ-རང-བཞིན	interconnectivity
+ཕན-ཚུན-རིམ-ལོག	mutual recursion
+ཕན-ཚུན-སྦྲེལ-བའི-སྒྲིག-ཆས	associated devices
+ཕབ-བཟོ	record
+ཕབ-རུང	downloadable
+ཕབ-ལེན	to download
+ཕམ-པ	failure
+ཕར-ཚུར-ཁྱབ-སྤེལ-དུས-ཚོད	round-trip propagation time
+ཕལ-ཚིགས	secondary station
+ཕིན-ཡིང	pingying
+ཕུང-པོ	heap
+ཕུར-པ	stub
+ཕེ-པོ-ན-ཆེའི-བཤེར-འཚོལ	fibonacci search
+ཕོ-ལན-མི-ལྡོག-ཚུལ-མཚོན-ཐབས-རྩིས-ཆས	calculator with reverse-polish notation logic
+ཕོན	pound
+ཕྱི-ཁོར-ཚིགས-ཚེག	peripheral node
+ཕྱི-ངོས-གྱོང-གུན-དུས-ཚོད	external loss time
+ཕྱི-ངོས-དབྱིབས-བཟོ	surface modeling
+ཕྱི-ངོས-མཐུད-ཁ	foreign port
+ཕྱི-ཆས	peripheral equipment
+ཕྱི-ཕྱོགས	external
+ཕྱི-མཐེབ	foreign key
+ཕྱི-རིམ	external level
+ཕྱི-རོལ-གཞི-གྲངས	external data
+ཕྱི-རོལ-དྲ-ངོས-བཤར-ཆས	foreign web browser
+ཕྱི-རོལ-བྱ-རིམ-ཞུགས-གྲངས	external program parameter
+ཕྱི-རོལ-ཟུང-སྦྱོར	external coupling
+ཕྱི-རོལ-སྒྲིག-ཆས-གཞན-དག	other peripheral equipment
+ཕྱི-རོལ-སྙོམ-སྒྲིག-ཆས	external modem
+ཕྱི-རོལ-སྦྲེལ-མཐུད	external link
+ཕྱི-རོལ	external
+ཕྱི-རྣམ	appearance
+ཕྱི-སྐོགས	shell
+ཕྱིའི-གཏན-ཚིག-རིམ-པ	external logical levels
+ཕྱིའི-གསོག-ཆས	external storage
+ཕྱིའི-དངོས-ལུགས-རིམ-པ	external physical levels
+ཕྱིའི-དཔེ-རྣམ	external schema
+ཕྱིའི-བྱ-རིམ-ནང-འཇུག-རྩིས-ཆས	calculator with external program input
+ཕྱིར-ཁྲིད	to iconize
+ཕྱིར-གྱར	disclosure
+ཕྱིར-བཤོལ	to backspace
+ཕྱིར-བསྡུ	revoke
+ཕྱིར-བྲིས	write back
+ཕྱིར-མངོན	exposure
+ཕྱིར-ཟློག	rejected
+ཕྱིར-འགྱངས-གཉུག-ལྷུ	delay element
+ཕྱིར-འགྱངས-གནས-ཡུལ-འཚོལ-ཐབས	deferred addressing
+ཕྱིར-འགྱངས-གློག-སྐུད	delay line
+ཕྱིར-འགྱངས	delay
+ཕྱིར-འཐེན-བཀའ	undo command
+ཕྱིར-འཐེན-མི-ཐུབ-པ	can't undo
+ཕྱིར-འཐེན	undo; extract
+ཕྱིར-འཐོན-བརྗོད-ཚིག	exit statement
+ཕྱིར-འཐོན	exit
+ཕྱིར-འདོན-གདོད-སྐད	output primitive
+ཕྱིར-འདོན-དབང-རྩའི-རྒྱུ	output neuron
+ཕྱིར-འདོན-ནོར-སྐྱོན	output error
+ཕྱིར-འདོན-བུ-རྒྱུད-ཁོངས	output subsystem
+ཕྱིར-འདོན-རི-མོ-དང-རེའུ-མིག	output chart
+ཕྱིར-འདོན-རིམ-པ	output layer
+ཕྱིར-འདོན-རེ-ཞུ	output request
+ཕྱིར-འདོན-རྒྱུན-ལྡན-བྱ-རིམ	output routine
+ཕྱིར-འདོན-སྣེ-གྲངས	fan-out
+ཕྱིར-འདོན-སྣེ	output port
+ཕྱིར-འདོན	output; export
+ཕྱིར-འདྲེན-ལེགས-གྲུབ	the export was successful
+ཕྱིར-འདྲེན	export
+ཕྱིར-འཕུལ	eject
+ཕྱིར-ལོག	return
+ཕྱིར-ལོག-བརྗོད-ཚིག	return statement
+ཕྱིར-ལྡོག-དྲ-རྒྱ	recurrent network
+ཕྱིར-ལྡོག-རྗེས-འདེད	retrospective trace
+ཕྱིར-སྣུར	back
+ཕྱིར-སྤོ	to roll out
+ཕྱིར-སློག	recall
+ཕྱེ-བའི-བུ-རྒྱུན-ལྡན-བྱ-རིམ	opened subroutine
+ཕྱེ-འདུག	always on
+ཕྱེད-གྲུབ-བཀའ-བརྡ	presumptive instruction
+ཕྱེད-འཕྲི-ཡོ-ཆས	half subtracter
+ཕྱེད-སྣོན-ཆས	half adder
+ཕྱོགས-ཁྲིད	navigation
+ཕྱོགས-གཉིས-བཤེར-འཚོལ	bidirectional search
+ཕྱོགས-གཉིས	two-way
+ཕྱོགས-བསྒྲིགས-ཆས-བཀའ-བརྡ	assembler directive
+ཕྱོགས-བསྒྲིགས-དུས-ཚོད	assembly time
+ཕྱོགས-བསྒྲིགས-བྱ-རིམ	assembler
+ཕྱོགས-བསྒྲིགས-ལྡོག-མ	to disassemble
+ཕྱོགས-བསྒྲིགས-སྐད-བརྡ	assembly language
+ཕྱོགས-བསྒྲིགས	assembly
+ཕྱོགས-བསྡུས-རིགས-འདེད	inductive inference
+ཕྱོགས-བསྡུས-ལས-སྒོའི-གྲངས-དྲ	integrated service digital network
+ཕྱོགས-བསྡུས-སློབ-སྦྱོང	inductive learning
+ཕྱོགས-བསྡུས	induction
+ཕྱོགས-མེད-ཚད	scalar
+ཕྱོགས-མེད-རིགས-གྲས	scalar type
+ཕྱོགས-ཚད-གསར-འདོན-མངོན-སྟོན	vector-refresh display
+ཕྱོགས-ཚད-མངོན-སྟོན-ཡོ-ཆས	vector display device
+ཕྱོགས-ཚད-རི-མོ	vectorgraph
+ཕྱོགས-ཚད-སྐྱེད-ཆས	vector generator
+ཕྱོགས-ཚད-སྒྲིག-གཅོད-ཆས	vector processor
+ཕྱོགས-ཚད	vector
+ཕྱོགས-ཟུང-རུ-སྟར	dequeue; double-ended queue
+ཕྱོགས-རྐྱང-ཁྱབ-སྤེལ-དུས-ཚོད	one-way propagation time
+ཕྱོགས-རྐྱང-གསང-སྡོམ	one-way encryption
+ཕྱོགས-སྒྲིག-དང-སྦྲགས-འཁོར-སྐྱོད	assemble-and-go
+ཕྱོགས-སྒྲིག-ཚབ-ཨང	assembly code
+ཕྱོགས-སྒྲིག-སྐད-བརྡ	assembly language
+ཕྱོགས-སྟོན	guide
+ཕྲ-དབྱིབས-རྩིས-འཁོར	microcomputer
+ཕྲ-བའི-བྱ-རིམ-ཇུས-འགོད	microprogramming
+ཕྲ-རྡུལ-རིགས-གྲས	atomic type
+ཕྲད-ཐུག-ནང-འཇུག	contact input
+ཕྲན-ཆུང-བཀོལ-སྤྱོད	microoperation
+ཕྲན-ཆུང-བྱ-རིམ	micro program
+ཕྲན-ཆུང-ཚབ-ཨང	microcode
+ཕྲན-ཆུང-ཚབ-ཨང-ཕྱོགས-བསྒྲིགས-བྱ-རིམ	microcode assembler
+ཕྲན-ཆུང-སྒྲིག-གཅོད-ཆས	microprocessor
+ཕྲལ-གཅོད	disconnect
+ཕྲལ-ཆས	resolver
+ཕྲལ-བྱང	split bar
+ཕྲལ-སྒྲོམ	split box
+ཕྲེང	string; row
+ཕྲེང-གཉིས	double lines
+ཕྲེང-གཤིབ-སྒྱུར-ཆས	staticizer; serial-parallel converter
+ཕྲེང-གོང-མ	line up
+ཕྲེང-གྲངས	line number
+ཕྲེང-ཅན-པར-འཁོར	chain printer
+ཕྲེང-དཔངས	row height
+ཕྲེང-བགྲོད-པར-འཁོར	serial printer
+ཕྲེང-བགྲོད-བཅོལ-ལེན	serial access
+ཕྲེང-བགྲོད-བརྒྱུད-གཏོང	serial transmission
+ཕྲེང-བགྲོད-མཐུད-ཁ	serial port
+ཕྲེང-བགྲོད-སྣོན-རྩིས-ཆས	serial adder
+ཕྲེང-བགྲོད-སྣོན-རྩིས	serial addition
+ཕྲེང-བགྲོད	serial
+ཕྲེང-བར	line spacing; row pitch
+ཕྲེང-བརྗེ-རྟགས	line break symbol
+ཕྲེང-བརྗེ	change line
+ཕྲེང-མགོ	line head
+ཕྲེང-མང	multiple line
+ཕྲེང-འདེད-པར-འཁོར	line printer
+ཕྲེང-འབེབས	line feed
+ཕྲེང-རྟགས	row labels
+ཕྲེང-རྩོམ-སྒྲིག-བྱ-རིམ	line editor
+ཕྲེང-ལྟར-ཕྱིར-འདོན	line by line output
+ཕྲེང-ལྟར	de-interlace
+ཕྲེང-སྟར	by row
+ཕྲེང-སྟོང	null string
+ཕྲེང-ཧྲེང	widow; widow line
+བཀག-ལེན	intercept
+བཀག-སྡོམ-རྩོལ-ནུས	lock-out facility
+བཀག-སྡོམ	occlude
+བཀའ-བཀོད-སྐད-བརྡ	command language
+བཀའ-བརྡ-གནས-ཡུལ-བཅོལ-ཆས	instruction address register
+བཀའ-བརྡ-ཕྱོགས-སྟོན-བཅོལ-ཆས	instruction pointer register
+བཀའ-བརྡ-ཕྲ-མོ	microinstruction
+བཀའ-བརྡ-བཅོལ-ཆས	instruction register
+བཀའ-བརྡ-ཚབ-ཨང	instruction code
+བཀའ-བརྡ-ཚོགས	instruction set
+བཀའ-བརྡ-རེའུ-མིག	instruction repertoire
+བཀའ-བརྡ-རྣམ-གཞག	instruction format
+བཀའ-བརྡ	instruction
+བཀའ-བརྡའི-གནས-ཡུལ	instruction address
+བཀའ-བརྡའི-ཡིག-འབྲུ	instruction word
+བཀའ-བྱང	token
+བཀའ-བྱང-གདུབ-དྲ	token-ring network
+བཀའ-བྱང-བརྒྱུད-གཏོང-གྲོས-མཐུན	token passing protocol
+བཀའ-བྱང-བརྒྱུད-གཏོང-ལམ-སྲོལ	token passing procedure
+བཀའ-བྱང-མ-སྐུད-དྲ-རྒྱ	token-bus network
+བཀའ-བྱང-མ-སྐུད	token-bus
+བཀའ-མཐེབ-གཅུས	command button
+བཀའ-འདེམས-བྱང	command menu
+བཀའ-ལག-བསྟར	execute command
+བཀའ-སྟོན-རྟགས	command prompt
+བཀའ	command
+བཀའི-ཕྲེང	command line
+བཀལ-བ	pending
+བཀོད-གཏོང	to schedule
+བཀོད-པ-བྱ-ཡུལ	layout object
+བཀོད-པ-ཡིག-རྟགས	layout character
+བཀོད-པ	layout
+བཀོད-བརྡའི-བརྗོད-ཚིག	imperative statement
+བཀོད-རྟགས	label
+བཀོལ-རུང	operational
+བཀོལ-རེས-ཅན	interoperability
+བཀོལ-སྤྱོད-ཁོངས	operation field
+བཀོལ-སྤྱོད-ཁོར-ཡུག	operating environment
+བཀོལ-སྤྱོད-གནས	operation part
+བཀོལ-སྤྱོད-གྲངས	operand
+བཀོལ-སྤྱོད-ངོས-འཛིན	confirm action
+བཀོལ-སྤྱོད-ཅན	operationalization
+བཀོལ-སྤྱོད-ཐབས	operating methods
+བཀོལ-སྤྱོད-དགོས-ཆས	operating facilities
+བཀོལ-སྤྱོད-དུས-ཚོད	operating time
+བཀོལ-སྤྱོད-པའི-ཚོད-འཛིན-སྟེགས-བུ	operator console
+བཀོལ-སྤྱོད-ཕམ-ཉེས	action failed
+བཀོལ-སྤྱོད-བར-སྟོང	operating space
+བཀོལ-སྤྱོད-བྱ-ཡུལ	operand
+བཀོལ-སྤྱོད-མེད-པ	no action
+བཀོལ-སྤྱོད-རྒྱུད-ཁོངས	operating system
+བཀོལ-སྤྱོད-རྒྱུན-འགལ	operation exception
+བཀོལ-སྤྱོད-རྒྱུན-རྣམ-གློག-གནོན-ཆེ-ཤོས	maximum operating normal mode voltage
+བཀོལ-སྤྱོད-རྗེས-མ	the next action
+བཀོལ-སྤྱོད-ལ-གཏོད-པའི-སྐད-བརྡ	application-oriented language
+བཀོལ-སྤྱོད-ལག-རྩལ	operating techniques
+བཀོལ-སྤྱོད-སྤྱི-རྣམ-གློག-གནོན-ཆེ-ཤོས	maximum operating common mode voltage
+བཀོལ-སྤྱོད-ཨང-གྲངས-ཀྱི-ཁག	operation part; operator part
+བཀོལ-སྤྱོད-ཨང-རྟགས-དོང-རྙི	operation code trap
+བཀོལ-སྤྱོད-ཨང-རྟགས	opcode
+བཀོལ-སྤྱོད	operation
+བཀྲེས-ལྟོགས	starvation
+བཀྲོལ-ཐོབ-བར-སྟོང	solution space
+བགོ-བཤའ	allocate
+བགོ-སྤྲོད-རེའུ-མིག	distribution list
+བགྲང-གྲངས-ཆས	counter
+བགྲང-གྲངས	count
+བང-རིམ-དབང-རྩའི-དྲ-རྒྱ	hierarchical neural network
+བང-རིམ-མིན-པའི-འཆར-འགོད	nonhierarchical planning
+བང-རིམ-འཆར-འགོད	hierarchical planning
+བང-རིམ-སྒྲིག-གཞི-དྲ-རྒྱ	hierarchical network
+བང-རིམ-སྒྲིག-གཞི	hierarchy
+བང-རིམ	layer
+བཅའ-སྡོད-ཚོད-འཛིན-བྱ-རིམ	resident control program
+བཅའ-སྡོད	resident
+བཅུ-གོང-འགྲིལ-གྲངས-འགོད-ཐབས	decimal notation
+བཅུ-གོང-འགྲིལ-ལུགས-ཀྱི-འཇལ-ཚད	decimal unit
+བཅུ-གོང-འགྲིལ-ལུགས-གྲངས-ཀ	decimal digit
+བཅུ-གོང-འགྲིལ-ལུགས-གྲངས	decimal numeral
+བཅུ-གོང-འགྲིལ-ལུགས	decimal numeration system
+བཅུ-གོང-འགྲིལ-སིལ-གྲངས-ཚེག	decimal point
+བཅུ-དྲུག-གོང-འགྲིལ-ལུགས	hexadecimal
+བཅུ-བལྟོས-གསབ-ཨང	ten's complement
+བཅོལ-ཆས-ཀྱི-རིང-ཚད	register length
+བཅོལ-ཆས	register
+བཅོལ-ལེན-དཔུང-པ	access arm
+བཅོལ-ལེན-དུས-ཚོད	access time
+བཅོལ-ལེན-བྱེད-ཐབས	access method
+བཅོལ-ལེན-འགྲོ-ལམ-གྱི-གཅིག-པུ-རང-བཞིན	access path independence
+བཅོལ-ལེན-འགྲོ-ལམ	access path
+བཅོལ-ལེན-རིགས-གྲས	access type
+བཅོལ-ལེན-ལས-ཚིགས	access mechanism; actuator
+བཅོལ-ལེན-སོ-མང	comb
+བཅོལ-ལེན	to access
+བཅོས-ཐབས-མེད-པའི-ནོར-སྐྱོན	unrecoverable error
+བཅོས-པ	amended
+བཅོས-མཐེབ	modifying key
+བཅོས-མི-འདུག	no change was made
+བཅོས-ཚད	modifier
+བཅོས-འབྲི	overwrite
+བཅོས-རྗེས-སྤོ-གསོག	change dump
+བཏགས-གྲངས-ཡོ-ཆས-སྒྲིག-འགོད-གནས-སྟངས	potentiometer set mode
+བཏགས-གྲངས-ལྷུ-ཆས	coefficient unit
+བཏགས-མིང-ཆོད-སྡོམ	name qualification
+བཏང-ཡིག-ཁུག-མ	sent folder
+བཏུམས-པ	wraparound
+བདག-སྐྱོང-བདེ-འཇགས	administrative security
+བདམས-པ	checked
+བདམས-པའི-ཚོན-མདོག-གྲངས-ཐང	selected color values
+བདམས-པའི-ཡིག-གཟུགས	selected font
+བདེ-འཇགས-གདུབ-བུ	safety ring
+བདེ-འཇགས-ཆ-འཕྲིན	security information
+བདེ-འཇགས-ཆོག-མཆན	security clearance
+བདེ-འཇགས-དཔང-ཡིག	security certificate
+བདེ-འཇགས-དཔེ-རྣམ	safe mode
+བདེ-འཇགས-བཙག-ཆས	security filter
+བདེ-འཇགས-ཚད-གཞི	security standard
+བདེ-འཇགས-ར-སྤྲོད	security authentification
+བདེ-འཇགས-རིམ-པ	security classification; security level
+བདེ-འཇགས-རྩིས-བཤེར	security audit
+བདེ-འཇགས-ལྟ-སྤྱོད-དོ-དམ-ཞབས-ཞུ	secure access management service
+བདེ-འཇགས-སྒྲིག-འགོད	security setting
+བདེ-འཇགས-སྣ-རིགས	security category
+བདེ-འཇགས-སྲིད-ཇུས	security policy
+བདེ-འཇགས	security
+བདེ-སྲུང-ཐབས-ཇུས	security policy
+བདེ-སྲུང-ཐབས-ཤེས	security method
+བདེ-སྲུང-བཀོལ-སྤྱོད	security action
+བདེ-སྲུང-ལྟ-ཆས	security monitor
+བདེ-སྲུང-སྒྲིག-འགལ	security violations
+བདེ-སྲུང-སྒྲིག-སྲོལ	security rule
+བདེན-དཔང	proof
+བདེན-དཔང-སྤྲོད-པའི-ཞབས-ཞུ	proof of submission service
+བདེན-དཔང-སྤྲོད-བྱའི-ཞབས-ཞུ	proof of delivery service
+བདེན-མིན-ར-སྤྲོད	certification
+བབ-བསྟུན-མཐུད-རྟགས	discretionary hyphen
+བམ-པོ-མཇུག-རྫོགས-གདོང-འཛར	end-of-volume label
+བཙན-ཐབས-བྱེད-བསྡུ	strong typing
+བཙན-འཛུལ-ཚོད-ལྟ	penetration testing
+བཙན-འཛུལ	penetration
+བཙན-ཤེད	force
+བཙུགས-པའི-དུས-ཚོད	settling time
+བཙུད-འཇུག-བཀའ	embedded command
+བཙུད-འཇུག-བྱ-ཡུལ	object embedded
+བཙུད-འཇུག-སྐད-བརྡ	embedded database language
+བཞི-ཆ-གཅིག-གི-རང-ཉིས-སྒྱུར-སྒྱུར-ཆས	quarter-squares multiplier
+བཞི-འདོར-ལྔ-སྒྲིལ-རྩོལ-ནུས	round-off function
+བཞི-འདོར-ལྔ-སྒྲིལ	round off
+བཞིར-བགོས-སྡོང-འགྲེམས	quadtree
+བཟང-བ	better
+བཟོ-ཐོན-དུས-ཚེས	date manufactured
+བཟོ-དབྱིབས-ཞིབ-བཤེར-བྱ-རིམ	style checker
+བཟོ-བཅོས-གོ-ཆོད	apply changes
+བཟོ-བཅོས-དུས-ཚོད	modified
+བཟོ-བཅོས-པར-གཞི	revisions
+བཟོ-བཅོས-བཤེར-དཔྱད-ཚབ-ཨང	modification detection code
+བཟོ-བཅོས-བཤེར-དཔྱད	modification detection
+བཟོ-བཅོས-མ-བྱས	unmodified
+བཟོ-བཅོས-ཚེས-གྲངས	mod date
+བཟོ-བཅོས-འདོར-བ	abandon change
+བཟོ-བཅོས-རུང-བ	modifiability
+བཟོ-བཅོས-ལག-ཆ	repair tools
+བཟོ-བཅོས	change; repair; modify
+བཟོ-བདག	manufacturer
+བཟོ-མཁན	manufacturer
+བཟོ-འགྱུར-བར-སྟོང	version space
+བཟོ-རྟགས	model
+བཟོ-རྩལ	craftwork
+བཟོ-ལྟ	genre; style
+བཟོ-ལྟའི-མ-ཤོག	style sheet
+བཟོ-ལྟའི-ལག-ཆའི-ཚན-བྱང	style toolbar
+བཟོ-སྐྲུན-ཐོན-ཁུངས-འཆར-གཞི	manufacturing resource planning
+བཟོ-སྐྲུན-སྡེ-ཚན	manufacturing cell
+བཟོ	create
+བཟོས-མ	default
+བར-ཁུལ-གྱི-ཆེ-ཆུང	buffer size
+བར-ཁུལ-གྲངས-ཀ	number of buffers
+བར-ཁུལ-ཆུང-དྲགས-པ	buffer too small
+བར-ཁུལ-མི-འདང-བ	buffer is insufficient
+བར-ཁུལ-ལུད-པ	buffer overruns
+བར-ཁུལ-སྒྲིག-འགོད	buffer settings
+བར-ཁུལ	buffer; buffer storage
+བར-གཅོད-བཅོལ-ཆས	interrupt register
+བར-གཅོད-བརྗོད-ཚིག	abort statement
+བར-གཅོད	interrupt; interruption
+བར-གསེང	interval
+བར-གསེང-དུས-རྩི-ཆས	interval timer
+བར-གསེང-ཞེང-ཚད	gap width
+བར-གྱི-ཚོགས-འདུ	moderated conference
+བར-ཐག	distance
+བར-དཀྱིལ-ཚིགས-ཚེག	intermediate node
+བར-བརྒལ-རྒྱུད-ཁོངས	change-over system
+བར-བརྒྱུད-གནས-ཡུལ	indirect address
+བར-བརྒྱུད-བཀའ-བརྡ	indirect instruction
+བར-བརྒྱུད-འདྲེན-སྤྱོད	indirect referencing
+བར-བརྒྱུད-རིམ-ལོག	indirectly recursive
+བར-བརྒྱུད-སྤྱོད-མཁན	indirect user
+བར-བརྒྱུད-སྤྲོད-པ	indirect submission
+བར-བརྒྱུད	indirect
+བར-མཐུད-ཆས	repeater
+བར-མཚམས-རེ	interleave every
+བར-མཚམས-སྐད-བརྡ	intermediate language
+བར-འཇུག	insert
+བར-འཇུག-ཚེག	caret
+བར-འཇུག-རི-མོ	illustration
+བར-འདོགས-ཐབས	infix notation
+བར-རྫས	medium
+བར-སྟོང-གྲོན-ཆུང	space-saving
+བར-སྟོང-ཆེ-ཆུང	size on disk
+བར-སྟོང-སྟོང-པ-དོ-དམ	free-space administration
+བརྒལ-བ	excess
+བརྒལ-ཚད	span
+བརྒྱ-ཆའི-ནུས-པ	percentage function
+བརྒྱད-གོང-འགྲིལ-ལུགས-གྲངས	octal numeral
+བརྒྱད-བགོས-སྡོང-འགྲེམས	octree
+བརྒྱུད-གཏོང	transmission
+བརྒྱུད-གཏོང-གློག-ལམ	transmission line
+བརྒྱུད-གཏོང-དགོས-ཆས	transmission facilities
+བརྒྱུད-གཏོང-དཔེ-རྣམ	transport model
+བརྒྱུད-གཏོང-ཚད-གཞི	transmissive standard
+བརྒྱུད-གཏོང-ཚོད-འཛིན-ཡིག-རྟགས	transmission control character
+བརྒྱུད-གཏོང-འགྲོས-ཚད	transfer rate
+བརྒྱུད-གཏོང-འཕྲིན-ལམ	transmission channel
+བརྒྱུད-གཏོང-རྒྱུ-ལམ-འགོར-འགྱངས	transmission path delay
+བརྒྱུད-གཏོང-ལག-རྩལ	transmission techniques
+བརྒྱུད-གཏོང-ལྡེབ	transmission frame
+བརྒྱུད-གཏོང-སྨྱན-གཟུགས	transmission medium
+བརྒྱུད-དཔར-འཕྲུལ-འཁོར	transfer interpreter
+བརྒྱུད-འགྲེམས	to forward
+བརྒྱུད-འཛིན	inheritance
+བརྒྱུད-རིམ-གསལ-སྒྲོམ	progress box
+བརྒྱུད-རིམ-བདེ-འཇགས	procedural security
+བརྒྱུད-རིམ-བར-གཅོད-བརྡ-རྟགས	process interrupt signal
+བརྒྱུད-རིམ-མཐུད-ཁའི-རྒྱུད-ཁོངས	process interface system
+བརྒྱུད-རིམ-ཚར-བ	progress done
+བརྒྱུད-རིམ-ཚོད-འཛིན-སྒྲིག-ཆས	process control equipment
+བརྒྱུད-རིམ-འདོན-སྤྱོད-བརྗོད-ཚིག	procedure-call statement
+བརྒྱུད-རིམ-འདོན-སྤྱོད	procedure call
+བརྒྱུད-རིམ-རང-བཞིན-གྱི-ཤེས-བྱ	procedural knowledge
+བརྒྱུད-རིམ-རྗེས-འདེད	process tracking
+བརྒྱུད-རིམ-རྩིས-འཁོར-རྒྱུད-ཁོངས	process computer system
+བརྒྱུད-རིམ-ལ-གཏོད-པའི-སྐད-བརྡ	procedure-oriented language
+བརྒྱུད-རིམ-སྐད-བརྡ	procedural language
+བརྒྱུད-རིམ	process; procedure
+བརྒྱུད-ལམ	path
+བརྒྱུད-སྐྱེལ-དཀར-ཆག	transferring directory
+བརྒྱུད-སྐྱེལ-དཔེ-རྣམ	transfer mode
+བརྒྱུད-སྐྱེལ-དུས-ཚོད	transfer time
+བརྒྱུད-སྐྱེལ-ཕྱོད	transfer rate
+བརྒྱུད-སྐྱེལ-མཇུག-སྒྲིལ	transfer complete
+བརྒྱུད-སྐྱེལ-ལེགས-སྒྲུབ	transfer successful
+བརྒྱུད-སྐྱེལ	to transfer
+བརྒྱུད-སྦྲེལ-ནུས-པ	connectivity
+བརྒྱུད-སྦྲེལ-རང-བཞིན	connectivity
+བརྗེ-པོ-རྒྱག	replace
+བརྗེ-བ	replace; switching
+བརྗེ-མཐེབ-བེད-སྤྱོད-པ	use toggle keys
+བརྗེ-མཐེབ	togglekeys
+བརྗེ-མི-ཐུབ	cannot replace
+བརྗེ-སྒྱུར	to transform
+བརྗེ-སྟངས	exchange way
+བརྗེ-སྤོ	displace
+བརྗེ	replace as
+བརྗེད-ཐོ	memo
+བརྗོད-གཞི	proposition; subject
+བརྗོད-པ	sentence
+བརྗོད-པའི-ཚིག-ཐོ	spoken vocabulary
+བརྗོད-ཚིག	predicate; statement
+བརྗོད-ཚིག-དང-བརྗོད-ཚུལ	statements and expressions
+བརྗོད-ཚིག-སྦྲགས-མ	compound statement
+བརྗོད-སྙིང-འཁྲབ-མཁན	thematic role
+བརྙན-ཆས	camera
+བརྙན-འཕྲིན-ཪཱཾ	video RAM
+བརྙན-འཕྲིན-ཁྱད-ཆོས	video feature
+བརྙན-འཕྲིན-གྲངས-འགྲེལ	video decode
+བརྙན-འཕྲིན-ཐགས-ཞེང	video bandwidth
+བརྙན-འཕྲིན-ནང-གསོག	video memory
+བརྙན-འཕྲིན-ཕྱིར-འདོན	video output
+བརྙན-འཕྲིན-བརྒྱུད-གཏོང	video transmission
+བརྙན-འཕྲིན-མངོན-སྟོན-མཐའ-སྣེ	video display terminal
+བརྙན-འཕྲིན-ཚོགས-འདུ	video conferencing
+བརྙན-འཕྲིན-འཛིན-ཆས	video control
+བརྙན-འཕྲིན-ཡིག-ཆ	video file
+བརྙན-འཕྲིན-རིས-ཡིག	videotext
+བརྙན-འཕྲིན-རྣམ-གཞག	video format
+བརྙན-འཕྲིན-ལེན-ཆས	video camera
+བརྙན-འཕྲིན-སྒྲིག-ཚུལ	TV mode
+བརྙན-འཕྲིན	video
+བརྙན-ཡོལ-གྱི-མདོག	screen color
+བརྙན-ཡོལ-གྱི-འབྱེད-ཕྱོད	screen resolution
+བརྙན-ཡོལ-ཆ-ཚད	screen dimensions
+བརྙན-ཡོལ-པང-ངོས	screen panel
+བརྙན-ཡོལ-བརྙན-རྒྱུའི-མཐོ-ཚད	screen pixels height
+བརྙན-ཡོལ-བརྙན-རྒྱུའི-ཞེང-ཚད	screen pixels wide
+བརྙན-ཡོལ-མངོན-སྟོན-ཡག-ཤོས	optimizating screen display
+བརྙན-ཡོལ-མངོན-སྟོན-ལེགས-བསྒྱུར	optimization screen display
+བརྙན-ཡོལ-ཚད-ལེན	burn in
+བརྙན-ཡོལ-ཡི-གེ	screen text
+བརྙན-ཡོལ-ཡོངས-སུ-ཁ-ཕྱེ-བ	open with full screen
+བརྙན-ཡོལ-རྒྱབ-ལྗོངས	screen background
+བརྙན-ཡོལ-རྒྱུ-སྤུས	screen medium
+བརྙན-ཡོལ-རྩོམ-སྒྲིག-ཆས	screen editor
+བརྙན-ཡོལ-སྡུར-ཚད	screen scale
+བརྙན-ཡོལ-སྲུང-སྐྱོབ-བྱ-རིམ	screen saver
+བརྙན-ཡོལ	screen
+བརྙན-རིས-ཆེ-ཆུང	image size
+བརྙན-རིས-བརྒྱུད-སྐྱེལ	image transfer
+བརྙན-རིས-བསྐྱར-གྲུབ	image regeneration
+བརྙན-རིས-མཐའ-མ	last image
+བརྙན-རིས-འབྱེད-ཕྱོད	image resolution
+བརྙན-རིས-ཡིག-ཆ	image document
+བརྙན-རིས-རྣམ-གཞག	image format
+བརྙན-རིས-སྒྲིག-གཅོད	image processing
+བརྙན-རིས	image
+བརྙན-རྒྱུ-གྲངས	pixel number
+བརྙན-རྒྱུ-རི-མོ	pixel map
+བརྙན-རྒྱུ	pixel; picture element; pel
+བརྙན-རྒྱུའི-གྲངས-ཐང	pixel value
+བརྙན-ཤེལ	screen
+བརྙན-སྐྱེལ-ཆས	fax machine
+བརྙན-སྐྱེལ-པང	fax board
+བརྙན-སྐྱེལ-ཞབས-ཞུ	fax service
+བརྙན-སྐྱེལ-སྙོམ-སྒྲིག-ཆས	fax modem
+བརྙན-སྐྱེལ-ཨང-གྲངས	fax number
+བརྙན-སྐྱེལ	to fax; fax; telecopy
+བརྙན-སྟོན-འཕྲུལ-འཁོར	projector
+བརྙན-སྟོན	projection
+བརྙན-སྡེར-འཕྲུལ-འཁོར	DVD player
+བརྟག-ཐབས	heuristic method
+བརྟག-དཔྱད-བྱ-རིམ	diagnostic program
+བརྟག-དཔྱད-ཞིབ-ཕྲ-བྱེད-ཚུལ	microdiagnostics
+བརྟག-དཔྱད-རྩོལ-ནུས	diagnostic function
+བརྟག-དཔྱད	diagnostic
+བརྟག-བཤེར-དཔེ-རྣམ	testing mode
+བརྟག-བཤེར-བྱ-རིམ	checking program
+བརྟག-བཤེར-བྱ-ས	check point
+བརྟག-བཤེར-ཚབ-ཨང	checking code
+བརྟག-བཤེར-རུང-བ	accountability
+བརྟན-མིན-རྣམ-པ	unstable state
+བརྟན-ཙམ-གྱི-རྣམ-པ	metastable state
+བརྟན-འཇགས-མནའ-འབྲེལ	stable coalition
+བརྟན-འཇགས	stabilize
+བརྟན-འདྲའི-རྣམ-པ	quasistable state
+བརྟན-རྣམ-ཟུང-ལྡན-གློག-ལམ	bistabl circuit
+བརྟན-རྣམ-རྐྱང-པའི-གློག-ལམ	monostable circuit
+བརྟན-རྣམ-རྐྱང-པའི-ཐུག-ཐོན-གློག-ལམ	monostable trigger circuit
+བརྟན-རྣམ	stable state
+བརྟོལ-བབས	print through
+བརྟོལ-མཐོང	pivot
+བརྡ-གཏོང-བ	notify
+བརྡ-ཆས	indicator
+བརྡ-འཕྲིན-ཁུངས	message source
+བརྡ-འཕྲིན-གཏོང-ལེན-ཞབས-ཞུ	message handling service
+བརྡ-འཕྲིན-གནད-བསྡུས	message digest
+བརྡ-འཕྲིན-གཙོ-གཞི	body
+བརྡ-འཕྲིན-གསོག-ཆས	message store
+བརྡ-འཕྲིན-གླེང-སྒྲོམ	message box dialog
+བརྡ-འཕྲིན-ངོ-རྟགས-ཞབས-ཞུ	message identification service
+བརྡ-འཕྲིན-ཉར-གསོག	message storage
+བརྡ-འཕྲིན-དང-དེའི-འཕྲིན-གཏོང	messages and their communication
+བརྡ-འཕྲིན-དབྱེ-གཅོད-ཚབ-ཨང	message authentication code
+བརྡ-འཕྲིན-དབྱེ-གཅོད	message authentication
+བརྡ-འཕྲིན-བརྒྱུད-གཏོང-རྒྱུད-ཁོངས	message transfer system
+བརྡ-འཕྲིན-བརྒྱུད-གཏོང-ལས-ཚབ	message transfer agent
+བརྡ-འཕྲིན-བརྒྱུད-སྐྱེལ	message transfer
+བརྡ-འཕྲིན-མྱུལ-བ	probe
+བརྡ-འཕྲིན-འདུ-ཚང	message sink
+བརྡ-འཕྲིན-ཡི-གེ	message text
+བརྡ-འཕྲིན-རྣམ-གཞག	message format
+བརྡ-འཕྲིན-སྒྲིག-གཅོད-ཁོར-ཡུག	message handling environment
+བརྡ-འཕྲིན-སྒྲིག-གཅོད-བཀོལ-སྤྱོད	message handling operations
+བརྡ-འཕྲིན-སྒྲིག-གཅོད-ཡན-ལག-རྒྱུད-ཁོངས	messaging subsystem
+བརྡ-འཕྲིན-སྒྲིག-གཅོད-རྒྱུད-ཁོངས	message handling system
+བརྡ-འཕྲིན-སྒྲིག-གཅོད	message handling
+བརྡ-འཕྲིན-སྒྲོམ-བུ	message box
+བརྡ-འཕྲིན	message
+བརྡ-རྟགས-དབྱིབས-བཅོས	signal shaping
+བརྡ-རྟགས-བརྒྱུད-གཏོང	signaling
+བརྡ-རྟགས-བརྗེ-སྒྱུར	signal transformation
+བརྡ-རྟགས-རྒྱུ-གཞི	signal element
+བརྡ-རྟགས-སླར-སྐྱེས	signal regeneration
+བརྡ-རྟགས	signal
+བརྡ-སྤྱོད	pragmatics
+བརྡ-སྤྲོད-གཞི-རྒྱུ	lexical element
+བརྡ-སྤྲོད-ནོར-སྐྱོན	invalid syntax error
+བརྡ-སྤྲོད-མཚོན-རྟགས	lexical token
+བརྡ-སྤྲོད-ཞིབ-བཤེར-ཆས	semantic checker
+བརྡ-སྤྲོད-ཞིབ-བཤེར-བྱ-རིམ	grammar checker
+བརྡ-སྤྲོད-ཞིབ-བཤེར	syntax checking
+བརྡ-སྤྲོད-སྟོན-སྒྲིག-བྱ-རིམ	syntax-directed editor
+བརྡ-སྤྲོད-སྡེ-ཚན	lexical unit
+བརྡ-སྤྲོད	syntax
+བརྡབ-འཁྲུག-བཟོད-ནུས	surge resistances urge withstand capability
+བརྡར-གཅོད-བཀའ-བརྡ	discrimination instruction; decision instruction
+བརྩེགས-པ	overlap
+བརྩེགས-མ	cascade
+བལྟོས-གནས-སྤོ-སྒྱུར-མཐེབ-འཛིན	phase shift keying
+བལྟོས-བཅས-ཁྲོབ	relative entropy
+བལྟོས-བཅས-གནས-ཚད	relative coordinate
+བལྟོས-བཅས-གནས-ཡུལ-འཚོལ-ཐབས	relative addressing
+བལྟོས-བཅས-གནས-ཡུལ	relative address
+བལྟོས-བཅས-ཕྱོགས-ཚད	relative vector
+བལྟོས-བཅས-བཀའ-བརྡ	relative instruction
+བལྟོས-བཅས-བཀའ	relative command
+བལྟོས-བཅས-ལྷག-ལུས	relative redundancy
+བལྟོས-བཅས-ཧེ-བག	relative error
+བལྟོས-མེད-གནས-ཚད	absolute coordinate
+བལྟོས-མེད-གནས-ཡུལ-འཚོལ-ཐབས	absolute addressing
+བལྟོས-མེད-གནས-ཡུལ	absolute address
+བལྟོས-མེད-ཕྱོགས-ཚད	absolute vector
+བལྟོས-མེད-ཕྱོགས-སྒྲིགས-བྱ-རིམ	absolute assembler
+བལྟོས-མེད-བཀའ-བརྡ	absolute instruction
+བལྟོས-མེད-བཀའ	absolute command
+བལྟོས-མེད-ཚབ-ཨང	absolute code
+བལྟོས-མེད-སྣོན-འཇུག-ཆས	absolute loader
+བལྟོས-མེད-ཧེ-བག	absolute error
+བཤར-ཆས	browser
+བཤར-འབེབས-ཆས	scanner
+བཤར-འབེབས-ཐིག	scanning line
+བཤར-འབེབས-བར-རྫས	scan medium
+བཤར-འབེབས-མགྱོགས-ཚད	scan speed
+བཤར-འབེབས-ཟློས-ཕྱོད	scan frequency
+བཤར-འབེབས	scanning
+བཤར-ལྟ	browsing
+བཤིག-མིན-སྟོང-རྟགས	no-break space
+བཤིག-འདོན	uninstall
+བཤེར-དཔྱད-འགྲུབ-པ	detection complete
+བཤེར-འཚོལ-ཁ-ཕྱོགས	search direction
+བཤེར-འཚོལ-གནས-ས	search location
+བཤེར-འཚོལ-ཐབས-མཆོག	tips for searching
+བཤེར-འཚོལ-དུས-ཚོད	search time
+བཤེར-འཚོལ-བར-སྟོང	search space
+བཤེར-འཚོལ-མཇུག-འབྲས	search results
+བཤེར-འཚོལ-འདེམས-ཚན	search options
+བཤེར-འཚོལ-རིགས-གྲས	search type
+བཤེར-འཚོལ-རེས-འཁོར	search cycle
+བཤེར-འཚོལ-ཤོག-ལྷེ	search page
+བཤེར-འཚོལ-སྡོང-འགྲེམས	search tree
+བཤེར-འཚོལ	search
+བཤེས-མེད-སློབ-སྦྱོང	learning without a teacher
+བསགས-ཡུལ-བགོ-བ	storage allocation
+བསད-སྤར-མཛུབ-སྟོན	switch indicator
+བསད-སྤར-འགྱུར-ཚད	switching variable
+བསད-སྤར-རྟེན-འབྱུང-གྲངས	switching function
+བསུབས-ཚར	deleted
+བསྐོངས-མེད-པ	unfilled
+བསྐྱར-གཏོང	replay
+བསྐྱར-གྲུབ	regeneration
+བསྐྱར-བཀོད-དཀར-ཆག	relocation dictionary
+བསྐྱར-བཀོད-ཕྱོགས-བསྒྲིགས-བྱ-རིམ	relocating assembler
+བསྐྱར-བཀོད-རུང-བ	relocatable
+བསྐྱར-བཀོད-སྣོན-འཇུག-ཆས	relocating loader
+བསྐྱར-བཀོད-སྤོ-ཡོ-ཚད	relocation offset
+བསྐྱར-བཟོ	redo
+བསྐྱར-བཟློས-གནས-ཡུལ-འཚོལ-ཐབས	repetitive addressing
+བསྐྱར-མངོན-ཚོད-འཛིན	display recall control
+བསྐྱར-ཟློས-འཁོར-སྐྱོད-དུས-ཚོད	rerun time
+བསྐྱར-ཟློས-ལུགས-རྩིས	repetitive operation
+བསྐྱར-ཟློས	repeat
+བསྐྱར-འཇུག	reload
+བསྐྱར-འབུལ	resubmit
+བསྐྱར-འཚོལ	redo searching
+བསྐྱར-འཛུགས	rebuild
+བསྐྱར-སྒྲིག	reconfiguration
+བསྐྱར-སྒྲུབ	restructuring
+བསྐྱར-སྦྲེལ	reconnecting
+བསྐྱར-སློང	restart
+བསྐྱར-སློང-ཆ-རྐྱེན	restart condition
+བསྐྱར-སློང-བཀའ-བརྡ	restart instruction
+བསྐྱར-སློང-ཚེག	restart point
+བསྐྱེད-པ	expand
+བསྒར-པང	board
+བསྒར-འཇུག	built-in
+བསྒྱུར-བ	translating
+བསྒྲིགས-པའི-སྒྲིག-ཆས	installed drivers
+བསྒྲིགས-བསྒྱུར-ནས-འཁོར-སྐྱོད	compile-and-go
+བསྒྲིགས-ཟིན	installed
+བསྒྲུབས-པ	completed
+བསྙོན-འདིང	repudiation
+བསྟུད-ལྷུང	morphing
+བསྟུད-ལྷུང-རི-མོ	morph
+བསྡུ-ཁུག	favorites folder
+བསྡུ-ཁུག-འདེམས-བྱང	favorites menu
+བསྡུ-ཉར	favorites
+བསྡུས-གནས-འབོད-པ	abbreviated address calling
+བསྡུས-པའི-ཆ-འཕྲིན	collected information
+བསྡུས-མིང	abbreviated
+བསྡུས-འགྲོལ	decompression
+བསྡུས-རིས	thumbnails
+བསྡུས-སྒྲོལ	to unpack
+བསྡོམས-རྩིས-དུས-དབྱེ-བསྐྱར-སྤྱོད	statistical time division multiplexing
+བསྡོམས-རྩིས	statistics
+བསྣོན-ཚད	increment
+བསླངས-པ	activated
+བུ-ཐག-ཨང-སྒྲིག	sub-band coding
+བུ-དཀར-ཆག	sub-directory
+བུ-དྲ-ཡིབ-ཨང	subnet mask
+བུ-དྲ-རྒྱ	subnet
+བུ-བྱ-རིམ-འདོན-སྤྱོད	subprogram call
+བུ-བྱ-རིམ-རྗེས-འདེད	subprogram trace
+བུ-བྱ-རིམ	subprogram
+བུ-ཚན	sub item
+བུ-ཚིགས	slave station
+བུ-རིགས-གྲས	subtype
+བུ-རྒྱུན-ལྡན-བྱ-རིམ	subroutine
+བུ-སྒེའུ-སྒྲོམ	subform
+བུ-སྡེ-ཚན	subunit
+བུ-སྡོང	subtree
+བུམ-སྐེའི-རིམ-པ	bottleneck layer
+བེད-སྤྱོད-གནང-རོགས	welcome to use
+བེད-སྤྱོད-བཞིན-པ	in use
+བེད-སྤྱོད-མ-བྱས	unused
+བེད-སྤྱོད	use
+བོར-དཀའི-གསོག-ཆས	nonvolatile storage
+བོར-སླའི-གསོག-ཆས	volatile storage
+བྱ-ཐབས-དམིགས-ཡུལ-དབྱེ-ཞིབ	means-ends analysis
+བྱ-ཐབས-ཡོད-རྒུས-རྒོལ-བ	exhaustive attack
+བྱ-ཐབས	method
+བྱ-ཡུལ-གྱི-མིང	object name
+བྱ-ཡུལ-དཔྱད-གཞི	object reference
+བྱ-ཡུལ-བར-འཇུག	insert object
+བྱ-ཡུལ-འགྱུར-ཚད	object variable
+བྱ-ཡུལ-རིགས-དབྱེ	object category
+བྱ-ཡུལ-སྣོན-པ	add object
+བྱ-ཡུལ-སྦྲེལ-མཐུད-དང-བཙུད-འཇུག	object link and embeding
+བྱ-ཡུལ	object
+བྱ-ར-བྱ-རིམ	monitor
+བྱ-རའི-ཆུ-ཚོད	watchdog timer
+བྱ-རིམ-ཁ-འབྱེད	open program
+བྱ-རིམ-ཁ-རྒྱག	close program
+བྱ-རིམ-གཙོ-བོ	main program
+བྱ-རིམ-གསལ-བཤད	program notes
+བྱ-རིམ-གྱི-གཟུགས	body
+བྱ-རིམ-གྱི-ལྷུ-ཆས	parts of programs
+བྱ-རིམ-གྲ-སྒྲིག	program preparation
+བྱ-རིམ-ཇུས-འགོད-ཁོར-ཡུག	programming environment
+བྱ-རིམ-ཇུས-འགོད-རྒྱུད-ཁོངས	programming system
+བྱ-རིམ-ཇུས-འགོད-སྐད-བརྡ	programming language
+བྱ-རིམ-ཐུམ-བུ	package
+བྱ-རིམ-ཐོན-སྐྱེད-དུས-ཚོད	program production time
+བྱ-རིམ-དུམ-བུ	segment
+བྱ-རིམ-ནོར-སྐྱོན	program error
+བྱ-རིམ-པ	programmer
+བྱ-རིམ-བཅོལ-ཆས	program register
+བྱ-རིམ-མཇུག-སྒྲིལ	program finished
+བྱ-རིམ-མཛོད	program library
+བྱ-རིམ-ཚད-ལྡན-གསལ-བཤད	program specification
+བྱ-རིམ-ཚོད-འཛིན	program-controlled
+བྱ-རིམ-ཚོད-ལྟ-དུས-ཚོད	program test time
+བྱ-རིམ-ཚོར-སྐྱོན	program-sensitive fault
+བྱ-རིམ-འཁོར-སྐྱོད	run program
+བྱ-རིམ-འདེམས-བྱང	program menus
+བྱ-རིམ-རྒྱུན-འགལ	program exception
+བྱ-རིམ-ལ-གཏོད-པའི-སྐད-བརྡ	procedure-oriented language
+བྱ-རིམ-ལག-བསྟར	program execution; to execute program
+བྱ-རིམ-སྐད-བརྡ	programming language
+བྱ-རིམ-སྐྱེད-སྒྲུབ-ཆས	program generator
+བྱ-རིམ-སྒྲིག-གཞི	program structure
+བྱ-རིམ-སྒྲིག-ཆོག-པའི-རྩིས-ཆས	programmable calculator
+བྱ-རིམ-སྒྲིག-པ	programming; coding; to program
+བྱ-རིམ-སྒྲིག-མི-རུང-བའི-མཐའ-སྣེ	nonprogrammable terminal
+བྱ-རིམ-སྒྲིག-མི-རུང-བའི-རྩིས-ཆས	nonprogrammable calculator
+བྱ-རིམ-སྒྲིག-རུང-བའི-ཆད-ས	programmable breakpoint
+བྱ-རིམ-སྒྲིག-རུང-མཐའ-སྣེ	programmable terminal
+བྱ-རིམ-སྒྲིག-རུང-རྐྱང-ཀློག-གསོག-ཆས	programmable read-only memory
+བྱ-རིམ-སྡེ-ཁག	program groups
+བྱ-རིམ-སྡེ-ཚན	program unit
+བྱ-རིམ-སྲུང-སྐྱོང	software maintenance
+བྱ-རིམ	program; code
+བྱ-རུང-ཞིབ-འཇུག	feasibility study
+བྱ-སྤྱོད-ཀྱི-ཆ-ཤས	action part
+བྱ-སྤྱོད	action
+བྱེད-པོ	subject; actor
+བྱེད-བཞིན-པ	in progress
+བྱེད-བཞིན-སྦྱོང-བ	learning while doing
+བྱེད-རུང-བའི-གྲངས-ཐང-ཆུང-ཤོས	allowed minimal value
+བྲག-ཅ	echo
+བྲིས-ཆེ-ཆུང-མཚུངས-དགོས	match case
+བྲེལ-བ	busy
+བྲེལ-སྒང	busy
+བློ-འཁེལ-ཚད	reliability
+བློ-འདྲི-རྒྱུད-ཁོངས	advisory system
+བློ-འབྱེད-བཤེར-འཚོལ	heuristic search
+བློ-འབྱེད-སྒྲིག-སྲོལ	heuristic rule
+མ-གྲུབ	failed
+མ-ཉར	don't save
+མ-དཔེ	sample
+མ-དཔེའི-སྒྲ	sample sounds
+མ-པང	main board
+མ-པང-སྒྲིག-གཞི	board infrastructure
+མ-ཚིགས	primary station
+མ-ཟིན	draft copy
+མ-འཇུག-པ	unloaded
+མ-འབྱོར-བའི-བརྡ-ཐོ	nonreceipt notification
+མ-ཡིག	original document
+མ-རྙེད	not found
+མ-ལག-གི-སྒྲིག-གཞི	architecture
+མ-ལམ-གཙོ-བོ	backbone
+མ-ལམ-གློག-ཐགས	trunk cable
+མ-ལམ-ཟུང-སྦྱོར-སྡེ-ཚན	trunk coupling unit
+མ-ལམ-སྦྲེལ-མཐུད-སྡེ-ཚན	trunk connecting unit
+མ-ལེན-པ	not receiving
+མ-སྐུད-དྲ-རྒྱ	bus network
+མ-སྐུད-ཟློས-ཕྱོད	bus frequency
+མ-སྐུད-འཇགས-བརྡ	bus-quiet signal
+མ-སྐུད	bus
+མ-སྤྱོད	don't use
+མཁའ-རླུང-སྡུད-མགོ	air-floating head
+མཁས-ནག	hacker
+མཁས-པ-རྒྱུད-ཁོངས	expert system
+མཁས-པ	expert
+མཁོ-ཕབ-བཟོ	create a copy
+མཁོ-ཕབ-མཉམ-སྒྲིལ	copy merged
+མཁོ-ཕབ-མཉེན-མ	soft copy
+མཁོ-ཕབ-ལེན-མཁན	copy recipient
+མཁོ-ཕབ-སྲ-མོ	hard copy
+མཁོ-ཕབ-སྲུང-སྐྱོབ	copy protection
+མཁོ-ཕབ	to copy
+མཁོ-མཁན-ཞབས-ཞུ-ཆས	client-server
+མཁོ-མཁན-གྱི-གནས-ཡུལ	client address
+མཁོ-མཁན-དབང-གནང-དཔེ-རྣམ	client licensing mode
+མཁོ-མཁན-ཕྱོགས	client side
+མཁོ-མཁན-འཕྲུལ-ཆས	client
+མཁོ-མཁན-སྣེའི-སྒྲིག-འགོད	client settings
+མཁོ-མཁན	clients
+མཁོ-འདོན-བྱེད-མཁན	provider
+མཁྲེགས-ཆས-གསར-པ-མཐོང	found new hardware
+མཁྲེགས-ཆས-ཇུས-འགོད-སྐད-བརྡ	hardware design language
+མཁྲེགས-ཆས-ནོར-སྐྱོན-བཤེར-དཔྱད	hardware error detection
+མཁྲེགས-ཆས-ཞུགས-གྲངས	hardware arguments
+མཁྲེགས-ཆས-ལྟ-སྡོམ	hardware monitor
+མཁྲེགས-ཆས-སྒྲིག-འཇུག	hardware install
+མཁྲེགས-ཆས-སྤོ-ཆོག	safe to remove hardware
+མཁྲེགས-ཆས	hardware
+མཁྲེགས-དབྱེ-ཡབ-ཁུལ	hard sectoring
+མག-མོག-ལིང-ཚེ	confusion matrix
+མགོ-གྲངས	characteristic
+མགོ-ནས-འོག	top-down
+མགོ-བརྗོད	heading
+མགོ-ཡིག	initial
+མགོ-ཤོག-ཕྱིར-འདོན-དུས-ཚོད	cover page output time
+མགོ-སྐོར	to spoof
+མགོ-སྣེ	headend
+མགྱོགས-མྱུར-བར-ཁུལ	cache
+མགྱོགས-མྱུར-སྡུད-འགོད	rapid enrollment
+མགྱོགས-མྱུར	fast
+མགྱོགས-ཚད-ལྡབ-མ	double speed
+མགྱོགས-ཚད	speed
+མགྲོན-པོ	guest
+མང-བསྒྲགས	multicast
+མང-འདེམས-སྒྲོམ	checkbox
+མང-འདེམས	multiple selection
+མང-སྤྱོད-བསལ-བ	demultiplexing
+མང-སྤྱོད	multiplexing
+མངགས-ཉོ-མཁན	subscriber
+མངོན-ཁཱ-ཉིང-ལྷེབ	video chip
+མངོན-ཁཱ	display adapters
+མངོན-གསལ	highlighting
+མངོན-གྱུར-རྗེས-ཀྱི-དཔྱད-བརྗོད	post-implementation review
+མངོན-ཆས-ཀྱི-ཆེ-ཆུང	monitor size
+མངོན-ཆས	monitor; display device
+མངོན-མེད-གནས-འཚོལ	implicit addressing
+མངོན-མེད-གསལ-བཤད	implicit declaration
+མངོན-མེད-དབང-རྩའི-རྒྱུ	hidden neuron
+མངོན-མེད-མཁོ-ཕབ-ལེན-མཁན	blind-copy recipient
+མངོན-མེད-ལེན-མཁན	potential recipient
+མངོན-འགྱུར	implementation
+མངོན-སྟོན-ཁ-མདོག	display color
+མངོན-སྟོན-ཁཱ	display adapters
+མངོན-སྟོན-གཞི-རྒྱུ	display element
+མངོན-སྟོན-གྲུབ-འབྲས	display effect
+མངོན-སྟོན-ངོས	display surface
+མངོན-སྟོན-ཆེ-ཆུང	display size
+མངོན-སྟོན-ཉིང-ལྷེབ	display chip
+མངོན-སྟོན-བཀའ-བརྡ	display instruction
+མངོན-སྟོན-བཀའ	display command
+མངོན-སྟོན-བར-སྟོང	display space
+མངོན-སྟོན-མཐུད-ཁ	display interfaces
+མངོན-སྟོན-ཚན-བྱང	display columns
+མངོན-སྟོན-ཚོད-འཛིན-སྟེགས-བུ	display console
+མངོན-སྟོན-རྩིས-ཆས	display calculator
+མངོན-སྟོན-རྩོལ-ནུས	display functions
+མངོན-སྟོན-སྒེའུ-ཁུང	display window
+མངོན-སྟོན-སྡུར-ཚད	show scale
+མངོན-སྟོན	display
+མཆན-མདོག	note color
+མཆན-འགྲེལ	comment; annotation; remark; note
+མཆོང-པ	jump
+མཆོང-བ	skip
+མཆོང-འགྱུར	transition
+མཆོང-སྤོ	jump
+མཇུག-གྲངས	mantissa
+མཇུག-ཏུ-སྤོ-བ	move to end
+མཇུག-ཕྲེང	bottom row
+མཇུག-མཆན	endnote
+མཇུག-མའི-ཕྲེང-ཧྲེང	orphan; orphan line
+མཇུག-ཚིགས	terminal node
+མཇུག-ཚེག	end node
+མཇུག-འབྲས-ཕྱིར-འདོན-སྲིང-བའི-རྩོལ-ནུས	extended result output function
+མཇུག-འབྲས	result
+མཇུག-སྒྲིལ-གནས-ས	finish position
+མཇུག-སྒྲིལ-བྱ-རིམ	end program
+མཇུག-སྒྲིལ-ཚེས-གྲངས	end date
+མཇུག-སྒྲིལ-ལས-བྱ	terminate job
+མཇུག-སྒྲིལ	end
+མཇུག-སྡུད-སྒྲིག-གཅོད-བྱ-རིམ	postprocessor
+མཇུག-སྡོམ-ཆ-ཤས	conclusion part
+མཇུག-སྣེ-ཚིགས-ཚེག	endpoint node
+མཉམ-གཡོ-རྩེ	formant
+མཉམ-གཡོ-རྩེའི-འདྲེས-གྲུབ	formant synthesis
+མཉམ-གཤིབ-མཐུད-ཁ	parallel port
+མཉམ-གཤིབ-འཁོར-སྐྱོད	parallel run
+མཉམ-བསྲེས-དཔེ-རྣམ	mixed mode
+མཉམ-བསྲེས-ཞབས-གྲངས-གྲངས-ལུགས	mixed base numeration system
+མཉམ-བསྲེས-རིགས-གྲས	mixed type
+མཉམ-བསྲེས-རིམ-དབྱེ-སྒྲིག-གཞི	mixed hierarchy
+མཉམ-བསྲེས-རྨང-གྲངས-གྲངས-ལུགས	mixed radix numeration system
+མཉམ-བསྲེས-སྐད-ལམ-ནས-ཕྱིར-འདོན	mixed sound output
+མཉམ-བསྲེས	mixed
+མཉམ-བྱུང	concurrent
+མཉམ-བྱུང-བརྒྱུད-རིམ	concurrent processes
+མཉམ-འདུས-བརྙན-འཕྲིན-ཕྱིར-འདོན	compound video output
+མཉམ-འདུས-ཚུལ-གྱི-རིགས-གྲས	composite type
+མཉམ-འདྲེས	contamination
+མཉམ-འབྲེལ-ཆ-འཕྲིན-ནང-དོན	joint information content
+མཉམ-སྒྲིག-ཚོད-ལྟ	integration test
+མཉམ-སྒྲིལ	merge
+མཉམ-སྤྱོད-གཞི-གྲངས	shared data
+མཉམ-སྤྱོད-གྲངས-ཐང	shared variable
+མཉམ-སྤྱོད-དབང-ཐོབ-དྲ-རྒྱ	weight-sharing network
+མཉམ-སྤྱོད-པར-འཁོར	shared printers
+མཉམ-སྤྱོད-བྱ-ཆོག	enable sharing
+མཉམ-སྤྱོད-བྱེད-སྟངས	shared as
+མཉམ-སྤྱོད-མཚམས-འཇོག-པ	stop sharing
+མཉམ-སྤྱོད-ཡིག-ཁུག	share the folder
+མཉམ-སྤྱོད	share
+མཉམ-སྦྱོར-བྱ-རིམ	coroutine
+མཉམ-སྨོ-གློག-གནོན-ཆེ-ཤོས	maximum common mode voltage
+མཉེན-གཤིས-བཟོ-སྐྲུན-རྒྱུད-ཁོངས	flexible manufacturing system
+མཉེན-ཆས-ཐུམ-བུ	software package
+མཉེན-ཆས-བེད-སྤྱོད-གྲོས-ཆིངས	software license
+མཉེན-ཆས-མཛོད	software library
+མཉེན-ཆས-འཁྲོལ-འཛིན-གྲོས-མཐུན	software license
+མཉེན-ཆས-རྐུས-དཔར	software piracy
+མཉེན-ཆས-ལག-ཆ	software tool
+མཉེན-ཆས-ལས-གྲྭ	software engineering
+མཉེན-ཆས	software
+མཉེན-དབྱེ-ཡབ-ཁུལ	soft sectoring
+མཉེན-སྐུལ	flopy driver
+མཉེན-སྐྱོན	soft error; transient error
+མཉེན-སྡེར-ཆུང-བ	diskette
+མཉེན-སྡེར	floppy disk
+མཐའ-ཐག	margins
+མཐའ-ཐག-འོག-མ	margins bottom
+མཐའ-མ	last
+མཐའ-མང-ཁ-སྐོང	polygon fill
+མཐའ-མཚམས	border
+མཐའ-མའི-སྤྱོད-པ-པོ	end user
+མཐའ-སྐོར	surround
+མཐའ-སྒྲོམ-ཆེ-ཆུང	border size
+མཐའ-སྒྲོམ-བཟོ-ལྟ	border style
+མཐའ-སྒྲོམ-མེད-པ	no borders
+མཐའ-སྒྲོམ	bounding box; borders
+མཐའ-སྣེ	terminal
+མཐར-སྣེའི-སྤྱོད-མཁན	end user
+མཐིལ-ལ-སྙོམ-གཤིབ-བྱེད-པ	align bottom
+མཐུད-ཁ	port; interface
+མཐུད-ཁའི-གནས-ཡུལ	interface's address
+མཐུད-ཁའི-ཨང-རྟགས	port number
+མཐུད-ངོས	interface
+མཐུད-པའི-འདྲེས-གྲུབ	concatenation synthesis
+མཐུད-བརྟན-དུས-ཚོད	turn-on stabilizing time
+མཐུད-མངག	renewal
+མཐུད-འཁོར	switch
+མཐུད-འཇུག	cutover
+མཐུད-རྟགས-མཉེན-པོ	soft hyphen
+མཐུད-རྟགས-སུབ-པ	hyphen drop
+མཐུད-རྟགས-སྲ-མོ	hard hyphen
+མཐུད-རྟགས	hyphen
+མཐུད-སྐྱེལ	extended
+མཐུད-སྒོ	switchpoint
+མཐུད-སྦྲེལ-འཕྲིན-ཡིག	chain letter
+མཐུན-པ	conform
+མཐེབ-གང-རུང-གིས-མཚམས-འཇོག	any key abort
+མཐེབ-གཅུས-ཆེ-བ	large buttons
+མཐེབ-གཅུས-མགོ-ལེབ	flat button
+མཐེབ-གཅུས-ཟོལ-མ	virtual push button
+མཐེབ-གཅུས-འགྲིལ-བ	scroll button
+མཐེབ-གཅུས-ར-སྤྲོད	keystroke verification
+མཐེབ-གཅུས	button
+མཐེབ-གཞོང	keyboard
+མཐེབ-གཞོང-བཀོད-པ	keyboard layout
+མཐེབ-གཞོང-མཉེན-པ	soft keyboard
+མཐེབ-གཞོང-མཐེབ	keyboard key
+མཐེབ-གཞོང-མཚོན-རྟགས	keyboard sign
+མཐེབ-གཞོང-འབིགས-འཁོར	keyboard punch
+མཐེབ-གློད	release keystroke
+མཐེབ-བཀྱག	keys
+མཐེབ-བཀྱག-གནོན-སྡོད	press and hold keys
+མཐེབ-བཀྱག-གོ-རིམ	key sequence
+མཐེབ-བརྗེ-སྒྲིག-འགོད	settings for togglekeys
+མཐེབ-མང-ཡིག-རྟགས-ཕབ-འཇུག	multistroke character entry
+མཐེབ-ཞིག-གནོན	press a key
+མཐེབ-འཁོར	thumb wheel
+མཐེབ-འཇུག	typing
+མཐེབ-འབྲེལ	keystroke link
+མཐེབ-འཛིན-འབིགས-འཁོར	keypunch
+མཐེབ-འཛིན	keyboard-controlled
+མཐོ-ཚད	height
+མཐོ-རིམ-གཞི-གྲངས-ཕྲེང-ལམ-ཚོད-འཛིན	high-level data link control
+མཐོ-རིམ-འཚོལ-པ	advanced query
+མཐོ-རིམ-སྐད-བརྡ	high-level language
+མཐོ-རིམ	advanced
+མཐོ-ཤོས	highest
+མཐོང-ཐུབ-ཆ-ཤས	visible part
+མཐོང-ཚད	visibility
+མཐོང-ཚོར-རྒྱུ-རྐྱེན	visual element
+མཐོང-རིས-ཁ-འབྱེད	open views
+མཐོང-རིས	view
+མཐོང-རུང	visible
+མཐོང-རུང-ཅན	visualization
+མཐོང-རུང-དབང-རྩའི-རྒྱུ	visible neuron
+མཐོང-རུང-མངོན-སྟོན-མཐའ-སྣེ	visual display terminal
+མཐོང-རུང-མངོན-སྟོན-སྡེ-ཚན	visual display unit
+མཐོང-རུང-ཟུར-ཚད	visual angle
+མཐོང-རུང-རིམ-པ	visible layer
+མཐོང-རུང-སྐད-བརྡ	visual language
+མཐོང-རྒྱ	visibility
+མདའ-རྟགས-འགྲིལ-བ	scroll arrow
+མདའ-རྟགས	arrow sign
+མདའ-རྩེ-སུབས	delete arrow
+མདའ-རྩེ	arrow
+མདའ	axis
+མདའི-ཁ-བྱང	axis title
+མདའི-རྣམ-གཞག	format axis
+མདུན-གོམ-མཉམ-གྱི-ཨང-རྟགས	preamble
+མདུན-ངོས	front
+མདུན-ནས-རྒྱབ	front to back
+མདུན-ཕྱོགས-ཁྱབ-ཆུང-དྲ-རྒྱའི-འཕྲིན-ལམ	forward LAN channel
+མདུན-ཕྱོགས-ཁྱབ-སྤེལ-དྲ-རྒྱ	forward-propagation network
+མདུན-ཕྱོགས-ཁྱབ-སྤེལ	forward propagation
+མདུན-ཕྱོགས	step forward
+མདུན-བརྙན	before-image
+མདུན-རིས	foreground image
+མདུན-ལྗོངས-ཁ-མདོག	foreground color
+མདུན-སྐྱེལ-ཁྱབ-སྤེལ	feedforward propagation
+མདུན-སྐྱེལ-དྲ-རྒྱ	feedforward network
+མདུན-སྣེ-སྒྲིག-གཅོད-ཆས	front-end processor
+མདུན-སྣེ	front
+མདུན-སྣེའི-རྩིས-འཁོར	front-end computer
+མདུན-སྣེའི-སྒྲིག-འཁོར	front end processor
+མདོ-ཚེག	focus
+མདོ-འགྱུར	focusing
+མདོག-ཟབ-ཐིག-རིས	dark strokes
+མདོག-སེལ	deseturate
+མདོར-བསྟན	overview
+མདོར-བསྡུས	summary
+མན-ཁྲུ-སི-ཐེ-ཁྱད-ཆ-ཨང-སྒྲིག-ཐབས	differential manchester encoding
+མན-ཁྲུ-སི-ཐེ-ཨང-སྒྲིག	manchester encoding
+མཚན-གནས-མུ-མཐུད-གྱི-ཟློས-སྤོ-མཐེབ-འཛིན	phase-continuous frequency shift keying
+མཚན-གནས-འབྲེལ-སྒུལ-གྱི-ཟློས-སྤོ-མཐེབ-འཛིན	phase coherent frequency shift keying
+མཚན-གནས-སྤྲུག-པ	phase jitter
+མཚན-གནས-ཨང-སྒྲིག	phase encoding
+མཚན-ཉིད-ཐག-གཅོད-བྱས-མེད-པ	undefined
+མཚན-ཉིད	define
+མཚན-སྒྲིག-ཟིན-ཐོ-འགོད-ཐབས	phase modulation recording
+མཚམས-གཅོད-མཚོན-རྟགས	separator
+མཚམས-གཅོད-རྟགས	separator
+མཚམས-གཅོད	compartmentalization
+མཚམས-བཞག	disabled
+མཚམས-འཇོག	terminate
+མཚམས-འཇོག-པ	stop
+མཚམས-འཇོག-བཀའ-བརྡ	stop instruction
+མཚམས-འཇོག-ཚོད-ལྟ	termination test
+མཚམས-རྟགས	delimiter
+མཚམས-རྟེན-འབྱུང-གྲངས	threshold function
+མཚམས	bound
+མཚུངས-པ	equal
+མཚུངས-རྟགས-རྩོལ-ནུས	equals function
+མཚུངས-སྤོས	translating
+མཚུངས	equals
+མཚོ-མདོག	aqua
+མཚོན-བྱེད-རྒྱུན-ཚད	figurative constant
+མཚོན-ཚུལ	expression
+མཚོན-རྟགས-གཏན-ཚིགས	symbolic logic
+མཚོན-རྟགས-གནས-ཡུལ	symbolic address
+མཚོན-རྟགས-ཕྲེང	symbol string
+མཚོན-རྟགས-བཤར-འབེབས	mark scanning
+མཚོན-རྟགས-རྗེས-འདེད	symbolic trace
+མཚོན-རྟགས-ལག-བསྟར	symbolic execution
+མཚོན-རྟགས-སྐད-བརྡ	symbolic language
+མཚོན-རྟགས-སྦྲེལ-མཐུད	symbolic link
+མཚོན-རྟགས	symbol
+མཛུབ-སྟོན	directive
+མཛོད-ཀྱི-བྱ-རིམ	library program
+མཛོད	library
+མར-འགྲིལ	scroll down
+མར-འགྲོ-སྦྲེལ-ལམ	downlink
+མར-འཐེན-འདེམས-བྱང	 drop down menus|pull-down menu 
+མར-འཐེན-རེའུ-མིག	drop down list
+མར-འཐེན	drop down
+མར-འདེད-གསལ-ཐོ	pushdown list
+མར-འདེད-གསོག-ཆས	pushdown storage
+མར-འདེད-དོས-ཁང	pushdown stack
+མར-རིམ-སྒྲིག	down sort
+མར-ལུད-མཚོན-སྟོན	underflow indication
+མར-ལུད-རྒྱུན-འགལ	underflow exception
+མར-ལུད	underflow
+མར-སྤོ	down move
+མར	down
+མལ-གསོ	hibernate
+མཱར-ཁོབ-གབ-ཚུལ-དཔེ-དབྱིབས	hidden markov model
+མི-ཆོག	disallow
+མི-བཟོས-ནོར-སྐྱོན	mistake
+མི-བསུབས	undelete
+མི-མཐུན-པ	incompatible
+མི-མཐུན-པའི-ཡིག-ཆའི-རྒྱུད-ཁོངས	incompatible file system
+མི-མཚུངས	does not equal
+མི-འགྱུར-བ	invariant
+མི-འདུག	does not exist
+མི-འབྲེལ-བརྡ-ཐོ	interpersonal notification
+མི-འབྲེལ-བརྡ-འཕྲིན-སྒྲིག-སྤེལ	interpersonal messaging
+མི-འབྲེལ-བརྡ-འཕྲིན	interpersonal message
+མི-སུབ	to undelete
+མི-སྒེར	personal
+མི-སྙོམ	don't align
+མི-སྤྱོད	disable
+མི-སྦྱོང-བ	unlearning
+མིག-སྔའི-གཏམ-གླེང	current sessions
+མིག-སྔའི-གནས-ས	current position
+མིག-སྔའི-གནས-སུ-སྤོ-བ	move to current position
+མིག-སྔའི-གྲངས-ཐང	current values
+མིག-སྔའི-དཀར-ཆག	current directory
+མིག-སྔའི-བྱ-འགུལ	current activity
+མིག-སྔའི-མདོ-ཚེག	current focus
+མིག-སྔའི-ཟིན-ཐོ	current record
+མིག-སྔའི-རྣམ-གཞག	current format
+མིག-སྔའི-ཤོག-ངོས	current page
+མིག-སྔའི-སྡོད-གནས-སྦྲེལ-མཐུད-བྱེད-པ	link current position
+མིག-སྔའི-སྤྱོད-མཁན	current user
+མིག-སྔར-སྟོན-མདའ	current pointer
+མིག-སྔར	current
+མིང	name
+མིང-གཞན-དམིགས-འཛུགས-བྱེད-པ	designated alias
+མིང-གཞན	alias
+མིང-ཐོ	directory
+མིང-ཐོག-ལ-སྡོད-མིང-སྣོན-པ	name resolution
+མིང-བཀོད-པའི-ཞུགས-གྲངས-ཟུང-འབྲེལ	named parameter association
+མིང-བཀོད-ཟིན-པ	signed
+མིང-བཏགས-མེད-པ	unnamed
+མིང-བརྡ-གདོང-གཏུག	name conflict
+མིང-བསྐྱར-འདོགས	rename
+མིང-མཐུན-པ	homonymic
+མིང-མཚན-དམིགས-འཛུགས-བྱེད-པ	create names
+མིང-མེད-སྦྲག-སྐུར-བསྐྱར-གཏོང-ཆས	anonymous remailer
+མིང-འགོད-དུས-ཚོད	signed at
+མིང-འདོགས-པ	create name
+མིང-འདོགས-ལས-ཁུངས	naming authority
+མིང-འདོགས-སྲོལ	naming rule
+མིང-འདོགས	naming
+མིང-རྟགས-བར-འཇུག	insert signature
+མིང-རྟགས	signature
+མིང-ལྟར-ཐང-སྤྲོད	assignment by name
+མིང-ལྟར-འདོན-སྤྱོད	call by name
+མིང-ལྟར-འཚོལ-བ	find by name
+མིན	no
+མིས-འབོད-པ	manual calling
+མིས-ལན-སློག	manual answering
+མུ-མཐའ	margin
+མུ-མཐུད-ཐིག-ཅན-ཤོག-བུ	continuous forms paper
+མུ-མཐུད-བྱེད-པ	resume
+མུ-མཐུད-མི-ཐུབ-པ	cannot continue
+མུ-མཐུད-ཚོད-ལྟ	continuation test
+མུ-མཐུད-སྐད-གདངས-ཤན-འབྱེད	continuous-speech recognition
+མུ-མཐུད-སྒུག-པ	continue waiting
+མུ-མཐུད	continue; continuous
+མུ-འགྲམ-དཔྱད-འཇལ	marginal check
+མུ-འགྲམ-ཚོད-ལྟ	marginal test
+མུ-འགྲམ-ཞིབ-སྡུར	marginal check
+མུག-འབུ	worm
+མེ-འགོག-གྱང	firewall
+མེད-པ	none
+མོ-གྲངས-མཛུབ-སྟོན	negative indication
+མོ-གྲངས	negative
+མོ-ཐང-སྤྲོད-པ	negative entry
+མོ-མིན-ཧྲིལ-གྲངས	nonnegative integer
+མོས-མཐུན	agree
+མྱུར-བའི-གཞི-གྲངས	immediate data
+མྱུར-མགྱོགས-གནས-གོང-འགྲིལ	high-speed carry
+མྱུར-མཐེབ	shortcut key
+མྱུར-ལམ-བཟོ	create shortcut
+མྱུར-ལམ-རྟགས-རིས	shortcut icon
+མྱུར-ལམ	shortcut
+མྱུར-ལྟ	quick view
+མྱུར-སྐུལ-སློང	quick launch
+མྱུལ-བ	panning
+མྱུལ-འཕྲིན	navinfo
+ཙག-ཙིག	miscellaneous
+ཙག-ཙིག-དུས-ཚོད	miscellaneous time; incidental time
+ཙི-གུ-གཅིག-རྡེབ	click mouse
+ཙི-གུ-གནས-ངེས	mouse locating
+ཙི-གུ	mouse
+ཙི-གུའི-མཐེབ-གློད-པ	release mouse buttons
+ཙི-གུའི-མཐེབ	mousekeys
+ཙི-གུའི-སྟོན-མདའ	mouse pointers
+ཙི-གུར-ཉིས-རྡེབ	double click mouse
+ཙི-མཐེབ-གནོན-སྡོད	press and hold mouse buttons
+ཚ-ཁུལ	hotspot
+ཚ-མཐེབ	hot key
+ཚ-ཚིགས	hot site
+ཚ-སྐྱེན-པར-འཁོར	thermal printer
+ཚ-སློང	warm start
+ཚགས-ཉར	filing
+ཚགས-ཡིག	message; archived file
+ཚགས-ཡིག-བརྗེ-བ	message switching
+ཚགས-ཡིག-འཚོལ-ལེན	message retrieval
+ཚང-མ-ཆེ-འབྲི	all caps
+ཚངས-ཕྱོགས-རྨང-རྟེན-འབྱུང-གྲངས	radial basis function
+ཚད-གཞི-གསལ-བཤད	formal specification
+ཚད-གཞི-མིན-པའི-སྒྱུར-བ	normalized transformation
+ཚད-གཞི-འབྱེད-ཕྱོད	standard resolution
+ཚད-གཞི	specification; standard
+ཚད-བཀག	qualification; restrictions
+ཚད-བཀག-གདོང-ཐུག	constraint violation
+ཚད-བཀག-མེད-པ	no restriction
+ཚད-བཀག-རིགས-གྲས	limited type
+ཚད-བཟོས-མིང	qualified name
+ཚད-བརྒལ	over
+ཚད-མེད-རེས-འཁོར	infinite loop
+ཚད-འགོག-ཆས	limiter
+ཚད-འཕར-སློབ-སྦྱོང	incremental learning
+ཚད-འབེབས	to quantize
+ཚད-ཡོད-རྒྱུའི-དཔེ-བཟོ	finite-element modeling
+ཚད-ཡོད-རྒྱུའི-དབྱེ-ཞིབ	finite-element analysis
+ཚད-རིམ-ཅན	to normalize
+ཚད-རྒྱ-མང-བའི-ཆེར-སྐྱེད-ཆས	multirange amplifier
+ཚད-ལྡན-ཅན	standardization; normalization
+ཚད-ལྡན-ཡིག-གཟུགས	standard fonts
+ཚད-ལྡན-རིགས-གྲས	standard types
+ཚད-ལྡན-སྐད-བརྡ	specification language
+ཚད-ལྡན-སྒྲིག-ཆས-གནས-ཚད	normalized device coordinate
+ཚད-ལྡན-སྒྲིག-བཀོད	standard configuration
+ཚད-ལྡན-སྟར-ཞེང	standard width
+ཚད-ལྡན-སྡེབ-སྒྲིག	standard configuring
+ཚད-ལྡན	standard
+ཚན-བྱང	bar
+ཚན-བྱང-ཆེ-དྲག-པ	column too big
+ཚན-རིག-མཐོང-རུང-ཅན	scientific visualization
+ཚན-རྡོག-སྒྲིག-གཞི-སྐད-བརྡ	block-structured language
+ཚན	term
+ཚབ-འཇུག	substitution
+ཚབ-རྩིས-གཏན-ཚིགས-རྩིས-ཆས	calculator with algebraic logic
+ཚབ-རྩིས-སྐད-བརྡ	algebraic language
+ཚབ-ལེན-མཁན	alternate recipient
+ཚབ-ཨང	code
+ཚབ-ཨང-གཞི-རྒྱུ	code element
+ཚབ-ཨང-གྲངས-ཐང	code value
+ཚབ-ཨང-ནང-གསལ	code-transparent
+ཚབ-ཨང-བརྒྱོངས-པའི-ཡིག-རྟགས	code extension character
+ཚབ-ཨང-ཚོགས-སྤྱི	code set; code element set
+ཚབ-ཨང-རྗེས-འདེད	code trace
+ཚབ-ཨང-སྐྱེད-སྒྲུབ-ཆས	code generator
+ཚབ-ཨང-སྒེར-ཚུགས	code-independent
+ཚབ-ཨང-སྒྱུར-ཆས	code converter
+ཚབས-ཆེ-བ	severity
+ཚབས-ཆེན	severe
+ཚིག	word
+ཚིག-གྲངས-རྩིས-པ	word count
+ཚིག-གྲུབ	sentence
+ཚིག-དོན-དྲ-བ	semantic net
+ཚིག-དོན-དྲ-རྒྱ	semantic network
+ཚིག-དོན	semantics
+ཚིག-རྐྱང-ཤན-འབྱེད	isolated-words recognition
+ཚིགས-ཚེག	node
+ཚིགས-ཚེག-གནས-ཡུལ	node address
+ཚིགས-ཚེག-མིང	node name
+ཚིགས-ཚེག-ཡོངས-རྫོགས	all nodes
+ཚུར-སྐྱེལ	to return
+ཚེག	point
+ཚེག-གྲམ-པར-འཁོར	dot printer; matrix printer
+ཚེག-གྲམ-ཡིག-གཟུགས	raster fonts
+ཚེག-གྲམ-ཡིག-རྟགས-སྐྱེད-ཆས	dot matrix character generator
+ཚེག-ཐིག	dot line; dotted
+ཚེག-ཐིག-སྒྲོམ	marquee
+ཚེག-ནས-ཚེག	point to point
+ཚེག-ནས-ཚེག-འབྲེལ-མཐུད	point-to-point connection
+ཚེག-བར	dot pitch
+ཚེག-མང-འབྲེལ-མཐུད	multipoint connection
+ཚེག-འབྲིང	comma
+ཚེག-རིས-དཔེ-རྣམ	stipple pattern
+ཚེག-རྟགས-ནུས-པ	punctuation capability
+ཚེག-རྟགས	punctuation
+ཚེག-ལིང-ཚེ-ཡིག-རྟགས-ཐོན-ཆས	dot matrix character generator
+ཚེས-གྲངས-དང-དུས-ཚོད-སྒྲིག-འགོད	date and time settings
+ཚེས-གྲངས-དང-དུས-ཚོད	date & time
+ཚེས-གྲངས-དམིགས-འཛུགས-བྱེད-པ	designate date
+ཚེས-གྲངས-བཟོ	create date
+ཚེས-གྲངས-འཇལ-ཚད	date unit
+ཚེས-གྲངས-ཡིག-དུམ	date field
+ཚེས-གྲངས	date
+ཚོ-གྲངས	complex number
+ཚོ-གྲུབ-བཟོ-རྩལ	group technology
+ཚོ-ཆུང-སྒྲོམ	group frame
+ཚོ-མིང	group name
+ཚོ	group
+ཚོགས-ཆགས-བར-འགྱེད	grouping isolation
+ཚོགས-པ-གསར-སྣོན	add new group
+ཚོགས-སྤྱིའི-རིགས-གྲས	set type
+ཚོགས	set
+ཚོང-དོན-ཁ-པར	business phone
+ཚོང-རྟགས	brand
+ཚོང-སྤྱོད	business purpose
+ཚོད-དཔག-བསྡོམས-འབོར	assumed-size aggregate
+ཚོད-འཛིན-ཁུལ	control area
+ཚོད-འཛིན-ངོས-པང	control panel
+ཚོད-འཛིན-ཆད-ས	control breakpoint
+ཚོད-འཛིན-ཐེབས-པའི-འོད-ཆུན-མངོན-ཆས	directed-beam display device
+ཚོད-འཛིན-དང-བརྟག-བཤེར-སྒྲིག-ཆས	controls and checking devices
+ཚོད-འཛིན-བྱ-རིམ	control program
+ཚོད-འཛིན-བྱེད-རུང-བ	controllable
+ཚོད-འཛིན-བྱེད-སྟངས	control method
+ཚོད-འཛིན-མཐུད-ཁ	control port
+ཚོད-འཛིན-མདོ-ཐག	control focus
+ཚོད-འཛིན-མི-ཐུབ	not controllable
+ཚོད-འཛིན-ཚན-བྱང	control bar
+ཚོད-འཛིན-ཟུང-སྦྱོར	control coupling
+ཚོད-འཛིན-ཡིག-རྟགས	control character
+ཚོད-འཛིན-རྒྱུན-རིས	control flow diagram
+ཚོད-འཛིན-རྒྱུན-རྗེས-འདེད	control-flow trace
+ཚོད-འཛིན-རྒྱུན	control flow
+ཚོད-འཛིན-ལྟ-སྤྱོད-རྒྱུད-ཁོངས	controlled access system
+ཚོད-འཛིན-ལྟ-སྤྱོད	control access
+ཚོད-འཛིན-ལྡེབ	control frame
+ཚོད-འཛིན-ས-ཚིགས	control station
+ཚོད-འཛིན-སྐད-བརྡ	control language
+ཚོད-འཛིན-སྲུང-སྐྱོང	controlled maintenance
+ཚོད-འཛིན	control
+ཚོད-རྩིས-གྲངས-ཐང	estimated value
+ཚོད-རྩིས	estimated
+ཚོད-ལྟ-ཁྲོད-ཀྱི-རེས-འཁོར	in-test loop
+ཚོད-ལྟ-རྗེས-ཀྱི-རེས-འཁོར	posttest loop
+ཚོད-ལྟ	test; attempt
+ཚོད-ལྟའི-དཔེ-རྣམ-འགོ-སློང	start testing model
+ཚོད-ལྟའི-བྱེད-སྟངས	testing mode
+ཚོད-ལྟའི-འཆར-གཞི	test plan
+ཚོད-ལྟའི-རྣམ-པ	test status
+ཚོད-ལྟའི-ལས-གཞི	pilot project
+ཚོད-ལྟའི-ཤོག-ལྷེ	test page
+ཚོད-ལྟའི-སྐད-བརྡ	test language
+ཚོད-ལྟའི-སྔོན-གྱི-རེས-འཁོར	pretest loop
+ཚོད-ལྟའི-སློབ-སྦྱོང	heuristic learning
+ཚོན-གྱི-ཟབ-ཚད	color depth
+ཚོན-ཐགས	inked ribbon
+ཚོན-མདངས	hue
+ཚོན-མདོག-གྲངས	color number
+ཚོན-རིས	color pattern; color map
+ཚོན-ལྡན-པར-ལ-རྒྱབ-སྐྱོར-བྱེད-པ	support color printing
+ཚོན-ལྡན-མཐེབ-གཅུས	color buttons
+ཚོན-ལྡན	color
+ཚོར-ཆས	perceptron
+ཚོར-རུང-གཞི-རྒྱུ	detectable element
+ཚོར-སྐྱེན-ཆ-འཕྲིན-སྲུང-སྐྱོབ	protection of sensitive information
+ཚོར-སྐྱེན-ཆ-འཕྲིན	sensitive information
+ཚོར-སྐྱེན	sensitivity
+ཚོས-གྲི	palette knife
+ཚོས-པང	color palette
+ཚོས-པང-སྒེའུ-ཁུང	color palette windows
+ཚོས-པང-སྒྲིག-འགོད	palette setting
+ཚོས-སྡེབ-ཇུས-གཞི	color schemes
+ཛ-དྲག	urgent
+ཝེ-ཆི-རི-མོ	vetch diagram
+ཝེན-རིས	venn diagram
+ཞན-གནས	weak bit
+ཞབས-གྲངས	base
+ཞབས-ནས-སྟེང	bottom-up
+ཞབས-མཆན	footnote
+ཞབས-ཞུ-ནུས-པ	servability
+ཞབས-ཞུ-ཟློག-པ	denial of service
+ཞབས-ཞུ-འཕྲུལ-ཆས	server
+ཞབས-ཞུ	service
+ཞབས-ཞུའི-བི-ཐེ	service bit
+ཞབས-ཞུའི-བྱ-རིམ	service routine program
+ཞབས-སྒྲོམ	grip
+ཞབས	bottom
+ཞར-བྱུང	accessories
+ཞར-མཆན	note
+ཞི-གློག-གསོག-ཆས	electrostatic storage
+ཞི-གློག-པར-འཁོར	electrostatic printer
+ཞི-གློག-རི-མོ-འབྲི-ཆས	electrostic plotter
+ཞིང-ཆེན	province
+ཞིབ-གཟུགས	serif
+ཞིབ-ཆ	details
+ཞིབ-ཐོ	inventory
+ཞིབ-དག-གནས-ངེས	precision select
+ཞིབ-དག-འཚོལ-བཤེར	precision searching
+ཞིབ-ཕྲ	verbose
+ཞིབ-ཕྲའི-ཆ-འཕྲིན	detail info
+ཞིབ-ཕྲའི-བཀོལ-སྤྱོད	verbose operation
+ཞིབ-བརྗོད-བར-སྟོང	description space
+ཞིབ-བརྗོད	description
+ཞིབ-བཤེར-གནས	checkpoint
+ཞིབ-བཤེར-མ-ཐུབ	failure audit
+ཞིབ-བཤེར	checking; audit
+ཞིབ-ཚད	precision
+ཞིབ-འཇུག-དང-དབྱེ-ཞིབ	study and analysis
+ཞིབ-འབྱེད-དྲ-རྒྱ	discrimination network
+ཞིབ-འབྱེད-ཞིབ-བརྗོད	discriminant description
+ཞིབ-ལས	elaboration
+ཞིབ-སྡུར	checking
+ཞུ-ཐོ	report
+ཞུགས-གྲངས-ཁ-སྐོང	filling arguments
+ཞུགས-གྲངས-ངོ-མ	formal parameter
+ཞུགས-གྲངས-འབྲེལ-བ	parameter association
+ཞུགས-གྲངས-ཡི-གེ	parameter word
+ཞུགས-གྲངས-ལྟར	by parametric representation
+ཞུགས-གྲངས	parameter
+ཞུགས-པ	attended
+ཞེང-ཆེ-ཤོས	largest width
+ཞེང-ཆེན-སྡུད-ལམ	wide track
+ཞེང-ཚད-ཆུང-ཤོས	smallest width
+ཞེང-ཚད-དང-ཐོག-བཤེར-འཚོལ	breadth-first search
+ཞེང-ཚད	width
+ཞོར-གཏོགས-མཉེན-ཆས	included software
+ཞོར-ཚིགས	tributary station
+ཞོར-སྐྱོན	side effect
+ཟགས-པ	leak
+ཟམ-ཚུལ-ནང-འཇུག-གློག-ལམ	bridge input circuit
+ཟམ-ཚུལ-ལམ-སྟོན-ཆས	bridge-router
+ཟིན-ཐོ-གསར-པ	new record
+ཟིན-ཐོ-གསར-སྣོན	add record
+ཟིན-ཐོ-ཆེ-ཆུང	record size
+ཟིན-ཐོ-ནོར-བ	logging error
+ཟིན-ཐོ-ཡོད-ཚད	all records
+ཟིན-ཐོ-རིང-ཚད	record length
+ཟིན-ཐོ-སུབས	delete record
+ཟིན-ཐོ	record
+ཟིན-ཐོའི-བར-གསེང	interrecord gap
+ཟིན-དེབ	notepad
+ཟིན-པ	capture
+ཟིན-བྲིས-ཡིག-ཁུག	draft folder
+ཟིན-བྲིས	scratch
+ཟིན-འགོད-གཙོ-བོ	owner record
+ཟིན-འགོད-རིགས-གྲས	record type
+ཟུང-ཐག-ཐགས-ཡངས-ཁྱབ-ཆུང-དྲ-རྒྱ	dual-cable broadband lan
+ཟུང-ཕྱེད-བརྒྱུད-གཏོང	half-duplex transmission
+ཟུང-ལྡན-ཐུག-ཐོན-གློག-ལམ	bistable trigger circuit
+ཟུང-སྦྱོར	coupling
+ཟུམ-པའི-བུ-རྒྱུན-ལྡན-བྱ-རིམ	closed subroutine
+ཟུར-མཆན	sidenote
+ཟུར-སྟོན-ཆ-འཕྲིན	exclamation
+ཟུར-སྣོན-གཞི-གྲངས	append data
+ཟུར-སྣོན-ཆ-འཕྲིན	attach info
+ཟུར-སྣོན-རེའུ-མིག	attach table
+ཟུར-སྣོན	append
+ཟུར-ཧྲིལ-ཟུར-ཕྱེད-མཚུངས-དགོས	match sbc case
+ཟོར-ཡང-རྒྱ-ཡིག	simplified chinese
+ཟོར-ལྕི-རྒྱ-ཡིག	traditional chinese
+ཟོལ-འབོད-ཀྱི-དགོས-ཆས	virtual call facility
+ཟླ-མི-འགྲིག	incompatible
+ཟླ-ཚེས-ཆ-ཚང-ཞིབ-བརྗོད	describe detail date
+ཟླ-སྒྲིག	match
+ཟླ-སྒྲིལ	to merge
+ཟློག-པ	deny
+ཟློས-དབྱེ-གནས-མང-ལྟ-སྤྱོད	frequency division multiple access
+ཟློས-དབྱེ-བསྐྱར-སྤྱོད	frequency division multiplexing
+ཟློས-ཕྱོད-ཁྱབ-ཁོངས	frequency range
+ཟློས-ཕྱོད-ཡ-ལན	frequency response
+ཟློས-ཕྱོད	frequency
+ཟློས-ལམ	channel
+ཟློས-སྒྲིག-ཟིན-ཐོ-འགོད-ཐབས	frequency modulation recording
+ཟློས-སྤོ-མཐེབ-འཛིན	frequency shift keying
+འཁོར-ཁ-རང-ཕྱེ-རང-རྒྱག	automatic turn on/off
+འཁོར-གནས-ཚོར-འཇལ	rotational position sensing
+འཁོར-དུས	rotational time
+འཁོར-བའི-མགྱོགས-ཚད	spinning speed
+འཁོར-བྲལ-པར-འཁོར-བེད-སྤྱོད	use printer offline
+འཁོར-བྲལ-རྫུན-མ	spooling
+འཁོར-བྲལ	offline
+འཁོར-ཡུན	period; cycle time
+འཁོར-རབས	computer generation
+འཁོར-རྒྱུག-དུས-ཚོད	turnaround time
+འཁོར-སྐྱོད-ཁུལ-ཁོངས	working area
+འཁོར-སྐྱོད-དུས-ཚོད	run time; execution time
+འཁོར-སྐྱོད-བྱེད-བཞིན-པ	running
+འཁོར-སྐྱོད-རྒྱུན	run stream
+འཁོར-སྐྱོད	run
+འཁོར-སྦྲེལ-ཐོ-འགོད	online registration
+འཁོར-སྦྲེལ-ཞབས-ཞུ	online service
+འཁོར-སྦྲེལ-ཡིག-ཆ	online documentation
+འཁོར-སྦྲེལ-རྒྱབ-སྐྱོར	online support
+འཁོར-སྦྲེལ-སྲུང-སྐྱོང	online maintenance
+འཁོར-སྦྲེལ	online
+འཁྱམས-གནོད	crosstalk
+འཁྱིལ-འཁོར	rotation
+འཁྱོག-ངོས-དཔེ-བཟོ	surfacing; surface modeling
+འཁྱོག-ངོས	surface
+འཁྱོག-ཐིག	curve
+འཁྱོག-ཐིག-འབྲང-ཆས	curve follower
+འཁྱོག-ཐིག-སྐྱེད-ཆས	curve generator
+འཁྱོག-ཚད	irrelevance
+འཁྱོག-སྒྲིག-སྡུད-ལམ	offset track
+འཁྲབ-གཞུང	script; scenario
+འཁྲབ-གཞུང-སྐད-རིགས	script language
+འཁྲབ-ཆས	prop
+འཁྲབ-ཚན	program
+འཁྲིད-སྟོན-སློབ-སྦྱོང	learning from instruction
+འཁྲོལ-འཛིན	license
+འགག-པ	blocked
+འགད-འགོག	explosion proof
+འགན-མང-སྒྲིག-གཅོད	multitasking
+འགན-འཁྲི-ངོས-འཛིན	credit/blame assignment
+འགན-འཁྲི-དབྱེ-འབྱེད	separation of duties
+འགུལ-བ	activity
+འགུལ-བའི-ཅོག-ངོས	active desktop
+འགུལ-མེད-འདྲ-རིས	static image
+འགུལ-མེད-སྒེའུ-ཁུང	inactive window
+འགུལ-རིས-དཔེ-རྣམ	animated mode
+འགུལ-རིས	animated
+འགུལ-རྒྱུག	action bar
+འགུལ-རྣམ-ཁྱབ-ཁོངས	dynamic scope
+འགུལ-རྣམ-གསོག-ཆས	dynamic storage
+འགུལ-རྣམ-གྱིས-གནས-ས-བསྐྱར-ངེས	dynamic relocation
+འགུལ-རྣམ-ཆད-ས	dynamic breakpoint
+འགུལ-རྣམ-ཉར-གསོག-བགོ-བཤའ	dynamic storage allocation
+འགུལ-རྣམ-ཐོན-ཁུངས-བགོ-བཤའ	dynamic resource allocation
+འགུལ-རྣམ-དུས-མཚོན-འགྱོག-འཁྱོག	dynamic time warping
+འགུལ-རྣམ-བྱ-རིམ-སྒྲིག-རུང-འབྲེལ-མཐུད	dynamically programmable connection
+འགུལ-རྣམ-ཞུགས-གྲངས	dynamic parameter
+འགུལ-རྣམ-འདྲ-རིས	dynamic image
+འགུལ-རྣམ-འོད-རྟགས	animated cursor
+འགུལ-རྣམ-ཡོ-བྱད-མངོན-སྟོན	dynamic tool display
+འགུལ-རྣམ-རྟེན-འཕྲོ	dynamic mapping
+འགུལ-རྣམ-ལྷོད-གཏོང	dynamic buffering
+འགུལ-རྣམ-སྡོམ-པ	dynamic binding
+འགུལ-རྣམ-སྤོ-གསོག	dynamic dump
+འགུལ-རྣམ	 dynamic|dynamic 
+འགུལ-ལྡན-ཁ-བྱང	active caption
+འགུལ-ལྡན-སྒེའུ-ཁུང	active window
+འགུལ-ལྡན-སྤྱོད-མཁན	active user
+འགུལ-ལྡན	active
+འགུལ-སྤྱོད-དབྱིབས-བཟོ	motion dynamics
+འགེབས-དུམ	overlay segment
+འགེབས-པའི-དོ-དམ-ཆས	overlay supervisor
+འགེབས-རྒྱ	overwrite range
+འགེབས	to overlay
+འགོ-བསླངས-པ	started
+འགོ-བྱང	header
+འགོ-མཇུག-བརྒྱུད-གཏོང	start-stop transmission
+འགོ-འཛུགས-དུས-ཚོད	start at
+འགོ-འཛུགས-ནོར-སྐྱོན	initialization error
+འགོ-འཛུགས-པ	initialize
+འགོ-འཛུགས-མཐེབ-གཅུས	start button
+འགོ-འཛུགས-ཚེས-གྲངས	start date
+འགོ-འཛུགས-འདེམས-བྱང	start menus
+འགོ-འཛུགས-ས	start in
+འགོ-འཛུགས	start
+འགོ-རྩོམ-བཞིན-པ	starting
+འགོ-སྒྲིག-མེད	uninitialized
+འགོ-སློང	startup
+འགོ-སློང-བྱ-རིམ	startup programs; engine program
+འགོ-སློང-མཐུད-ངོས	start interface
+འགོ-སློང-ཞུགས-གྲངས	startup parameters
+འགོ-སློང-ཡིག-ཆའི-མིང	bootfile name
+འགོ-སློང-སྒྲིག-ཆས	boot device
+འགོག-པ	block
+འགོར-འགྱངས-བརྗོད-ཚིག	delay statement
+འགྱིག-ཐག-ཅན-གྱི-གྲུབ-སྐུད	rubberbanding
+འགྱིག-སྐུད-འཐེན-ཐབས	rubber-banding
+འགྱུར-ཁོངས	span
+འགྱུར-མེད-སློབ-སྦྱོང	rote learning
+འགྱུར-ཚད-ཁག	variant part
+འགྱུར-ཚད-གྱི-གྲངས-ཐང	argument value
+འགྱུར-ཚད-མཚོན-ཐབས	variable representation
+འགྱུར-ཚད-ཟིན-འགོད-རིགས-གྲས	variant record type
+འགྱུར-ཚད-ཟིན-འགོད	variant record
+འགྱུར-ཚད-རྗེས-འདེད	variable trace
+འགྱུར-ཚད	variable; argument
+འགྱུར-ཚེག-མཚོན-ལུགས	variable-point representation system
+འགྱུར-རུང-ཁག	variant part
+འགྱུར-རུང-བ	alterable
+འགྱུར-ལྡན-རྟེན-འབྱུང-གྲངས-འབྱུང-ཆས	variable function generator
+འགྱུར-ལྡོག	variation
+འགྲན-རྩོད-སློབ-སྦྱོང	competitive learning
+འགྲན-སྤྱོད	contention
+འགྲིམ-ཐག-རིང-ཐུང-ཨང-སྒྲིག	run-length encoding
+འགྲིལ-བ	scrolling
+འགྲིལ-མདའ-མངོན-སྟོན-བྱེད	show scroll bars
+འགྲིལ-མདའ	scrollbars
+འགྲིལ-འཁོར-སྒེའུ-ཁུང	rollovering window
+འགྲིལ-རྡོག	scroll block
+འགྲིལ-སྒམ	scroll box
+འགྲུབ-མི-ཐུབ-པ	cannot complete
+འགྲེམ-པ	publish
+འགྲེམས-པ	to expand
+འགྲེམས-སྐྱེད	to unwind
+འགྲེལ-ཆས	interpreter
+འགྲེལ-བ	to interpret
+འགྲེལ-བཤད-དགོས-ཆས	explanation facility
+འགྲེལ-བཤད-བྱ-རིམ	interpreter
+འགྲེལ-བཤད-ཚབ-ཨང	interpretive code
+འགྲེལ-བཤད-ལ-བརྟེན-པའི-སློབ-སྦྱོང	explanation-based learning
+འགྲོ-ལམ-ཆ-ཚང	full path
+འགྲོ-ལམ-ཆ-འཕྲིན	path info
+འགྲོ-ལམ-ཕན-མེད	the path is invalid
+འགྲོ-ལམ	path
+འགྲོ-སོང	cost
+འགྲོ-སོང-པི-ཐེ	overhead bit
+འགྲོ-སོང-བཀོལ-སྤྱོད	overhead operation
+འགྲོལ-བ	dismiss
+འཆད-ཁྲིད-སློབ-སྦྱོང	learning by being told
+འཆད-མཁན-གྱི-འབྲེལ-ཡོད-ཚད	speaker dependence
+འཆད-མཁན-གྱི-འབྲེལ-ཡོད-རྒྱུད-ཁོངས	speaker-dependent system
+འཆད-མཁན-ངོས-འཛིན	speaker identification
+འཆད-མཁན-དང-འབྲེལ-མེད-རྒྱུད-ཁོངས	speaker-independent system
+འཆད-མཁན-དབྱེ-འབྱེད	speaker authentication
+འཆད-མཁན-ར-སྤྲོད	speaker verification
+འཆད-མཁན-ལ-བརྟེན-པའི-ཤན-འབྱེད	speaker-dependent recognition
+འཆད-མཁན-ལ-འབྲེལ-མེད-པའི-ཤན-འབྱེད	speaker-independent recognition
+འཆད-མཁན-ལ-འཚམ-པ	speaker adaptation
+འཆད-མཁན-ཤན-འབྱེད	speaker recognition
+འཆད-རྟགས-རྒྱག-པ	add colon
+འཆམ-མཐུན-བཀོལ-སྤྱོད-རྒྱུད-ཁོངས	compatible operating system
+འཆམ-མཐུན	compatible; compatibility
+འཆམ-འདར-རིགས-གཞུང-དྲ-རྒྱ	resonance theory network
+འཆར-འགོད	planning
+འཇགས-རྣམ-ཁྱབ-ཁོངས	static scope
+འཇགས-རྣམ-གསོག-ཆས	static storage
+འཇགས-རྣམ-གྱི-སྡོམ-པ	static binding
+འཇགས-རྣམ-ཆད-ས	static breakpoint
+འཇགས-རྣམ-མཇུག-རྫོགས-ཚེག-བེད-སྤྱོད-པ	use static endpoint
+འཇགས-རྣམ-ཞིབ-བཤེར-གནས-སྟངས	static test mode
+འཇགས-རྣམ-སྤོ-གསོག	static dump
+འཇགས-རྣམ	 static|static 
+འཇམ-ཐབས-བྱེད-བསྡུ	weak typing
+འཇམ-ཐིག	smoothed line
+འཇམ-འགྲིལ	smooth scroll
+འཇལ-གཞི	unit
+འཇིགས-སྐུལ-དབྱེ-ཞིབ	threat analysis
+འཇིགས-སྐུལ	threat
+འཇུག-པ	to load
+འཇུག-མཐུད	docking
+འཇུག-མི-ཆོག-པ	dismountable
+འཇུག-མི-ཐུབ	could not load
+འཇུག-ཚེག	load point
+འཇུག-ཤུར	slot
+འཐེན-འགུལ	dragging
+འཐོན-ས	exit point
+འཐོན-སྒོ	exit
+འདབ-མ	leaf
+འདིར-སྤོ-བ	move here
+འདུས-གྲུབ-གནས-ཡུལ	synthetic address
+འདུས-གྲུབ-གློག-ལམ-གསོག-ཆས	integrated circuit memory
+འདུས-གྲུབ-གློག-ལམ	integrated circuit
+འདུས-གྲུབ-བྱ-རིམ-ཇུས-འགོད-ཁོར-ཡུག	integrated programming environment
+འདུས-གྲུབ-མཉེན-ཆས	integrated software
+འདེམས-གསེས-བརྗོད-ཚིག	select statement
+འདེམས-གསེས-མི-བྱེད-པ	unchecked
+འདེམས-གསེས-སྒྲིག-ཆས	choice device
+འདེམས-པ	selecting; check
+འདེམས-བྱང	menu; menu bar
+འདེམས-བྱང-ཁ-བྱང	menus caption
+འདེམས-བྱང-ཁ-རྒྱག	close menus
+འདེམས-བྱང-བཀའ	menu command
+འདེམས-བྱང-བརྩེགས-མ	cascade menus
+འདེམས-བྱང-མཐེབ-གཅུས	menu button
+འདེམས-བྱང-ཚན-བྱང	menu bar
+འདེམས-བྱང-ཚན-བྱང-མངོན-སྟོན-བྱེད	display menu bar
+འདེམས-བྱང-ཚན	menu options
+འདེམས-བྱང-སྐད-རིགས	menu language
+འདེམས-ཚན-སྒྲིག-པ	set options
+འདེམས-ཚེག-རང-བཞིན-སྤོ-གསོག	selective dump
+འདེམས-རུང-གི-མདོག	selective color
+འདེམས-རུང-ཚན-པ	optional
+འདེམས-སྦྱོར	paste special
+འདོན-འཇུག-ཚད	throughput
+འདོན-སྤྱོད-བྱ-ཆོག	allow launch
+འདོན-སྤྱོད-ཟླ-སྒྲིག	call matching
+འདོན-སྤྱོད-ཟློག-པ	deny launch
+འདོན-སྤྱོད-རི-མོ	call graph
+འདོན-སྤྱོད-རིམ-སྟར	calling sequence
+འདོན-སྤྱོད-རེ-ཞུ	call request
+འདོན-སྤྱོད-ལྟར-འཐེན-སྤྱོད-བྱེད-པ	call by reference
+འདོན-སྤྱོད-སྡོང-འགྲེམས	call tree
+འདོན-སྤྱོད	call
+འདོན-སྤྲོད-ཚོང-པ	supplier
+འདོར-པ	canceled
+འདོར-བ	cancel; discard; stripping
+འདོར-ཚར	cancelled
+འདོར-འགྲིལ-ཧེ-བག	rounding error
+འདོར-འགྲིལ	round
+འདྲ-དཔེ	replicas
+འདྲ-པར-དཀར-ནག	BW photo
+འདྲ-པར	picture
+འདྲ-བཟོ	to emulate
+འདྲ-བཟོའི-ཁ-དོག	emulation color
+འདྲ-བཤུས-ལེན-མཁན	copy recipient
+འདྲ-མཚུངས-ལ-བརྟེན-པའི-ཁྱབ-འགྱུར	similarity-based generalization
+འདྲ-རིས-བརྒྱུད-གཏོང	image transmission
+འདྲ-རིས-མངོན-སྟོན-བྱེད	display image
+འདྲ-རིས-མངོན-སྟོན	display of image
+འདྲ-རིས-ཤན-འབྱེད	image recognition
+འདྲ-རིས-ཤེས-ཐོབ	image understanding
+འདྲི-དོན-ལ-གཏོད-པའི-སྐད-བརྡ	problem-oriented language
+འདྲི-རྩད-འདེམས-ཚན	query options
+འདྲི-རྩད-རེའུ-མིག	query table
+འདྲི-རྩད-ས-ཚིགས	inquiry station
+འདྲི-རྩད-སྐད-བརྡ	query language
+འདྲི-རྩད	query; interrogate
+འདྲིལ-བ	rolling
+འདྲུད-པ	drag
+འདྲེད-མདའ	slider
+འདྲེད	sliding
+འདྲེན-ཁུང	feed hole; sprocket hole
+འདྲེན-ཁུང-བར-ཐག	feed pitch
+འདྲེན-ཁུང-ལམ	feed track; sprocket track
+འདྲེན-པའི-གྲངས-ཐང	referenced value
+འདྲེན-འཇུག	import
+འདྲེན-རྟགས-ཟུང-མ	double quotation marks
+འདྲེན-རྟགས-རྐྱང-མ	inverted comma
+འདྲེན-སྤྱོད	reference
+འདྲེས-གྲུབ-སྐད-གདངས	synthetic speech
+འདྲེས-གྲུབ	synthesis
+འདྲེས-པའི-རྩིས-འཁོར	hybrid computer
+འཕག-ཁུལ	jump area
+འཕག-རིས	jump graphics
+འཕར-ཐོན-སྒེའུ-ཁུང	pop-up window
+འཕར-ཚད-གནས-ཚད	incremental coordinate
+འཕར-ཚད-ཐང	increment size
+འཕར-ཚད-ཕྱོགས-ཚད	incremental vector
+འཕར-འཛུགས-གཡབ-ཁུལ	extra sector
+འཕར-འཛུགས-སྡུད-ལམ	extra track
+འཕུར-གཏག-པར-འཁོར	on-the-fly printer
+འཕྱོ-འགུལ-སྡུད-མགོ	floating head; flying head
+འཕྱོ-སྤོས	drift
+འཕྲད-ཐུག-འདྲི-རྩད-བརྡ-རྟགས	contact interrogation signal
+འཕྲད-ཐུག-སྲུང-སྐྱོབ	contact protection
+འཕྲལ-བསྟུན-བརྒྱུད-རིམ	contingency procedure
+འཕྲལ-བསྟུན-འཆར-གཞི	contingency plan
+འཕྲལ-བསྟུན	emergency
+འཕྲལ-མའི-གནས-ཡུལ	immediate address
+འཕྲལ-མའི-བཀའ-བརྡ	immediate instruction
+འཕྲལ-མའི-བཀོལ-སྤྱོད-གྲངས	immediate operand
+འཕྲལ-མར-ལེན-མཁན	immediate recipient
+འཕྲལ-མར-སྒུག-སྡོད	hot standby
+འཕྲལ-མིན-སྒུག-སྡོད	cold standby
+འཕྲི-རྩིས-ཡོ-ཆས	subtracter
+འཕྲིན-གཏོང-བདེ-འཇགས	communication security
+འཕྲིན-གཏོང-འཚམ-སྒྲིག-ཆས	communication adapter
+འཕྲིན-གཏོང-རྒྱུག-ཚད-དབྱེ-ཞིབ	traffic analysis
+འཕྲིན-གཏོང-སྨྲ-བ	communication theory
+འཕྲིན-ཐུང	message
+འཕྲིན-ཐུང-གྲོས-མཐུན	message protocol
+འཕྲིན-འགྲུལ-ནང-དོན	mutual information
+འཕྲིན-འཛེར-བསྡུར-ཚད	signal-to-noise (snr)
+འཕྲིན-ལམ-ཤོང-ཚད	channel capacity
+འཕྲིན-ལམ	channel
+འཕྲིན-སྐྱེལ-གྲོས-མཐུན	communication protocol
+འཕྲིན-སྐྱེལ-ཕྱིར-འགྱངས-ཞབས-ཞུ	deferred delivery service
+འཕྲིན-སྐྱེལ-བཅད-པ	communication interrupted
+འཕྲིན-སྐྱེལ-བརྡ-ཐོ-ཞབས-ཞུ	delivery notification service
+འཕྲིན-སྐྱེལ-མི-ཐུབ-པའི-བརྡ-ཐོ-ཞབས-ཞུ	nondelivery notification service
+འཕྲིན-སྐྱེལ-ཚད-ཁ-སྐོང	traffic padding
+འཕྲིན-སྐྱེལ-འབྲེལ-ཡོད-ཚད	communicational cohesion
+འཕྲིན-སྐྱེལ-སྒྲིག-འགོད	communication settings
+འཕྲིན-སྐྱེལ	communications
+འཕྲུལ-ཆས-ཀྱི-སྐད-བརྡ	machine language
+འཕྲུལ-ཆས-གཙོ-བོ-ཆུང-གྲས	mini tower
+འཕྲུལ-ཆས-རྙེད-པ	machine discovery
+འཕྲུལ-བརྒལ-ཕྱོགས-བསྒྲིགས-བྱ-རིམ	cross-assembler
+འཕྲུལ-བརྒལ-སྒྲིག-སྒྱུར-ཆས	cross-compiler
+འཕྲུལ-མི-རིག-པ	robotics
+འཕྲུལ-མི	robot
+འཕྲུལ-མིའི-རྒྱུད-ཁོངས	robot system; robotic system
+འཕྲུལ-འཁོར-གཙོ-བོ	host machine
+འཕྲུལ-འཁོར-བཀའ-བརྡ	machine instruction
+འཕྲུལ-འཁོར-མཐོང-ཚོར	machine vision
+འཕྲུལ-འཁོར-ཡིག-འབྲུ	machine word
+འཕྲུལ-འཁོར-རྩོལ-ནུས	machine function
+འཕྲུལ-འཁོར-ལ-གཏོད-པའི-སྐད-བརྡ	machine-oriented language
+འཕྲུལ-འཁོར-ལ-བརྟེན-པ	machine-dependent
+འཕྲུལ-འཁོར-ལ-མི-བརྟེན-པ	machine-independent
+འཕྲུལ-འཁོར-སློབ-སྦྱོང	machine learning
+འཕྲུལ-འཁོར-ཨང-ཚབ	machine code
+འཕྲུལ-འཁོར	machine
+འཕྲེད-ཚད-ཚུལ	landscape
+འཕྲེད-ཚད-རྣམ-གཞག	horizontal format
+འཕྲེད-ལ	horizontal
+འཕྲེད-སྒྲིག	horizontal typewriting
+འཕྲོ-ཐིག-རྗེས-འདེད	ray tracing
+འཕྲོག-བཤད	barge in
+འཕྲོད-མཐུན-སྦྱོང-བརྡར	adaptive training
+འཕྲོས-རྟོགས-གསོག-འཇོག-ཆས	associative storage
+འཕྲོས-རྟོགས-སློབ-སྦྱོང	associative learning
+འབིགས-ཐགས-ཀློག-འཁོར	punched tape reader
+འབུ-ཕྲ	bacterium
+འབུད-རེས	mutual exclusion
+འབུར-ཐོན-༼རྣམ-པའི-༽ནང-འཇུག-དཔེ-དབྱིབས	warped-input model
+འབུར-ཡིག	characters cut in relief
+འབུལ-སྤྲོད	submission
+འབེབས-བརྡ	carriage return
+འབོད-པ-ཚོད-འཛིན-གོ-རིམ	call control procedure
+འབོད-པ	call
+འབོར-ཆེན-སྒྲིག-གཅོད-ཁོར-ཡུག	batch-processing environment
+འབོར-བཅད-སྦྱོང-བརྡར	batch training
+འབྱུག-དབྱུག	smudge stick
+འབྱུང-ཁུངས-ཚིགས-ཚེག	source node
+འབྱེད-ཕྱོད-ཆེ-ཤོས	maximum resolution
+འབྱེད-ཕྱོད-དམའ-བ	low resolution
+འབྱེད-ཕྱོད-མཐོ-ཤོས	max resolution
+འབྱེད-ཕྱོད-མཐོན-པོ	high resolution
+འབྱེད-ཕྱོད-འབྲིང-བ	medium resolution
+འབྱེད-ཕྱོད	resolution
+འབྱེད-རྟགས	semicolon
+འབྱེད	on
+འབྱོར-ཁུག	inbox
+འབྱོར-བ	received
+འབྱོར-ལན	receipt notification
+འབྱོར-སྒམ	in-basket; inbox
+འབྲང-འཛུལ	to tailgate
+འབྲི-ཆས	writing device
+འབྲི-ནོར	write error
+འབྲི-པང	tablet; wordpad
+འབྲི-ཕྱོགས	writing direction
+འབྲི-བ	rendering
+འབྲི-བའི-ལྟ-སྤྱོད	write access
+འབྲི-བྱེད-སྡུད-མགོ	write head
+འབྲི-ཙམ	write only
+འབྲི-རུང-གདུབ-བུ	write-enable ring; write ring
+འབྲི-སྲུང	write protect
+འབྲི-སྲུང-གདོང-འཛར	write protection label
+འབྲི	to write
+འབྲིང-རིམ	medium
+འབྲེལ-གཅོད-ཅན-ཆེར-སྐྱེད-ཆས	isolated amplifier
+འབྲེལ-གཅོད-ཅན-མེད-ཆེར-སྐྱེད-ཆས	non-isolated amplifier
+འབྲེལ-གཅོད	hang up
+འབྲེལ-གཏུག-པ	contact
+འབྲེལ-བ	relationship
+འབྲེལ-བཅད	aborted connection
+འབྲེལ-བཙུགས	associate
+འབྲེལ-བའི-གཞི-གྲངས-མཛོད	relational database
+འབྲེལ-བའི-གྲངས-མཛོད-དོ-དམ-རྒྱུད-ཁོངས	relational database management system
+འབྲེལ-བའི-དཔེ-དབྱིབས	relational model
+འབྲེལ-བའི-ཚབ-རྩིས	relational algebra
+འབྲེལ-བའི-རིགས	relation class
+འབྲེལ-བའི-སྐད-བརྡ	relational language
+འབྲེལ-བའི-སྒྲིག-གཞི	relational structure
+འབྲེལ-མཐུད-ཀྱི-ལྗིད	connection weight
+འབྲེལ-མཐུད-ཁ-འབྱེད	open connection
+འབྲེལ-མཐུད-གསར-འཛུགས	make a new connection
+འབྲེལ-མཐུད-གྲུབ-ལུགས	connectionism
+འབྲེལ-མཐུད-དང-རྟེན-འབྱུང-གྲངས	connections and functions
+འབྲེལ-མཐུད-དཔེ-དབྱིབས	connectionist model
+འབྲེལ-མཐུད-དུས-ཚོད	connect time
+འབྲེལ-མཐུད-ནུས-པ	connection strength
+འབྲེལ-མཐུད-བཅད-པ	connection was interrupted
+འབྲེལ-མཐུད-མ-ཐུབ-པ	connect failed
+འབྲེལ-མཐུད-ཚན-རིག	connection science
+འབྲེལ-མཐུད-རྣམ-པ	connection state
+འབྲེལ-མཐུད-སློབ-སྦྱོང	connectionist learning
+འབྲེལ-མཐུད	connection
+འབྲེལ-ཚད	module strength
+འབྲེལ-ཡོད-གསོག-ཆས	associative storage
+འབྲེལ-ཡོད-ཚད	cohesion
+འབྲེལ-ཡོད-ཤན-འབྱེད	speaker-dependent recognition
+འབྲེལ-རྟགས	associators
+འཚག-ཆས	filters
+འཚག-རྒྱག	filter
+འཚང-དགག-བརྡ-རྟགས	jam signal
+འཚང-འགག	congestion
+འཚམ-སྒྲིག-ཆས	adapter
+འཚམས-འདྲི-ཞུ-ཚིག	greeting
+འཚེམ-སྒྲིག-སྒམ-ཆུང	bounding box
+འཚེར-བ	blinking
+འཚེར-འགུལ	flicker
+འཚོལ-དུས	seek time
+འཚོལ-ནས-བརྗེ	search and replace
+འཚོལ-བ	searching
+འཚོལ-རུང-བའི-གནས	addrassable point
+འཚོལ-ལེན	retrieval
+འཚོལ	find
+འཛམ-གླིང-གནས-ཚད	world coordinate
+འཛིན-ཆས-གཙོ-བོ	main control unit
+འཛིན-ཆས	control; control unit
+འཛིན-རིལ	trackball
+འཛུགས-པ	established
+འཛུལ-ས	entry point
+འཛུལ-སྒོ-འདོན-སྤྱོད-བརྗོད-ཚིག	entry-call statement
+འཛུལ-སྒོ	entry
+འཛུལ-སྒོའི-མིང	entry name
+འོག	bottom
+འོག-ཐིག	underline
+འོག-ཐིག-ཉིས-རྩེག	double underline
+འོག-མའི-འདོར-སྒྲིལ	to round down
+འོག-འདོར-སྒྲིལ-རྩོལ-ནུས	round down function
+འོག-རྟགས-བར-ཐག	subscript interval
+འོག-རྟགས-རྒྱག	subscripting
+འོག-རྟགས	subscript
+འོད-ཀྱི-གསོག-ཆས	optical storage; optical memory
+འོད-དྲ-བཤར-འབེབས	raster scan
+འོད-དྲ-མངོན-སྟོན	raster display
+འོད-དྲ-རི-མོ-འབྲི-ཆས	raster plotter
+འོད-དྲ-རིས-དབྱིབས	raster graphics
+འོད-དྲ	raster
+འོད-དྲའི-མངོན-སྟོན-ཡོ-ཆས	raster display device
+འོད-དྲའི-འཇལ-ཚད	roster unit
+འོད-དྲའི-རྒྱུ	raster unit
+འོད-བཤར-འབེབས-ཆས	optical scanner
+འོད-མཐེབ	light button
+འོད-འདྲེན-གློག-སྐུད	optical fiber
+འོད-རིག-ཡིག-རྟགས-ཀློག-ཆས	optical character reader
+འོད-རིག-ཡིག-རྟགས-ཤན-འབྱེད	optical character recognition
+འོད-རིག-ཡིག-རྟགས	optical character
+འོད-རྟགས-ཀློག-པ	optical mark reading
+འོད-རྟགས-ཆེ-ཆུང	cursor size
+འོད-རྟགས-སྐུང-པ	hide cursor
+འོད-རྟགས-སྤོ-བ	cursor movement
+འོད-རྟགས	cursor
+འོད-སྡེར-སྐུལ-ཆས	optical disk drive
+འོད-སྡེར	optical disk
+འོད-སྨྱུག	lightpen
+འོད-སྨྱུག-བཤེར-དཔྱད	light-pen detection; light-pen hit
+འོས-ཚོད	guess
+འོས-སྦྱོར-བྱས-པའི-སྐུལ-འདེད-བྱ-རིམ	recommended driver
+འོས-སྦྱོར	recommendation
+ཡ-ལན-དུས-ཚོད-སྒེའུ-ཁུང	response time window
+ཡ-ལན-སྒེའུ-ཁུང	response window
+ཡ-ལན	response
+ཡང-དག	accuracy
+ཡང-དག-ར-སྤྲོད	correctness proving
+ཡང-ན	OR
+ཡང-བསྐྱར-ཐོ-འཇུག	log on again
+ཡང-བསྐྱར-བྱེད	retry
+ཡང-བསྐྱར-ཚོད-ལྟའི-ཐེངས-གྲངས	retries
+ཡང-བསྐྱར-ཞིག-ལྟ	try again
+ཡང-བསྐྱར-འཇུག-རུང-གོ-རིམ	reentrant program
+ཡང-བསྐྱར-འདེམས-པ	reselect
+ཡང-བསྐྱར-སྤྱོད-ཆོག-པའི-བྱ-རིམ	reusable program
+ཡན-རྒྱུག	flooding
+ཡན-ལག	branch
+ཡན-ལག-གློག-ཐགས	drop cable
+ཡན-ལག-དབྱེ-ས	branchpoint
+ཡན-ལག-བཀའ-བརྡ	branch instruction
+ཡན-ལག-བྱ-རིམ-རྡོག	sub-program block
+ཡན-ལག-མིང-བྱང	sub title
+ཡན-ལག-འགྲུབ-གཞི	branch construct
+ཡན-ལག-ཡིག-ཁུག	sub folder
+ཡན-ལག-རྟགས-ཀྱི-མཚོན-སྟངས	subsymbolic representation
+ཡར-བཅུག-པ	loaded
+ཡར-འགྲིལ	scroll up
+ཡར-འགྲོ-སྦྲེལ-ལམ	uplink
+ཡར-འདེད-གསལ-ཐོ	pushup list
+ཡར-འདེད-གསོག-ཆས	pushup storage
+ཡར-འཕར-དུས-ཚོད	rise time
+ཡར-རིམ-སྒྲིག	up sort
+ཡར-ལུད-མཚོན-སྟོན	overflow indication
+ཡར-སྤོ	up move
+ཡར	up
+ཡལ-གཅོད	pruning; cut-off
+ཡི-གེ-ཆེ-ཆུང	font size
+ཡི-གེ-ནས-སྐད-དུ-འདྲེས-གྲུབ-ཆས	text-to-speech synthesizer
+ཡི-གེ-ནས-སྐད-དུ-འདྲེས-གྲུབ-རྒྱུད-ཁོངས	text-to-speech synthesis system
+ཡི-གེ-ནས-སྐད-དུ-སྒྱུར-བ	text-to-speech conversion
+ཡི-གེ-འབེབས-འཇོག	word wrap
+ཡི-གེ-རྗེས-མ	next mail
+ཡི-གེ-སྒྲིག-གཅོད-ཆས	word processor
+ཡི-གེ-སྒྲིག-གཅོད	word processing
+ཡི-གེ	text; literal; word
+ཡི-གེའི-གོ-ཡུལ	text area
+ཡི-གེའི-ཕྲེང	line of text
+ཡི-གེའི-མཚམས-གཅོད-རྟགས	text separator
+ཡིག-ཁུག	folder
+ཡིག-ཁུག-གདམ-ཚན	folder options
+ཡིག-ཁུག-བཟོ	create folders
+ཡིག-གཏོད-གྲོས-མཐུན	character-oriented protocol
+ཡིག-གཟུགས-ཀྱི-ཁ-དོག	font color
+ཡིག-གཟུགས-ཀྱི-གྲིབ-གཟུགས	font shadow
+ཡིག-གཟུགས-ཀྱི-བར-གསེང	font interval
+ཡིག-གཟུགས-གསར-པ	new fonts
+ཡིག-གཟུགས-ཆུང-བ	small fonts
+ཡིག-གཟུགས-ཆེ-བ	large fonts
+ཡིག-གཟུགས-དོ-དམ-ཆས	font manager
+ཡིག-གཟུགས-མངོན-ཆས	calligraphic display device
+ཡིག-གཟུགས-འདེམས-ཚན	font options
+ཡིག-གཟུགས	font
+ཡིག-ཆ-ཀློག-ཆས	document reader
+ཡིག-ཆ-ཀློག-མི-ཐུབ	cannot read file
+ཡིག-ཆ-ཁ-འབྱེད	open document; open file
+ཡིག-ཆ-ཁ-རྒྱག	close document
+ཡིག-ཆ-གཏོང-སྤྲོད	document delivery
+ཡིག-ཆ-གསང-སྡོམ	file encryption
+ཡིག-ཆ-གསར-བཟོ	create new document
+ཡིག-ཆ-གསར-སྒྱུར	file updating
+ཡིག-ཆ-ངོ-སྤྲོད-མདོར-བསྡུས	file info
+ཡིག-ཆ-ཆེ-ཆུང	file size
+ཡིག-ཆ-ཉར-ཚགས	file save
+ཡིག-ཆ-དོ-དམ	manage documents
+ཡིག-ཆ-ནས-གསར-སྣོན	add from file
+ཡིག-ཆ-ནས-འདེམས-པ	select from file
+ཡིག-ཆ-པར-འདེབས	print file
+ཡིག-ཆ-པར-སློག	copy file
+ཡིག-ཆ-ཕབ-ལེན	downloading file
+ཡིག-ཆ-ཕུད-པ	exclude file
+ཡིག-ཆ-ཕྱེ-བ	file already open
+ཡིག-ཆ-བཟོ-མི-ཐུབ	can't create file
+ཡིག-ཆ-བཟོ	create file
+ཡིག-ཆ-བརྒྱུད-སྐྱེལ	 transfer file|file transfer 
+ཡིག-ཆ-བརྗེ-བའི-རྣམ-གཞག	document interchange format
+ཡིག-ཆ-བརྗེ	replace file
+ཡིག-ཆ-མ-རྙེད	file not found
+ཡིག-ཆ-མཇུག-རྫོགས-གདོང-འཛར	end-of-file label
+ཡིག-ཆ-མཉམ-སྒྲིལ	merge document
+ཡིག-ཆ-མཉམ-སྤྱོད	file sharing
+ཡིག-ཆ-མཐོང-རིས	document views
+ཡིག-ཆ-ཞབས-ཞུ-ཆས	file server
+ཡིག-ཆ-ཟིན-པ	capture file
+ཡིག-ཆ-ཟླ-སྒྲིལ	document merge
+ཡིག-ཆ-འདེམས-པ	select file
+ཡིག-ཆ-འབྱེད-མི-ཐུབ	can not open file
+ཡིག-ཆ-ཡོད-པ	file already exist
+ཡིག-ཆ-རྣམ-གཞག-ཏུ-བཟོ-བའི-བྱ-རིམ	document formatter
+ཡིག-ཆ-རྩོམ-སྒྲིག	edit document
+ཡིག-ཆ-ལྟ-སྤྱོད-བྱེད-མི-ཐུབ	cannot access file
+ཡིག-ཆ-སྐུར	mail file
+ཡིག-ཆ-སྒྱུར-བ	convert file
+ཡིག-ཆ-སྲུང-གདུབ	file-protection ring; file protect ring
+ཡིག-ཆ-སྲུང-སྐྱོང	file maintenance
+ཡིག-ཆ-སྲུང-སྐྱོབ	file protection
+ཡིག-ཆ	document; file
+ཡིག-ཆའི-ཁྱབ-ཁོངས	file range
+ཡིག-ཆའི-གཙོ-གཞི	document body
+ཡིག-ཆའི-དོ-དམ-ཆས	file manager
+ཡིག-ཆའི-མ-ལག-སྒྲིག-གཞི	document architecture
+ཡིག-ཆའི-མིང	file name
+ཡིག-ཆའི-མིང-ཁོ-ན-མཁོ-ཕབ	copy file name only
+ཡིག-ཆའི-མིང-ནང-འཇུག	input file name
+ཡིག-ཆའི-མིང-རིང-པོར-རྒྱབ-སྐྱོར-བྱེད-པ	support long filenames
+ཡིག-ཆའི-འདེམས-བྱང	file menus
+ཡིག-ཆའི-རིགས-གྲས	file type
+ཡིག-ཆའི-རྒྱུད-ཁོངས	file system
+ཡིག-ཆའི-རྣམ-གཞག	file format
+ཡིག-ཆའི-སྒེའུ-ཁུང	document window
+ཡིག-ཆའི-སྒྲིག-གཞི	document structure
+ཡིག-ཆའི-སྒྲིག-འཛུགས	organization of documents
+ཡིག-ཆའི-སྤྱི-ཁོག	document profile
+ཡིག-ཆར-པར-སློག	copy to file
+ཡིག-ཆར-ཟུར-སྣོན	append to file
+ཡིག-ཆར-སྦྲེལ-མཐུད	link to file
+ཡིག-ཆེན	capital
+ཡིག-ཐང	literal
+ཡིག-དབྱིསས-སྤྱི-ཁོག	font style outline
+ཡིག-དབྱིསས	font style
+ཡིག-དུམ-དམིགས-སུ-འཛུགས-པ	designate field
+ཡིག-དུམ-མཚམས-གཅོད-རྟགས	field separator
+ཡིག-དུམ-རིགས-གྲས	field type
+ཡིག-དུམ	field
+ཡིག-ཕྲེང	string
+ཡིག-ཕྲེང-དང-པོ	top row
+ཡིག-ཕྲེང-དཔེ-རྣམ	string mode
+ཡིག-ཕྲེང-རང-འབེབས	wraparound
+ཡིག-ཕྲེང-རིགས-གྲས	string type
+ཡིག-ཕྲེང-རིང-དྲགས-པ	too long string
+ཡིག-མདོག	text color
+ཡིག-ཚགས-བཅོལ-ལེན	access archive
+ཡིག-ཚགས	archive file
+ཡིག-ཚིགས-གྲངས	number of bytes
+ཡིག-ཚིགས-ས-ཡ	megabyte (MB)
+ཡིག-ཚིགས-སྟོང	kilobytes
+ཡིག-ཚིགས	byte
+ཡིག-འདེམས-གསོག-ཆས	word-organized storage
+ཡིག-འབྲུ-འོད-འཚེར-བྱེད	flash chars
+ཡིག-འབྲུ-རིང-ཚད	word size; word length
+ཡིག-འབྲུ	 yi ge/ word|yi ge/ word 
+ཡིག-འོག	under text
+ཡིག-རྐྱང	text
+ཡིག-རྐྱང-ཕྱི-འདོན	text output
+ཡིག-རྐྱང-བཟོ	create text
+ཡིག-རྐྱང-བརྒྱུད-གཏོང	text transmission
+ཡིག-རྐྱང-འབྲེལ-མེད-ཤན-འབྱེད-ཆས	text-independent recognizer
+ཡིག-རྐྱང-འབྲེལ-ཡོད-ཤན-འབྱེད-ཆས	text-dependent recognizer
+ཡིག-རྐྱང-འབྲེལ-ཡོད-ཤན-འབྱེད-རྒྱུད-ཁོངས	text-dependent recognition system
+ཡིག-རྐྱང-ཡིག-ཆ	text document
+ཡིག-རྐྱང-རྣམ-གཞག-ཅན-སྐད-བརྡ	text-formatting language
+ཡིག-རྐྱང-རྣམ-གཞག-ཅན	text formatting
+ཡིག-རྐྱང-རྩོམ-སྒྲིག	text editing
+ཡིག-རྐྱང-རྩོམ-སྒྲིག-ཆས	text editor
+ཡིག-རྐྱང-རྩོམ-སྒྲིག-བྱ-རིམ	text editor
+ཡིག-རྐྱང-ལ-མི-རྟེན-པའི-ཤན-འབྱེད-རྒྱུད-ཁོངས	text-independent recognition system
+ཡིག-རྐྱང-ལེགས-སྒྲིག-བྱེད-སྟངས	adjust text mode
+ཡིག-རྐྱང-སྒྲིག-གཅོད-ཆས	text processor
+ཡིག-རྐྱང-སྒྲིག-གཅོད	text processing
+ཡིག-རྐྱང-སྒྲོམ	text box
+ཡིག-རྟགས-ཀློག-ཆས	character reader
+ཡིག-རྟགས-པར-འཁོར	character printer
+ཡིག-རྟགས-ཕྲེང	character string
+ཡིག-རྟགས-ཕྲེང-གཞི-གྲངས-བརྗོད-པ	picture
+ཡིག-རྟགས-མངོན-སྟོན-ཆས	character display device
+ཡིག-རྟགས-མངོན-སྟོན-བྱེད	show character
+ཡིག-རྟགས-ཚོགས-སྤྱི	character set
+ཡིག-རྟགས-རིགས-གྲས	character type
+ཡིག-རྟགས-རྟེན-འཕྲོའི-རེའུ-མིག	character map
+ཡིག-རྟགས-ཤན-འབྱེད	character recognition
+ཡིག-རྟགས-སྐྱེད-ཆས	character generator
+ཡིག-རྟགས-སྒྲོམ	character box
+ཡིག-རྟགས	character
+ཡིག-སྐོགས	envelope
+ཡིག-སྒམ	mailbox
+ཡིག-སྒྱུར-ཆས	translator
+ཡིག-སྒྱུར-དུས-ཚོད	translation time
+ཡིག-སྒྱུར-བྱ-རིམ	translation program
+ཡིག-སྒྱུར	to translate
+ཡིག-སྙིགས-ཁུག-མ	garbage folder
+ཡིག-སྟེང	upon text
+ཡིད-རྟོན-ཚད	confidence factor
+ཡིད-རྟོན-རྩིས-འཁོར-རྒྱུད-ཁོངས	trusted computer system
+ཡིབ-ངོས	hidden surface
+ཡིབ-པ	conceal-in
+ཡིབ-སྐུང-འཕྲིན-ལམ	covert channel
+ཡིབ-ཨང	mask
+ཡིབ-ཨང-ཡིག-དུམ	mask field
+ཡུ-བ	handles
+ཡུལ-གཏད-བྱ-རིམ-སྒྲིག	object-oriented programming
+ཡུལ-གཏད	object-oriented
+ཡུལ-གཏོད-སྐད-བརྡ	object-oriented language
+ཡོ-འཛོལ-ཧེ-བག	bias error
+ཡོ-འཛོལ	bias
+ཡོངས-འདེམས	select all
+ཡོངས-འཕྲི-ཡོ-ཆས	full subtracter
+ཡོངས-སུ-ཁྱབ-འགྱུར	complete generalization
+ཡོངས-སེལ-རྩོལ-ནུས	clear all function
+ཡོངས-སྣོན-ཡོ-ཆས	full adder
+ཡོངས-སྦྲེལ-དྲ-རྒྱ	fully connected network; totally connected network
+ཡོད-པ	already exist
+ཡོལ-གང	full screen
+ར-སྤྲོད-ཚོད-ལྟ	verification test
+ར-སྤྲོད	verification
+རགས-དབྱིབས	contour; glyph
+རགས-པའི-གསལ-བཤད	macro declaration
+རགས-པའི-བཀའ-བརྡ	macro instruction
+རགས-པའི-མཚན-ཉིད	macro definition
+རགས-པའི-སྐད-བརྡ	macrolanguage
+རགས-ཕྱོགས-བསྒྲིགས	macroassembler
+རགས-བརྗོད-ཚིག-སྐྱེད-སྒྲུབ-བྱ-རིམ	macro generator; macro generating program
+རགས-བྱ-རིམ-སྒྲིག	macroprogramming
+རགས-བྱང	macro bar
+རགས-མཚོན-རྟགས	macro flags
+རགས-མཛོད	macro library
+རགས-མིང	macro name
+རགས-འཐེན-སྤྱོད	macrocall
+རགས-འདེམས-ཚན	macro options
+རགས-རིས	simple image
+རགས-རེའུ-མིག	macro sheet
+རགས-སྐྱེད-སྒྲུབ-ཆས	macrogenerator
+རགས-སྒྲིག-གཅོད-ཆས	macroprocesso
+རགས-སྤུས	draft quality
+རགས	macro
+རང-ཆད	automatic hangup
+རང-ཉིས-སྒྱུར-གཞིའི-རྩོལ-ནུས	square root function
+རང-ཉིས-སྒྱུར-རྩོལ-ནུས	square function
+རང-དགར	random flash
+རང-དཔྱད	automatic check
+རང-དབང-གློག-ལམ-ལྐོག-ཉན	active wiretapping
+རང-དབང-ཚིག-ཐོ	active vocabulary
+རང-དབང-འཇིགས-པ	active threat
+རང-དབང-ལིང-ཚེ-མངོན-སྟོན-ཆས	active matrix display device
+རང-དབང-ལིང-ཚེ-མངོན-སྟོན	active matrix display
+རང-བཅོས	auto correct
+རང-བཞིན-ལན-འདེབས	auto-reply
+རང-བརྗོད-མིན-པའི-སྐད-བརྡ	stratified language
+རང-བརྗོད-སྐད-བརྡ	uncertified language
+རང-བཤེར	automatic detect
+རང-བྱུང-གྲངས	natural number
+རང-བྱུང-འཇལ-ཚད	natural unit
+རང-བྱུང-སྐད-བརྡ-ཤེས-ཐོབ	natural-language comprehension
+རང-བྱུང-སྐད-རིགས	natural language
+རང-མཆོངས	automatic skip
+རང-ཚུགས-གཞི-གྲངས-སྐད-བརྡ	self-contained database language
+རང-ཚུགས-མིན-པའི-སྒྲིག-སྒྱུར	dependent compilation
+རང-ཚུགས-སྒྲིག-སྒྱུར	independent compilation
+རང-ཞུགས	automatic join
+རང-ཟློས	auto repeat
+རང-འགུལ-གཞི-གྲངས-སྒྲིག-གཅོད	automatic data processing
+རང-འགུལ-གསར-འདོན	autorefresh
+རང-འགུལ-གསར-སྒྱུར	automatic update
+རང-འགུལ-གོ-རིམ-ལུགས-རྩིས	automatic sequential operation
+རང-འགུལ-ཅན	automation
+རང-འགུལ-ཉར-གསོག-བགོ-བཤའ	automatic storage allocation
+རང-འགུལ-ཐོན-སྲུང-ཆས	auto-attendant
+རང-འགུལ-བརྒྱུད-འགྲེམས	auto-forward
+རང-འགུལ-འབོད-པ	automatic calling
+རང-འགུལ-རྒྱུན-གྲངས-རྩོལ-ནུས	automatic constant function
+རང-འགུལ-རྩོལ-ནུས	automatic function
+རང-འགུལ-ལན-སློག	automatic answering
+རང-འགུལ-སྐད-གདངས-ཤན-འབྱེད	automatic speech recognition
+རང-འགུལ-སློབ-སྦྱོང	automatic learning
+རང-འགུལ	 automatic|to automate 
+རང-འགྲིལ	auto roll
+རང-འཇུག	automatic input
+རང-འཇུག-ཞབས-མཆན	automatic footnote tie-in
+རང-འཐོན	automatic exit
+རང-འདེམས	auto select
+རང-འཕྲོད-དབང-རྩའི-དྲ-རྒྱ	adaptive neural network
+རང-འཕྲོད-སློབ-སྦྱོང	adaptive learning
+རང-ཡིབ	automatic conceal in
+རང-ལྟོས-བཅས-གནས-ཡུལ	self-relative address
+རང-ས-ཅན	localization
+རང-ས-སྦྲེལ-ཟིན	local connected
+རང-ས	local
+རང-སའི-གནས-ཡུལ-དོ-དམ	local address administration
+རང-སའི-པར-འཁོར	local printer
+རང-སའི-འཕྲུལ-འཁོར-སྟེང	on local machine
+རང-སའི-ཨང-ཀི	locale
+རང-སར-ཐོ-འཇུག	log on locally
+རང-སྐྱེད-རང-སྐྱུང	auto scale
+རང-སྐྱོང-ལྗོངས	autonomic region
+རང-སྒྱུར	automatic convert
+རང-སྒྲིག	automatic setup; self-organization
+རང-སྒྲིག-དྲ-རྒྱ	self-organizing network
+རང-སྒྲིག-འཆར-བརྙན	self-organizing map
+རང-སྒྲུབ-རིགས-གྲས	custom types
+རང-སྒྲུབ	custom
+རང-སྦྱོང	self-learning
+རབ-རིབ-གཏན-ཚིགས	fuzzy logic
+རབ-རིབ-གྲུབ-འབྲས	blur effect
+རབ-རིབ-ཚོགས-ཀྱི-གཏན-ཚིགས	fuzzy-set logic
+རབ-རིབ-ཚོགས	fuzzy set
+རབ-རིབ	blur
+རམ-འདེགས-གསོག-ཆས	auxiliary storage
+རམ-འདེགས-ཐིག	secondary line
+རམ-འདེགས-བྱ-རིམ	secondary programs
+རམ-འདེགས-རྩོལ-ནུས	accessibility
+རམ-འདེགས-ལག-ཆ	accessibility
+རམ-འདེགས-སྒེའུ-ཁུང	secondary window
+རམ-འདེགས	auxiliary
+རི-མོ-གྲུ-བཞི	histogram
+རི-མོ-འབྲི-ཆས-གོམ-ཚད	plotter step size
+རི-མོ-འབྲི-འཁོར	plotter
+རི-མོ-སྣོན-འཇུག	load map
+རི-མོ	diagrams; pictures
+རིག-བྲལ-མཐའ-སྣེ	dumb terminal
+རིག-ལྡན-ཁཱ	smart card
+རིག-ལྡན-གློག-སྨན	smart battery
+རིག-ལྡན-མཐའ-སྣེ	intelligent terminal
+རིག-ལྡན-སྤྱོད-མཁན-ཏར-ཡིག	teletex
+རིག-ལྡན	intelligence
+རིགས-གཏོགས-གཟུགས	generic body
+རིགས-གཏོགས-གསལ-བསྒྲགས	generic declaration
+རིགས-གཏོགས-ཐུམ	generic package
+རིགས-གཏོགས-དཔེ-དངོས-ཅན	generic instantiation
+རིགས-གཏོགས-དཔེ-དངོས	generic instance
+རིགས-གཏོགས-དཔེ-དུམ	generic module
+རིགས-གཏོགས-བཀོལ-སྤྱོད	generic operation
+རིགས-གཏོགས	generic
+རིགས-གྲས-ཁྱད-རྟགས	serial model
+རིགས-གྲས-བརྗེ-འགྱུར	type conversion
+རིགས-གྲས-རྩ-བ	base type
+རིགས-གྲས-ལྟར-སྒྲིག-ཆས-རིམ-སྒྲིག	sort devices by type
+རིགས-གྲས	type; series
+རིགས-ཅན-གཙོ-བོའི-ཞབས-ཞུ	typed body service
+རིགས-དགར	to classify
+རིགས-བསྡུར-སློབ-སྦྱོང	learning by analogy
+རིགས-མཐུན-དྲ-རྒྱ	homogeneous network
+རིགས-འགལ-དྲ-རྒྱ	heterogeneous network
+རིགས-འདེད-འཕྲུལ-ཆས	inference engine
+རིགས-འདེད-རིགས-གྲས	derived type
+རིགས-འདེད	reasoning; inference
+རིགས-ལྟར	by type
+རིགས	class; classification
+རིང-མཐའ	long side
+རིང-ཚད	length
+རིམ-གཅིག-གནས-ཡུལ	one-level address
+རིམ-གཅིག-གཤམ-སྤོ	move down
+རིམ-གཅིག-གོང-སྤོ	move up one layer
+རིམ-གཉིས-བར-གསོག	caching
+རིམ-གྲངས	rounds
+རིམ-དབྱེ-དཔེ-དབྱིབས	hierarchical model
+རིམ-དབྱེ-དྲ-རྒྱ	layered network
+རིམ-དབྱེ-རྩིས-འཁོར-དྲ-རྒྱ	hierarchical computer network
+རིམ-དབྱེ	layer
+རིམ-དབྱེའི-རི-མོ	hierarchy chart
+རིམ-པ-སྣོལ-རེས-ཚུལ-གྱི-རིས-དབྱིབས-རྒྱུད-ཁོངས	interactive graphics system
+རིམ-པ	hierarchical; level; order
+རིམ-བཟོ-རིམ-སྟར	collating sequence
+རིམ-བཟོ	collate
+རིམ-བརྩེགས-སྒེའུ-ཁུང	cascaded windows
+རིམ-བསགས	aggregate
+རིམ-བསྐྱེད-ཇུས-འགོད-བྱེད-ཐབས	stepwise refinement
+རིམ-མང-གནས-ཡུལ	multilevel address
+རིམ-མང-དྲ-རྒྱ	multilayered network
+རིམ-མང-ཚོར-ཆས	multilayered perceptron
+རིམ-མང-སྒྲིག-ཆས	multilevel device
+རིམ-མེད-དྲ-རྒྱ	nonlayered network
+རིམ-འགྱུར-བརྩེགས-སྣོན	gradient overlay
+རིམ-འཇུག	iteration
+རིམ-འཇུག-གོ-རིམ	iteration step
+རིམ-འཇུག-བརྗོད-ཚིག	iteration statement
+རིམ-འཇུག-བྱ-ཐབས	iteration scheme
+རིམ-འཇུག-ལུགས-རྩིས	iterative operation
+རིམ-འདས-གཡབ-ཁུལ	super sector
+རིམ-འདས-ཐིག-རྒྱུན-ལག-རྩལ	hyper thread tech
+རིམ-འདས-དྲ-མིག	hypergrid
+རིམ-འདས-དྲ-མིག-དྲ-རྒྱ	hypergrid network
+རིམ-འདས-རྒྱ-དཔངས-གྲུ-བཞི-དྲ-རྒྱ	hypercube network
+རིམ-འདས-རྒྱ-དཔངས-གྲུ-བཞི	hypercube
+རིམ-འདས-རྩིས-འཁོར	supercomputer
+རིམ-འདས-སྦྲེལ-མཐུད	hyperlink
+རིམ-རྐྱང-སྒྲིག-ཆས	single-level device
+རིམ-རྟགས	level number; rank
+རིམ-ལོག	recursion
+རིམ-ལོག-བུ-རྒྱུན-ལྡན-བྱ-རིམ	recursive subroutine
+རིམ-ལོག-རིམ-སྟར	recursively defined sequence
+རིམ-ལྟར-གནས-འགྲིལ	cascaded carry
+རིམ-ལྡན-སྡོང-འགྲེམས	ordered tree
+རིམ-སྒྲིག	to sort
+རིམ-སྒྲིག-འདེམས-ཚན	sort options
+རིམ-སྒྲིག-སྒྲིག-སྲོལ	sort rule
+རིམ-སྒྲུབ-ཆས	accumulator
+རིམ-སྒྲུབ-སྡོམ-གསོག-ཆས	sigma memory
+རིམ-སྟར-མིང	sequence name
+རིམ-སྟར-སྒྲིག-པ	to sequence
+རིམ-སྟར-ཨང-རྟགས	serial number
+རིམ-སྟར	sequence
+རིམ-སྤར	upgrades
+རིམས-འགོག-བྱ-རིམ	vaccine program
+རིས-གཞི-ཆེ-ཆུང	canvas size
+རིས-དབྱིབས-གྲངས-ཀའི-སྒྱུར-ཆས	graphics digitizer
+རིས-དབྱིབས-པང-ལེབ	graphics tablet
+རིས-དབྱིབས-བྱ-བའི-ལས-ཚུགས	graphics workstation
+རིས-དབྱིབས-མངོན-ཆས	graphic display device
+རིས-དབྱིབས-ཚོད-འཛིན	graphics control
+རིས-དབྱིབས-ཡིག-རྟགས	graphic character
+རིས-དབྱིབས-རྣལ-ཉམས-འགོག-པ	antialiasing
+རིས-དབྱིབས-རྣལ-ཉམས	aliasing
+རིས-དབྱིབས-ལྟེ-བའི-རྒྱུད-ཁོངས	graphical kernel system
+རིས-དབྱིབས	graphic
+རིས-དུམ	segment
+རིས-ནང-རིས-མངོན-སྟོན-བྱེད	show picture-in-picture
+རིས-པིར	paintbrush
+རིས-བཤད	legend
+རིས-ཚུལ	schema
+རིས-འབྲི-ལག-ཆའི-ཚན-བྱང	drawing toolbar
+རིས-འབྲི	paint
+རིས-འབྲིའི-བྱ-ཡུལ	drawing object
+རིས-འབྲིའི-འཛིན-ཆས	paint controls
+རིས-འབྲིའི-ཡིག-རྟགས	pictorial character
+རིས-འབྲིའི-སྨྱུག-མགོ	plotting head
+རིས-ཡིག-བརྙན-འཕྲིན	teletext
+རིས-རིམ-རྒྱབ-ལྗོངས	background of layer
+རིས-རིམ	layer
+རིས-རྒྱུ-ནང-འཇུག	input primitive
+རིས-རྒྱུ	graphic primitive
+རིས-སྨྱུག	graphic pen
+རིས	texture
+རུ-སྒྲིག	queued
+རུ-སྟར-བྱ-རིམ	querier
+རུ-སྟར	queue
+རུབ-འདུས	aggregation
+རུབ-སྡུད	aggregate
+རུབ-སྦྲེལ	fusion
+རུས-མིང	last name
+རུས-སྒྲོམ-ཚབ-ཨང	skeletal code
+རེ-ཞུ	demand; request
+རེག-ཚོར-ཆས	touch sensor
+རེག-ཚོར-བརྙན-ཡོལ	touch sensitive screen
+རེག-སྤྲུག	contact bounce
+རེད	yes
+ཡིན	yes
+རེའུ-མིག	table; sheet
+རེའུ-མིག-ཏུ-འཚོལ-བ	table lookup
+རེའུ-མིག-བཟོ-གནས	tab position
+རེའུ-མིག-བཟོ-འཁོར	tabulator
+རེའུ-མིག-བཟོ-རྟགས	tab
+རེའུ-མིག-མིང	table name
+རེའུ-མིག-འཚེར-མངོན	form flash
+རེའུ-མིག-རྩེག-པ	form overlay
+རེའུ-མིག-སྐྱེད-སྒྲུབ	charting
+རེའུ-འགོད-སྒྲིག-གཅོད-སྐད-བརྡ	list processing language
+རེར-འགོད-རིགས-གྲས	enumeration type
+རེས-འཁོར-གཅོད-ཚིག	loop assertion
+རེས-འཁོར-གནས-གཡར	end-around borrow
+རེས-འཁོར-གནས-འགྲིལ	end-around carry
+རེས-འཁོར-གནས-སྤོ	end-around shift; cyclic shift
+རེས-འཁོར-གཟུགས	loop body
+རེས-འཁོར-གསལ-གྲགས	loop assertion
+རེས-འཁོར-བརྗོད-ཚིག	loop statement
+རེས-འཁོར-མི-འགྱུར-ཚད	loop invariant
+རེས-འཁོར-མིན-པའི-དྲ-རྒྱ	acyclic network
+རེས-འཁོར-ཚོད-འཛིན-འགྱུར-ཚད	loop-control variable
+རེས-འཁོར-ཚོད-འཛིན	loop control
+རེས-འཁོར-ཞུགས-གྲངས	loop parameter
+རེས-འཁོར-འགྲུབ-གཞི	loop construction
+རེས-འཁོར-རེའུ-མིག	circular list
+རེས-འཁོར	loop
+རོགས-རམ-ཆ-འཕྲིན	help info
+རོགས-རམ-བརྗོད-གཞི-ཁ-འབྱེད	open help topics
+རོགས-རམ-བརྗོད-གཞི	help topics
+རོགས-རམ-མངོན-སྟོན-བྱེད	displays help
+རོགས-རམ-ཡི-གེ	help text
+རོགས-རམ-ཡིག-ཆ-ཁ-འབྱེད	open the help file
+རོགས-རམ-ཤོག-ངོས	help page
+རོགས-རམ	help
+རོལ-རྩེད-དབྱུ-གུ	joystick
+རོལ-རྩེད-རྩོལ-ནུས	game function
+རོལ-རྩེད	games
+རྐུ-བ	eavesdrop
+རྐྱང-ཁོངས	universe of discourse
+རྐྱང-ཐིག	single line
+རྐྱང-མགོ-གནས-འཚོལ	one-ahead addressing
+རྐྱང-རིམ-དྲ-རྒྱ	single-layered network
+རྐྱང-རིམ-ཚོར-ཆས	single-layer perceptron
+རྐྱེན-མེད-སྤོ-སྒྱུར-བརྡ	unconditional jump instruction
+རྐྱེན-ལྡན-སྤོ-སྒྱུར-བརྡ	conditional jump instruction
+རྐྱོང-པ	stretch
+རྐྱོང-སྐུམ-རུང	flexible
+རྒོལ-བ	attack
+རྒྱ-བཏབ-བདེ-འཇགས-ཁོར-ཡུག	closed-security environment
+རྒྱ-བཏབ-སྤྱོད-མཁན-ཚོགས	closed user group
+རྒྱ-མེད-བདེ-འཇགས-ཁོར-ཡུག	open-security environment
+རྒྱ-ཡིག-འཇུག-སྟངས	chinese ime
+རྒྱ-སྐྱེད-ཌLL	extended DLL
+རྒྱ-སྐྱེད-དབྱེ-ཁུལ	extended partition
+རྒྱ-སྐྱེད-མཐུད-ཁ	extended interfaces
+རྒྱ-སྐྱེད-མིང	extension
+རྒྱ-སྐྱེད-འཇུག-ཤུར	extended slot
+རྒྱ-སྐྱེད-ཡིག-ཆ	extended file
+རྒྱ-སྐྱེད-རུང-བའི-རང-བཞིན	extensibility
+རྒྱ-སྐྱེད	extension
+རྒྱ-སྤོ-མཐེབ-འཛིན	amplitude shift keying
+རྒྱང-བསྒྲགས-གློག-ཡིག	broadcast mail
+རྒྱང-བསྒྲགས-བརྙན-འཕྲིན-ཏར-འཕྲིན	broadcast videography
+རྒྱང-བསྒྲགས	broadcast
+རྒྱང-འདོམས-སྲུང-སྐྱོང	remote maintenance
+རྒྱང-སྦྲེལ-དོ-དམ	remote administration
+རྒྱང-སྦྲེལ-པར-འཁོར	remote printers
+རྒྱང-སྦྲེལ-ཚོགས-འདུ	teleconferencing
+རྒྱང-སྦྲེལ-ཚོད-འཛིན	remote control; rctrl
+རྒྱང-སྦྲེལ-རྩིས-འཁོར	remote computer
+རྒྱང-སྦྲེལ-ལས-གཉེར-ནང-འཇུག	remote job entry
+རྒྱང-སྦྲེལ-ལས-དོན-ལས-ཚུགས	remote workstation
+རྒྱང-སྦྲེལ-ལྟ-སྤྱོད-གཞི-གྲངས-སྒྲིག-གཅོད	remote-access data processing
+རྒྱང-སྦྲེལ-ལྟ-སྤྱོད	remote access
+རྒྱང-སྦྲེལ-སྡེབ-གཅོད-ནང-འཇུག	remote batch entry
+རྒྱང-སྦྲེལ-སྡེབ-གཅོད	remote batch processing
+རྒྱང-སྦྲེལ	remote
+རྒྱན-རིས-བརྩེགས-སྣོན	pattern overlay
+རྒྱན-རིས	pattern
+རྒྱན-སྤྲས-ཅན	modificatory
+རྒྱབ-ནས-མདུན	back to front
+རྒྱབ-ཕྱོགས-བཤེར-འཚོལ	searching backward
+རྒྱབ-བརྙན	after-image
+རྒྱབ-རིས-གསར-སྒྱུར	update background image
+རྒྱབ-རིས	background image
+རྒྱབ-ལྗོངས-ཀྱི-མདོག	background color
+རྒྱབ-ལྗོངས-སྒྲིག	setting
+རྒྱབ-ལྗོངས-སྙོམས-འདིང	background tile
+རྒྱབ-ལྗོངས	background
+རྒྱབ-སྐྱེལ	send to back
+རྒྱབ-སྐྱོར-ཁོར-ཡུག	support environments
+རྒྱབ-སྐྱོར-བྱ-རིམ	support program
+རྒྱབ-སྐྱོར-བྱེད-པའི-ནང-གསོག-རིགས-གྲས	supported memory type
+རྒྱབ-སྐྱོར-མཉེན-ཆས	support software
+རྒྱབ-སྐྱོར-མེད-པ	unsupported
+རྒྱབ-སྐྱོར	supported
+རྒྱལ-ཁབ-དང-ས-ཁུལ-བསྡུས-མིང	country/region abbreviation
+རྒྱལ-ཁབ-དང-ས-ཁུལ-ཚབ-ཨང	country/region code
+རྒྱལ-ཁབ-མིང	country name
+རྒྱལ-ཁབ-ཚབ-ཨང	country code
+རྒྱལ-ཁབ-ས-ཁུལ	country/region
+རྒྱལ-ནང-གི	national
+རྒྱལ-མཁན-མང-ལེན-དྲ-རྒྱ	winner-takes-more network
+རྒྱལ-མཁན-ཡོངས-ལེན-དྲ-རྒྱ	winner-takes-all network
+རྒྱལ-སྤྱིའི-སྒྲ-རྟགས-རྒྱོང-པ	international phonetic symbol extended
+རྒྱུ-ན-ཨང-སྒྲིག	n-ary encoding
+རྒྱུ-གཅིག-རྩིས-རྟགས	monadic operator
+རྒྱུ-གཅིག-ལུགས-རྩིས	monadic operation; unary operation
+རྒྱུ-གཉིས-པོ-ལིན-ལུགས-རྩིས	dyadic boolean operation
+རྒྱུ-གཉིས-ཡིག-རྟགས-ཚོགས-སྤྱི	binary character set
+རྒྱུ-གཞི-གྲངས	metadata
+རྒྱུ-ཆ-དགོས-མཁོའི-འཆར-འགོད	material requirements planning
+རྒྱུ-ཚོགས	tuple
+རྒྱུ-འབྲས-དབྱེ-ཞིབ	causal analysis
+རྒྱུ-རྐྱེན-ཆ-ཤས	condition part
+རྒྱུ-རྐྱེན	reason
+རྒྱུ-ལམ-ཆ-འཕྲིན	channel info
+རྒྱུ-ལམ-མང-པོ	multichannel
+རྒྱུ-ཤེས	metaknowledge
+རྒྱུ-སྒྲིག-སྲོལ	metarule
+རྒྱུག-ཚད-ཚོད-འཛིན	flow control
+རྒྱུག-ཚུལ-སྡུད-ཐག-སྐུལ-ཆས	streaming tape drive; streamer
+རྒྱུད-ཁོངས-ཀྱི-སྒྲིག-འགོད-རེ-འདོད	required system setting
+རྒྱུད-ཁོངས-ཁ-རྒྱག	system shutdown
+རྒྱུད-ཁོངས-གསར-སྤེལ	system development
+རྒྱུད-ཁོངས-ཆ-ཚང-བ	system integrity
+རྒྱུད-ཁོངས-ཇུས-འགོད	system design
+རྒྱུད-ཁོངས-ཐོན-སྐྱེད-དུས-ཚོད	system production time
+རྒྱུད-ཁོངས-དབྱེ-ཞིབ	system analysis
+རྒྱུད-ཁོངས-དོ-དམ-པ	administrator
+རྒྱུད-ཁོངས-མངོན-འགྱུར	implementation of a system
+རྒྱུད-ཁོངས-མཉེན-ཆས	system software
+རྒྱུད-ཁོངས-མཛོད-ཁང	system library
+རྒྱུད-ཁོངས-མལ-གསོ	system hibernates
+རྒྱུད-ཁོངས-ཚོད-ལྟ-དུས-ཚོད	system test time
+རྒྱུད-ཁོངས-ཞིབ-བརྗོད	system description
+རྒྱུད-ཁོངས-འཁོར-ཡུན	system life cycle
+རྒྱུད-ཁོངས-ཡིག-ཆ	system documentation
+རྒྱུད-ཁོངས-རང-ལོག	system restore
+རྒྱུད-ཁོངས-རྒྱབ-སྐྱོར	system support
+རྒྱུད-ཁོངས-རྗེས-འདེད	system follow-up
+རྒྱུད-ཁོངས-སྐྱེད-སྒྲུབ	system generation
+རྒྱུད-ཁོངས-སྒུལ-སློང-བྱེད-སྐབས	at startup
+རྒྱུད-ཁོངས-སྒྲིག-སྦྱོར	system integration
+རྒྱུད-ཁོངས-སྲུང-སྐྱོང	system maintenance
+རྒྱུད-ཁོངས-སྲུང-སྐྱོང-ལག-དེབ	program maintenance manual
+རྒྱུད-ཁོངས	system
+རྒྱུད-ཁྲིད-སློབ-སྦྱོང	genetic learning
+རྒྱུད-འབྲེལ-སྒྲིག-གཅོད-ཆས	pipeline processor
+རྒྱུན-གཏན-དྲ-རྒྱ	regular network
+རྒྱུན-གྲངས-རྩོལ-ནུས	constant function
+རྒྱུན-གྲངས	constant
+རྒྱུན-བསྲིང-ཐུབ-ཚད	durability
+རྒྱུན-ཚད	constant
+རྒྱུན-ཚོད-འཛིན	flow control
+རྒྱུན-འགལ-ཁྱབ-སྤེལ	to propagate an exception
+རྒྱུན-འགལ-སྒྲིག-གཅོད-བྱ-རིམ	exception handler
+རྒྱུན-འགལ-སློང-བའི-བརྗོད-ཚིག	raise statement
+རྒྱུན-འགལ	exception
+རྒྱུན-འཕྲད-གནད-དོན	top issues
+རྒྱུན-རིམ	routine
+རྒྱུན-རྣམ-གནོན-འཇགས	normal mode rejection
+རྒྱུན-རྣམ-གློག-གནོན	normal mode voltage
+རྒྱུན-ལྡན-གསལ-ཚད	normal brightness
+རྒྱུན-ལྡན-བྱ-རིམ-ནང-འཇུག	input routine
+རྒྱུན-ལྡན	okay
+རྒྱུན-སྡོད-བྱ-རིམ	resident program
+རྒྱུན-སྤྱོད-ཁོར-ཡུག-ཟུང-སྦྱོར	common-environment coupling
+རྒྱུན-སྤྱོད-ཟུང-སྦྱོར	common coupling
+རྒྱུན-སྨོ-གློག-གནོན-ཆེ-ཤོས	maximum normal mode voltage
+རྒྱུན-སྲུང-རྣམ-པ	hold mode
+རྒྱུན	flow
+རྒྱུས-མེད-པ	unknown
+རྒྱུས-མེད-པའི-ཁུངས	unknown source
+རྒྱུས-མེད-པའི-ནོར-སྐྱོན	unknown error
+རྒྱུས-མེད-པའི-རྣམ-གཞག	unknown format
+རྒྱུས-མེད-པའི-སྒྲིག-ཆས	unknown device
+རྒྱུས-མེད-པའི-སྤྱོད-མཁན	unknown user
+རྒྱོང-བ	extend
+རྔ-དབྱིབས-པར-འཁོར	drum printer
+རྔ-དབྱིབས-རི-མོ-འབྲི-ཆས	drum plotter
+རྗེས-གོམ-མཉམ-གྱི-ཨང-རྟགས	postamble
+རྗེས-གྲུབ-ངེས-ཚད-ཐ-སྙད	derived quantitative terms
+རྗེས-དུས-ཀྱི-སྡོམ-པ	late binding
+རྗེས-ཕྱོགས-ཁྱབ-ཆུང-དྲ-རྒྱའི-འཕྲིན-ལམ	backward LAN channel
+རྗེས-བཏགས-གཏན-ཚིགས-མཚོན-ཐབས	postfix notation logic
+རྗེས-བཏགས-ཆ-རྐྱེན	postcondition
+རྗེས-བཏགས-ཐབས	postfix notation; suffix notation
+རྗེས-བཏགས	suffix
+རྗེས-མ-དེ-འཚོལ	find next
+རྗེས-མ	next
+རྗེས-འགེབས	forward recovery
+རྗེས-འཇུག-སྔོན-ཐོན	newest first
+རྗེས-འདེད-གསོག-ཆས	track and store unit
+རྗེས-འདེད-བྱ-རིམ	trace program
+རྗེས-འདེད-བྱེད-པ	to trace
+རྗེས-འདེད-རིལ	track ball
+རྗེས-འདེད-རྒྱུན-སྲུང-ཆས	track and hold unit
+རྗེས-འདེད-རྟགས	tracking symbol
+རྗེས-འདེད-ལག-བསྟར	execution trace
+རྗེས-འདེད-སྒྲིག-ཆས	tracing facility
+རྗེས-འདེད	trace
+རྗེས-སུ-འཇུག	insert after
+རྙི-འཛུགས	entrapment
+རྙི-སྒོ	trapdoor
+རྙི	trap
+རྟག-ཏུ	always
+རྟགས-བསྒྲིགས-མ	combining symbols
+རྟགས-བྱང-སྐྱེལ-ཕྱོད	nominal transfer rate
+རྟགས-འགོད-སྐད-བརྡ	markup language
+རྟགས-རིས-ཆུང-བ	small icons
+རྟགས-རིས-མཐེབ-གཅུས	icon button
+རྟགས-རིས-ཚན-བྱང	icon bar
+རྟགས-རིས-སྟར-སྒྲིག	arrange icons
+རྟགས-རིས	icon
+རྟགས	marker
+རྟེན-གྲངས-ཀྱི-གཞན-རྟེན	functional dependence
+རྟེན-པ	dependency
+རྟེན-འཕྲོ-བྱ-རིམ	mapper
+རྟེན-འཕྲོ	mapping
+རྟེན-འབྱུང-གྲངས-ཅན-གྱི-བྱ-རིམ-ཇུས-འགོད	functional programming
+རྟེན-འབྱུང-གྲངས-དང-རྟེན-འཕྲོ	function and reflection
+རྟེན-འབྱུང-གྲངས-བརྒྱུད-རིམ	function(procedure)
+རྟེན-འབྱུང-གྲངས-འདོན-སྤྱོད	function call
+རྟེན-འབྱུང-གྲངས-འབྱུང-ཆས	function generator
+རྟེན-འབྱུང-གྲངས-སྐད-བརྡ	functional language
+རྟེན-འབྱུང-གྲངས	function
+རྟེན-འབྲེལ-ཞུ-བ	congratulation
+རྟོག-བཟོ-གསོག-ཆས	virtual storage
+རྟོག-བཟོ-བར-སྟོང	virtual space
+རྟོག-བཟོ-འཕྲུལ-ཆས	virtual machine
+རྟོག-བཟོ	virtual
+རྟོག-བཟོའི-ཁྱིམ-མཚེས	virtual neighbor
+རྟོག-བཟོའི-གནས-ཡུལ	virtual address
+རྟོག-བཟོའི-ནང-གསོག	virtual memory
+རྟོག-བཟོའི-མཐེབ-གཅུས	virtual pushbutton
+རྡོག-དབྱེ-རྐྱེན-ཆ	blocking factor
+རྡོག-པོ-བརྟག-བཤེར	block check
+རྡོག-པོ-མཁོ-ཕབ	block copy
+རྡོག-པོ-སྤོས	block move
+རྡོག-པོ	block
+རྡོག-པོའི-ཆེ-ཆུང	block size
+རྡོག-པོའི-བར-གསེང	interblock gap
+རྡོག-པོའི-བརྗོད-ཚིག	block statement
+རྡོག-པོའི-རིང-ཚད	block length
+རྡོག-བགོ	chunking
+རྣམ-གཞག	format
+རྣམ-གཞག-ཏུ-སྒྱུར	formatting
+རྣམ-གཞག-བཟོ-བ-འདོར-བ	cancel formatting operation
+རྣམ-གཞག-ཚོད-འཛིན-ཡིག-འབྲུ	format effectors
+རྣམ-གཞག-འཕྲིན-ཡིག	form letter
+རྣམ-གཞག-ཤོག-སྙོད	form feed
+རྣམ-གྲངས-མ-བརྙེད	no entries were found
+རྣམ-པ-ཞུགས-གྲངས	formal parameter
+རྣམ-པ	state
+རྣམ-པའི-གཏན-ཚིགས	formal logic
+རྣམ-པའི-ཚན-བྱང	status bar
+རྣམ-པའི-ཚན-བྱང-མངོན-སྟོན-བྱེད-པ	display status bar
+རྣམ-པའི-ཚན-བྱང-སྐུང-པ	hide status bar
+རྣམ-པའི-ཞུགས-གྲངས-དཔེ-རྣམ	formal parameter mode
+རྣམ-པའི-སྟོན-ཁུལ	status prompt area
+རྣམ-མང	polymorphism
+རྣམ-འབྱེད-༼རྣམ-པའི-༽སློབ-སྦྱོང	learning by deduction
+རྣམ-འབྱེད-རིགས-འདེད	deductive inference
+རྣམ-འབྱེད-སློབ-སྦྱོང	deductive learning
+རྣམ-འབྱེད	deduction
+རྣལ-ཉམས	distortion
+རྨང-གནས-བཅོལ-ཆས	base address register
+རྨང-གྲངས-གསབ-ཨང	radix complement
+རྨང-གྲངས-གྲངས-ལུགས	radix notation
+རྨང-གྲངས-ནས-གཅིག-ཐེན-པའི-གསབ-ཨང	radix-minus complement
+རྨང-གྲངས-ལྡོག-ཨང	diminished radix complement
+རྨང-གྲངས	radix; cardinality
+རྨང-ཐགས	baseband
+རྨང-སྐུད-ཁྱབ-ཆུང-དྲ-རྒྱ	baseband lan
+རྩ-གཉིས-གཞི-རྒྱུ	picture element
+རྩ-གསུམ-གཞི-རྒྱུ-ཐང	voxel value
+རྩ-གསུམ-གཞི-རྒྱུ	voxel; volume element
+རྩ-གསུམ-བརྙན-ཡོལ-སྲུང-སྐྱོབ-བྱ-རིམ	dimensional screen saver
+རྩ-གསུམ-མཐོང-རིས	D view
+རྩ-བ	basic
+རྩ-བའི-དབྱིབས-ཕྲེང-ལམ-ཚོད-འཛིན	basic mode link control
+རྩ-བའི-བཀོལ-སྤྱོད	basic action
+རྩ-བའི-བརྙན-ཡོལ-སྲུང-སྐྱོབ-བྱ-རིམ	basic screen saver
+རྩ-བའི-མཚོན-མདོག	basic color
+རྩ-བའི-ཚད-བཀག	basic constraint
+རྩ-བའི-སྒྲིག-སྒྱུར-ཡོ-ཆས	root compiler
+རྩ-ཚིགས	root node
+རྩ-འཕར-ཆད	missing-pulse
+རྩ-འཕར-ཕྲེང	pulse train; pulse string
+རྩ-འཕར-ཟུང-ལྡན-ཐོ-འགོད-ཐབས	double-pulse recording
+རྩ-འཕར-རྫུས-མ	extra-pulse
+རྩ-འཕར	pulse; impulse
+རྩད-གཅོད	polling
+རྩད-འཚོལ-དང-བརྗེ-བ	find and replace
+རྩིས-ཁྲ-དོ-དམ	account management
+རྩིས-ཁྲ	account
+རྩིས-ཁྲའི-མིང	account name
+རྩིས-ཆས-ཆུང-ངུ	pocket calculator
+རྩིས-ཆས	calculator; arithmetic unit
+རྩིས-ཐབས-ཞུགས-གྲངས	algorithm parameters
+རྩིས-ཐབས-སྐད-བརྡ	algorithmic language
+རྩིས-ཐབས	algorithm
+རྩིས-བཤེར-རྗེས-འདེད	audit trail
+རྩིས-མེད-བཏང-བ	revoked
+རྩིས-འཁོར-གང-བྱུང-དུ-སྤྱོད-པ	computer abuse
+རྩིས-འཁོར-གཡོ-ཟོལ	computer fraud
+རྩིས-འཁོར-གྲངས-འཛིན	computer numerical control
+རྩིས-འཁོར-གློག-གསོད	shutdown
+རྩིས-འཁོར-ཅན	computerization
+རྩིས-འཁོར-ཉེས-གསོག	computer crime
+རྩིས-འཁོར-དྲ-རྒྱ	computer network
+རྩིས-འཁོར-ཕྲ-མོ	minicomputer
+རྩིས-འཁོར-བཀའ-བརྡ-ཚབ-ཨང	computer instruction code
+རྩིས-འཁོར-བཀའ-བརྡ	computer instruction
+རྩིས-འཁོར-བདེ-འཇགས	computer security
+རྩིས-འཁོར-བསྐྱར-སློང-བྱེད	restart computer
+རྩིས-འཁོར-བསྐྱར-སློང-མ-བྱེད	don't restart the computer
+རྩིས-འཁོར-བྱ-རིམ-ཇུས-འགོད	computer programming
+རྩིས-འཁོར-བྱ-རིམ	computer program
+རྩིས-འཁོར-མ-ལག-སྒྲིག-གཞི	computer architecture
+རྩིས-འཁོར-མཐོང-ཚོར	computer vision
+རྩིས-འཁོར-ཚན-རིག	computer science
+རྩིས-འཁོར-ཚོགས-འདུ	computer conferencing
+རྩིས-འཁོར-འདི-ཁོ-ན	this computer only
+རྩིས-འཁོར-འདུས-གྲུབ-བཟོ-བ	computer-integrated manufacturing
+རྩིས-འཁོར-ཡིག-འབྲུ	computer word
+རྩིས-འཁོར-རམ-འདེགས-ཇུས-འགོད	computer-aided design
+རྩིས-འཁོར-རམ-འདེགས-ཐོན-སྐྱེད-དོ-དམ	computer-aided production management
+རྩིས-འཁོར-རམ-འདེགས-ཐོན-སྐྱེད-ཚོད-འཛིན	computer-aided production control
+རྩིས-འཁོར-རམ-འདེགས-དཔེ-སྐྲུན	computer-aided publishing
+རྩིས-འཁོར-རམ-འདེགས-བཟོ-སྐྲུན	computer-aided manufacturing
+རྩིས-འཁོར-རམ-འདེགས-བརྒྱུད-རིམ-འཆར-གཞི	computer-aided process planning
+རྩིས-འཁོར-རམ-འདེགས-ཚོད-ལྟ	computer-aided testing
+རྩིས-འཁོར-རམ-འདེགས-འཆར-གཞི	computer-aided planning
+རྩིས-འཁོར-རམ-འདེགས-རིས-བཟོ	computer-aided drawing
+རྩིས-འཁོར-རམ-འདེགས-ལས-གྲྭ	computer-aided engineering
+རྩིས-འཁོར-རམ-འདེགས	computer-aided; computer-assisted
+རྩིས-འཁོར-རིས-དབྱིབས-འཆར-ངོས	computer graphics interface
+རྩིས-འཁོར-རིས-དབྱིབས-འདྲ-དཔེ	computer graphics reference model
+རྩིས-འཁོར-རིས-དབྱིབས-རིག-པ	computer graphics
+རྩིས-འཁོར-རིས-དབྱིབས-རིས-རྒྱུ-ཡིག-ཆ	computer graphics metafile
+རྩིས-འཁོར-རིས-དབྱིབས	computer graphics
+རྩིས-འཁོར-རིས-སྐྱུང	computer micrographics
+རྩིས-འཁོར-རིས-སྐྱུང-སྤྱིན-ཤོག-ཕྱི-འདྲེན	computer output microfilming
+རྩིས-འཁོར-རྒྱུད-ཁོངས-རྩིས-བཤེར	computer-system audit
+རྩིས-འཁོར-རྒྱུད-ཁོངས	computer system
+རྩིས-འཁོར-ལ-གཏོད-པའི-སྐད-བརྡ	computer-oriented language
+རྩིས-འཁོར-ལྟེ-གནས	computer center
+རྩིས-འཁོར-སྐད-བརྡ	computer language
+རྩིས-འཁོར-ཨ-མ	host computer; mainframe
+རྩིས-འཁོར-ཨ-མའི-ཚིགས-ཚེག	host node
+རྩིས-འཁོར	computer
+རྩིས-རྒྱག	calculate
+རྩིས-རྒྱག-བཅོལ-ཆས	arithmetic register
+རྩིས-རྟགས-སྔོན-སྤྱོད-དབང	operator precedence
+རྩིས-རྟགས	operator
+རྩིས-སྟངས	compute mode
+རྩེ-རིམ-ཁོངས-མིང	top-level domain name
+རྩེ-ལ-སྙོམ-གཤིབ-བྱེད-པ	align top
+རྩེད-མོ	entertainment
+རྩོམ-པ-པོ	author
+རྩོམ-པ-པོའི-སྐད-བརྡ	authoring language
+རྩོམ-ཡིག	article
+རྩོམ-སྒྲིག	edit
+རྩོམ-སྒྲིག-ཆས	editor
+རྩོམ-སྒྲིག-ཆོག	allow editing
+རྩོམ-སྒྲིག-ཚན-བྱང	formula bar
+རྩོམ-སྒྲིག-སྒྲོམ	edit box
+རྩོལ-ནུས-ཁྱད-ཆོས	functional characteristic
+རྩོལ-ནུས-ཁྱད-ཡོན	functional characteristics
+རྩོལ-ནུས-གཙོ-བོ	primary capabilities
+རྩོལ-ནུས-ཇུས-འགོད	functional design
+རྩོལ-ནུས-དབྱེ-ཞིབ	functional analysis
+རྩོལ-ནུས-མཐེབ	function key
+རྩོལ-ནུས-འབྲེལ-ཡོད-ཚད	functional cohesion
+རྩོལ-ནུས-ལྷུ-ཆས	functional unit
+རྩོལ-ནུས-སྔ-འདེམས-ནུས-པ	function preselection capability
+རྩོལ-ནུས-སྡེ-ཚན	functional units
+རྩོལ-ནུས	function
+རྩོལ-ཕྱོད	power
+རྩོལ-བྱུང-དབང-རྩའི-དྲ-རྒྱ	artificial neural network
+རྩོལ-བྱུང-དབང-རྩའི-རྒྱུ	artificial neuron; neurode
+རྩོལ-བྱུང-མཐོང-ཚོར	artificial vision
+རྩོལ-བྱུང-རིག-ལྡན	artificial intelligence
+རྩོལ-བྱུང-སྐད-གདངས	artificial speech
+རྩོལ-བྱུང-སྐད-བརྡ	artificial language
+རྩོལ-བྱུང-སྐད-སྒྲ	artificial voice
+རྫ-མདོག	light brown
+རྫུ-བག	masquerade
+རྫུན-རྟགས	pseudocode
+རླབས-གཟུགས-ཐད-ཀར-འདྲེས-གྲུབ-བྱེད-པ	direct waveform synthesis
+རླབས-ཐེག	carrier
+རླབས-ཐེག-ལྐོག-ཉན	carrier sense
+རླབས-དབྱིབས	wave
+རླབས-འགྲོས-གནས-འགྲིལ	ripple carry
+རླབས-རིས	ripple
+རླུང-གཟུགས-གློག-པང	gas panel
+རླུང-འཕྲིན-སྡུད-འཁོར	radio set
+ལ-ཐིན-༡	Latin-1
+ལ-ཐིན-རྒྱས-པ-ཨཱ	A Latin extended A
+ལ-ཐིན-རྒྱས-པ-B	B Latin extended B
+ལ-ཐིན-རྨང-ཡིག	basic Latin
+ལ-ཐིན-སྐད	Latin
+ལག-ཁྱེར-ཁ-པར	cellphone; cellular
+ལག-ཁྱེར-རྩིས-ཆས	hand-held calculator
+ལག-ཁྱེར-རྩིས-འཁོར	laptop computer
+ལག-ཆ	tools
+ལག-ཆའི-ཚན-བྱང	tool bar
+ལག-ཆའི-ཚན-བྱང-མངོན-སྟོན-བྱེད	show toolbar
+ལག-ཐབས-རྩོལ-ནུས	manual function
+ལག-ཐབས-ཤོག-སྐྱེལ	manual feed
+ལག-ཐབས-ཨང-གནོན	manual dial
+ལག-ཐབས	manual; manually
+ལག-པས-ཤོག-བརྗེ-རྟགས-བར-འཇུག	manually insert form feed symbol
+ལག-བསྟར-བརྗོད-ཚིག	perform statement
+ལག-བསྟར-མ-བྱས-པ	don't execution
+ལག-བསྟར-རགས-དབྱིབས	execution profile
+ལག-བསྟར-རིམ-པ	execution sequence
+ལག-བསྟར-རུང-བ	executable
+ལག-བསྟར-རུང-བའི-ཡིག-ཆ	executable file
+ལག-བསྟར-ལྟ-ཆས	execution monitor
+ལག-བསྟར	execution
+ལག-བྲིས-ནང-འཇུག	handwriting input
+ལག-བྲིས	handwriting
+ལག-འཁྱེར-གློག-ཀླད	notebook
+ལག-འཛིན	hand held
+ལག-རོགས	assistant
+ལག-རྩལ-བརྒྱུད-རིམ	technical process
+ལག-རྩལ-རམ-འདེགས-ཚོགས-པ	technical support group
+ལག-རྩལ	techniques
+ལངས-གཟུགས-དབྱིབས-བཟོ	volume modeling
+ལད-ཟློས-གཞི-གྲངས	analog data
+ལད-ཟློས-ནང-འཇུག-རྒྱུ-ལམ-ཆེར-སྐྱེད-ཆས	analog input channel amplifier
+ལད-ཟློས-ནང-འཇུག-རྒྱུ-ལམ	analog input channel
+ལད-ཟློས-ནས-གྲངས-ཀར-སྒྱུར-ཆས	analog-to-digital converter
+ལད-ཟློས-ཕྱིར-འདོན-རྒྱུ-ལམ-ཆེར-སྐྱེད-ཆས	analog output channel amplifier
+ལད-ཟློས-བགོ-ཆས	analog divider
+ལད-ཟློས-བརྡ-རྟགས	analog signal
+ལད-ཟློས-མཚོན-ཐབས	analog representation
+ལད-ཟློས-འགྱུར-ཚད	analog variable
+ལད-ཟློས-རྩིས-འཁོར	analog computer
+ལད-ཟློས-རྩིས-རྒྱག	analog computing
+ལད-ཟློས-སྒྱུར-ཆས	analog multiplier
+ལད-ཟློས-སྒྲིག-ཆས	emulation device
+ལད-ཟློས-སྣོན-རྩིས-ཆས	analog adder
+ལད-ཟློས	analog
+ལན-གཅིག-མ	one time only
+ལན-མི-འདུག	no answer
+ལན-འདེབས-དུས-ཚོད	response time
+ལན-འདེབས	to reply
+ལན-རྒྱག	echo
+ལན-རྒྱག-དཔེ-རྣམ	answer mode
+ལན-སློག	call-back; dial-back
+ལམ-མང-བགོ-ཆས	demultiplexer
+ལམ-མང-བསྐྱར-སྤྱོད-ཆས	multiplexer
+ལམ-མང-བྱ-རིམ-ཇུས-འགོད	multiprogramming
+ལམ-འགྲོལ-སློབ-སྦྱོང	learning from solution paths
+ལམ-རྐྱང-སྒྲ	mono
+ལམ-ལྷོང	success
+ལམ-སེང	immediately
+ལམ-སེང-གསར-སྒྱུར	update now
+ལམ-སེང-པར-འདེབས-འགོ-བཙུགས	start printing immediately
+ལམ-སེང-བསྐྱར-སློང	restart now
+ལམ-སེང-མཇུག-སྒྲིལ	end now
+ལམ-སེང-ཚང-མ-སུབ-པ	delete all now
+ལམ-སེང-འཚོལ-བ	find now
+ལམ-སྟོན-ཆས-རིགས-དགར	routing category
+ལམ-སྟོན-ཆས	router
+ལམ-སྟོན-རེའུ-མིག	routing table
+ལམ-སྟོན	routing
+ལས-ཀ	jobs
+ལས-ཀའི-གོ-ཡུལ	working space
+ལས-ཀའི-གློག-གནོན-སྟོན-ཆས	operating voltage indicator
+ལས-ཁུངས-ནང-གི-སྡེ-ཁག-མིང	organizational unit name
+ལས-ཁུངས-མིང	organization name
+ལས-ཁུངས	organization
+ལས-ཁུལ	work area
+ལས-གཞི-དོ-དམ	project management
+ལས-གཞི-ཚད-གཞིའི-གསལ-བཤད	project specification
+ལས-གཞི-ཚོད-འཛིན	project control
+ལས-གཞི-འཆར-གཞི	project planning
+ལས-གཞི	project
+ལས-ཆུང-བ	less than
+ལས-དུས	jobs time
+ལས-དེབ-ཆ-ཚང	entire workbook
+ལས-དེབ	workbook
+ལས-བྱ-སུབས	delete a job
+ལས-བྱ	tasks
+ལས-བྱའི-མིང	job name
+ལས-བྱའི-འཛུལ-སྒོ	task entry
+ལས-བྱའི-རྣམ-པ	job status
+ལས-མཇུག-སྤོ-གསོག	postmortem dump
+ལས-མི-རུང-བའི-དུས-ཚོད	inoperable time
+ལས-མེད-དུས-ཚོད	idle time
+ལས-མེད	idle
+ལས-ཚན-དོ-དམ-པ	program manager
+ལས-ཚབ-ཞབས-ཞུ-ཆས	proxy server
+ལས-ཚབ	proxy
+ལས-ཚུགས	work station
+ལས-འགན-གསར-སྣོན	add task
+ལས-འགན-ཚན-བྱང	taskbar
+ལས-འགན-ཚན-བྱང-ནང-མངོན-སྟོན-བྱེད-པ	display at taskbar
+ལས-འགན-འདི-ལག-བསྟར-བྱེད-པ	perform this task
+ལས-འགན	task
+ལས-ཡུལ	work space
+ལས-རིགས	occupation
+ལས-རིམ-རི-མོ	flowchart; flow diagram
+ལས-རིམ-སྔོན-མ	the prior action
+ལས-རུང-བའི-དུས-ཚོད	operable time; uptime
+ལས-རྒྱུན	job stream
+ལས-རྟགས	logo
+ལས-སྒྲོམ	scaffolding
+ལས-སྟེགས	platform
+ལཱ-ཟེར-པར-འཁོར	laser printer; laser beam printer
+ལིང-ཚེ	matrix
+ལུགས-མེད-གྲངས	irrational number
+ལུགས-འགལ-གསང-ཨང	invalid password.
+ལུགས-འགལ-གྲངས-ཐང	illegal value
+ལུགས-འབྱུང-འཁོར-ཕྱོགས	clockwise
+ལུགས-རྩིས-རེའུ-མིག	operation table
+ལུགས-རྩིས-རྒྱག-སྟངས	operate mode
+ལུགས-རྩིས-སྐྱེད-ཆས	operational amplifier
+ལུགས-རྩིས	operation
+ལུགས-ལྡན-གྲངས	rational number
+ལུགས-ལྡོག-འཁོར-ཕྱོགས	anti-clockwise
+ལུད-པ-རྒྱུན-འགལ	overflow exception
+ལུད-པ	overflow
+ལེགས-གྲུབ	complete
+ལེགས-བཅོས-རྣམ-པའི-ཟློས-སྒྲིག-ཟིན-ཐོ-འགོད-ཐབས	modified frequency modulation recording
+ལེགས-ཤོས-སྔོན-ཐོབ-བཤེར-འཚོལ	best-first search
+ལེགས-སྒྲིག	adjust; collating
+ལེགས-སྒྲིག-འཕྲུལ-འཁོར	collator
+ལེགས-སྒྲུབ-དང-དོ-དམ	implementation and management
+ལེན-པ	receipt; extract
+ལེན-མཁན-གཙོ-བོ	primary recipient
+ལེན-མཁན-གཞན-གསལ-ཞབས-ཞུ	disclosure of other recipients service
+ལེན-མཁན-ཕལ-པ	secondary recipient
+ལེན-མཁན	receiver; recipient
+ལེའུ	episode
+ལོ-ཐོ	calendar
+ལོ-དུས-དམིགས-འཛུགས-བྱེད-པ	designate year
+ལོ-རྒྱུས-ཟིན-ཐོ	history record
+ལོ-རྒྱུས	history
+ལོག-ས	reentry point
+ལོགས-དགར-སྒྲིག-སྒྱུར	separate compilation
+ལྐུགས-བརྡ	dummy instruction
+ལྐུགས-རྒྱུ	dummy argument
+ལྐོག-གྱུར-གནས-ཡུལ-འཚོལ-ཐབས	implied addressing
+ལྐོག-འཛུལ	piggyback entry
+ལྔ-ནས-གཉིས-ལེན-ཨང-རྟགས	two-out-of-five code
+ལྗང-ཁུ	green
+ལྗང-སྐྱ	lime
+ལྗིད	weight; significance
+ལྗོངས-དཔེ	scene mode
+ལྟ-ཁུང	view port
+ལྟ-ཁུང-བརྗེ-སྒྱུར	view port transformation
+ལྟ-ཆས	monitor
+ལྟ-བཤེར	view
+ལྟ-ཞིབ-བྱ-རིམ	monitor program; monitoring program
+ལྟ-ཞིབ-སློབ-སྦྱོང	learning from observation
+ལྟ-ཞིབ	monitoring
+ལྟ-སྐུལ-མེད-པའི-སློབ-སྦྱོང	unsupervised learning
+ལྟ-སྐུལ-སློབ-སྦྱོང	supervised learning
+ལྟ-སྐྱོང-བྱ-རིམ	demon; daemon
+ལྟ-སྤྱོད-གསལ-ཐོ	access list
+ལྟ-སྤྱོད-ཐོབ-ཐང	access right
+ལྟ-སྤྱོད-དོ-དམ-ཞབས-ཞུ	access management service
+ལྟ-སྤྱོད-བཀག-པ	access denied
+ལྟ-སྤྱོད-བཀའ-འཁྲོལ	access permission
+ལྟ-སྤྱོད-བྱེད-ཐབས	access method
+ལྟ-སྤྱོད-བྱེད-མི-ཐུབ	inaccessible
+ལྟ-སྤྱོད-ཚོད-འཛིན-གསལ-ཐོ	access control list
+ལྟ-སྤྱོད-ཚོད-འཛིན-ཡིག-དུམ	access control field
+ལྟ-སྤྱོད-ཚོད-འཛིན	access control
+ལྟ-སྤྱོད-ཟློག-པ	deny access
+ལྟ-སྤྱོད-ཡུན-ཚད	access period
+ལྟ-སྤྱོད-རིགས-གྲས	access type
+ལྟ-སྤྱོད-རིགས-དབྱེ	access category
+ལྟ-སྤྱོད-རིམ-པ	access level
+ལྟ-སྤྱོད-སྡེ-ཚན	access unit
+ལྟ-སྤྱོད	to access
+ལྟེ-བའི-དྲ-རྒྱ	backbone network
+ལྟེ-བའི-བྱ-རིམ	nucleus
+ལྟེ-བའི-སྐུལ-འདེད-བྱ-རིམ	kernel driver
+ལྟེབ-བརྩེགས	collapse
+ལྟེབ-ཤོག-Z-དབྱིབས-ཅན	zig-zag fold paper; z-fold paper
+ལྟོས-གཞི-ཆ-ཚང-རང-བཞིན	referential integrity
+ལྡབ-གཅིག-ཞིབ-ཚད	single precision
+ལྡབ-གཉིས-ཞིབ-ཚད	double precision
+ལྡབ-གཉིས-རིང-བའི-བཅོལ-ཆས	double length register
+ལྡབ-གསུམ-བཅོལ-ཆས	triple register
+ལྡབ-གསུམ-ཞིབ-ཚད	triple precision
+ལྡབ-མང-ཞིབ-ཚད	multiple-precision
+ལྡེབ-ཐོག-མའི-མཚམས-རྟགས	frame start delimiter
+ལྡེབ-བར-མཐུད	frame relay
+ལྡེབ-བརྟག-བཤེར-གྱི-རིམ-སྒྲིག	frame check sequence
+ལྡེབ-མཚམས-འཇོག-རྟགས	end-of-frame
+ལྡེབ-ཚོད-འཛིན-ཡིག-དུམ	frame control field
+ལྡེབ-རྫོགས-མཚམས-རྟགས	frame end delimiter
+ལྡེབ	frame
+ལྡེབས-ཤོག-གནས-རིས	wallpaper bitmap
+ལྡོག	negation
+ལྡོག-གསེག-ཡིག-གཟུགས	inverse italic
+ལྡོག-ངོས	inverse
+ལྡོག-ཆས	inverter
+ལྡོག-ཆོས	contrast
+ལྡོག-དཀྲིས	to rewind
+ལྡོག-དཔེ	negative example; negative instance
+ལྡོག-པའི-བྲེགས-ལེན	reverse clipping
+ལྡོག-ཕྱོགས-ཁྱབ-ཆུང-དྲ-རྒྱའི-འཕྲིན-ལམ	reverse LAN channel
+ལྡོག-ཕྱོགས-ཁྱབ-སྤེལ-དྲ-རྒྱ	back-propagation network
+ལྡོག-ཕྱོགས-ཁྱབ-སྤེལ	back propagation
+ལྡོག-ཕྱོགས-བཤེར-འཚོལ	backward search; reverse search
+ལྡོག-ཕྱོགས-འཕྲིན-ལམ	backward channel
+ལྡོག-ཕྱོགས-རྩད-འཚོལ	reverse find
+ལྡོག-ཕྱོགས-ལོང-སྦྲེལ	backward chaining
+ལྡོག-ཕྱོགས	invert
+ལྡོག-མེད-གསང-སྡོམ	irreversible encryption
+ལྡོག-འཇོག	inverted
+ལྡོག-འདེད	backtracking
+ལྡོག-འདེམས	invert selection
+ལྡོག-འབྱེད-རིགས-འདེད	abductive inference
+ལྡོག-འབྱེད	abduction
+ལྡོག-རྩིས-པ	to negate
+ལྡོག-རྩིས	complementary operation
+ལྡོག-སྐྱེལ-ཁྱབ-སྤེལ-དྲ-རྒྱ	feedback-propagation network
+ལྡོག-སྐྱེལ-ཁྱབ-སྤེལ	feedback propagation
+ལྦུ-བ-གསོག-ཆས	bubble memory
+ལྦུ-རིས	bubble chart
+ལྷག-མ	remaining
+ལྷག-སྒྲུག	to scavenge
+ལྷག-སྙིགས-ཚད	redundancy
+ལྷག-སྙིགས-ཚབ-ཨང	redundant code
+ལྷུ-ཆས-ཁྱིམ-སྡེའི-བྱ-རིམ-ཇུས-འགོད	family-of-parts programming
+ལྷུ-ཆས	components
+ཤ-ཆེན	bold fonts; bold
+ཤང-ནོན	shannon
+ཤད-རིས	stripe
+ཤན-འབྱེད-ཚིག-ཐོ	recognition vocabulary
+ཤན-འབྱེད	identify
+ཤུགས-སྣོན-སློབ-སྦྱོང	reinforcement learning
+ཤུར-ཁ	slot
+ཤུར-དབྱེའི-གདུབ-དྲ	slotted-ring network
+ཤེལ-བརྙན-མངོན-འབྲས	mirror effect
+ཤེལ-བརྙན	mirror; mirroring
+ཤེས-དགོས-པ	need-to-know
+ཤེས-པའི-གྲུབ-ལུགས	cognitivism
+ཤེས-པའི-ཚན-རིག	cognitive science
+ཤེས-བྱའི-གྲུབ-ཆ	knowledge structures
+ཤེས-རིག	knowledge
+ཤེས-རིག-གི-ཁུངས	knowledge source
+ཤེས-རིག-གི-མཛོད	knowledge base
+ཤེས-རིག-ཐོབ-པ	knowledge acquisition
+ཤེས-རིག-མཚོན-སྟངས	knowledge representation
+ཤེས-རིག-ལ-བརྟེན-པའི-རྒྱུད-ཁོངས	knowledge-based system
+ཤེས-རིག-ལས-གྲྭ-པ	knowledge engineer
+ཤེས-རིག-ལས-གྲྭ	knowledge engineering
+ཤེས-རིག-ལས-གྲྭའི-ལག-ཆ	knowledge engineering tool
+ཤེས-རིག-སྡོང-འགྲེམས	knowledge tree
+ཤེས-སླ-བ	understandability
+ཤོག-གྲངས-དང-པོ	first page
+ཤོག-གྲངས-རང-སྒྲིག	automatic page numbering
+ཤོག-གྲངས	page count
+ཤོག-ངོས-ཀློག-ཆས	page reader
+ཤོག-ངོས-གཅིག	one page
+ཤོག-ངོས-གདམ-ཚན	page option
+ཤོག-ངོས-གོ-རིམ	page order
+ཤོག-ངོས-ཆ-ཚང	entire page
+ཤོག-ངོས-ཆ-འཕྲིན	page information
+ཤོག-ངོས-བཀོད-པ	page layout
+ཤོག-ངོས-བཟོ-ལྟ	page genre
+ཤོག-ངོས-མངོན-སྟོན	full-page display
+ཤོག-ངོས-ཞིབ-བརྗོད-སྐད-ཡིག	page description language
+ཤོག-ངོས-ཞེང-ཚད	page width
+ཤོག-ངོས-རང-སྒྲིག	automatic pagination
+ཤོག-ངོས-རིང-ཚད	page length; page depth
+ཤོག-ངོས-རྒྱབ-ལྗོངས	page background
+ཤོག-ངོས-རྟགས	page mark
+ཤོག-ངོས-རྣམ-དབྱིབས	page format
+ཤོག-ངོས-སྒྲིག-འགོད	page setup
+ཤོག-ངོས	page
+ཤོག-ཆད	paper out
+ཤོག-ཆོད	separator page
+ཤོག-ཐགས-པར-སློག-འཕྲུལ-འཁོར	tape reproducer
+ཤོག-ཐགས-འབིགས-འཁོར	tape punch
+ཤོག-བུ-མི-འདུག	no paper
+ཤོག-བུ-སྙོད-སྟངས	paper-supplying way
+ཤོག-བུ	paper
+ཤོག-བྱང	page tab
+ཤོག-མགོ-གདོང-འཛར	header label
+ཤོག-མཇུག	endpage
+ཤོག-ཞབས	footer; running foot
+ཤོག-འགག	paper jam
+ཤོག-འཇུག-ཆས	input trays
+ཤོག-འདྲེན	paper feed
+ཤོག-འབྱེད-དགོས-པ	required page break
+ཤོག-འབྱེད-མཉེན-པ	soft page break
+ཤོག-འབྱེད-སྲ-མོ	hard page break
+ཤོག-འབྱེད	page break
+ཤོག-རྒྱུག	paper skip; paper throw; paper slew
+ཤོག-ལེ-བརྗེ-བ	form feed
+ཤོག-ལྡེབ-པར-འཁོར	page printer
+ཤོག-ལྡེབ	page frame
+ཤོག-ལྷེ-གཡས-སློག	page right
+ཤོག-ལྷེ-དབྱེ-བའི-ལག-རྩལ	paging technique
+ཤོག-ལྷེ-མར-སློག	page down
+ཤོག-ལྷེ-འཁོར	rotate page
+ཤོག-ལྷེ-འདྲེན-པ	paging
+ཤོག-ལྷེ-འབྱེད-ཆས	page sorter
+ཤོག-ལྷེ-ཡར-སློག	page up
+ཤོག-ལྷེ-རྗེས-མ	next page
+ཤོག-ལྷེ-སྔོན-མ	previous page
+ཤོག-ལྷེའི-མགོ-བྱང	page header
+ཤོག-སྟོང-པར-འདེབས	print blank page
+ཤོག-ཨང	page number
+ཤོང-ཚད-ཆེ-ཤོས	max capacity
+ཤོང-ཚད	capacity
+ས-ཁུལ	region
+ས-ཡ-སྟོང-བསྒྱུར	kilomega
+ས-ཡ	millions
+སིལ-གྲངས-ཚེག	radix point
+སིལ-གྲངས-ཚེག-གཏན-འཇགས-བྱེད-སྟངས	fixed decimal mode
+སིལ-གྲངས-ཚེག-མཚོན-རྟགས	radix point
+སིལ-གྲངས-ཚེག-འཕྱོ-འགུལ-བྱེད-སྟངས	floating decimal mode
+སིལ-གྲངས-ཚེག-རྟགས	decimal marker
+སུང-གཟུགས	MS serif
+སུབ-ཆོག	ok to remove
+སུབ-པ	delete; to erase
+སུབ-བཞིན-པ	deleting
+སུབ-བྱེད-སྡུད-མགོ	erase head; erasing head
+སུབ-རུང-གསོག-ཆས	erasable storage
+སེམས-ཁམས-མཚོན-རྟགས	emotion; smiley
+སེར-པོ	yellow
+སེར-སྐྱ	buff
+སེལ-བ	exclusion
+སོ-སྔོན-ལག-རྩལ	blue teeth
+སོར-ཆུད-དགོས-ངེས-ཆ-སྙོམས-དུས-ཚོད	mean time to recovery
+སོར-ཆུད-དུས-ཚོད	recovery time
+སོར-ཆུད-ནུས-པ	resilience
+སོར-ཆུད-བྱེད-མི-ཐུབ-པ	irrecoverable
+སོར-ཆུད-མི-ཐུབ-པའི-ནོར-སྐྱོན	irrecoverable error
+སོར-ཆུད-རྩོལ-ནུས	recovery function
+སོར-ཆུད	restore; recovery
+སོར-བཞག	reserved; default
+སོར-བཞག-ཐང	defaults
+སོར-བཞག-ཐང-སོར-ཆུད	restore defaults
+སོར-བཞག-ཐང-སོར-སློག	reset defaults
+སོར-བཞག-དུ-བཀོད-པ	set as default
+སོར-བཞག-པར-འཁོར	default printer
+སོར-བཞག-ཚབ-ཨང-ཤོག-ངོས	default code page
+སོར-བཞག-ཡིག-འབྲུ	reserved word
+སོར-བཞག-རྣམ-གཞག	default format
+སོར-སློག	to reset
+སོར-སློག-བྱེད-སྟངས	reset mode
+སྐད-གདངས-གཞོག-རླབས	speech clipping
+སྐད-གདངས-གྲངས-འགྱུར	speech digitizing; speech digitization
+སྐད-གདངས-ཐགས-ཞེང	speech bandwidth
+སྐད-གདངས-དང-དཔེ-རྣམ-ཟླ-སྒྲིག	speech-pattern matching
+སྐད-གདངས-དཔེ-པང	speech template
+སྐད-གདངས-དཔེ-རྣམ	speech pattern
+སྐད-གདངས-དབྱེ-ཞིབ-ཆས	speech analyzer
+སྐད-གདངས-དབྱེ-ཞིབ-རྒྱུད-ཁོངས	speech analysis system
+སྐད-གདངས-དབྱེ-ཞིབ	speech analysis
+སྐད-གདངས-ནང-འཇུག	speech input
+སྐད-གདངས-ཕྱིར-འདོན	speech output
+སྐད-གདངས-བརྒྱུད-གཏོང	voice transmission
+སྐད-གདངས-བརྡ-རྟགས	speech signal
+སྐད-གདངས-བསྐྱར-གྲུབ	speech reconstruction
+སྐད-གདངས-བསྐྱར-སྒྲིག	speech restitution
+སྐད-གདངས-ཚོད-འཛིན	speech control
+སྐད-གདངས-ཟློས-ཕྱོད	speech frequency
+སྐད-གདངས-འདྲེས-གྲུབ-ཆས	speech synthesizer
+སྐད-གདངས-འདྲེས-གྲུབ-རྒྱུད-ཁོངས	speech synthesis system
+སྐད-གདངས-འདྲེས-གྲུབ	speech synthesis
+སྐད-གདངས-ཡིག-རྐྱང-དུ-སྒྱུར	speech-to-text conversion
+སྐད-གདངས-རྒྱུས-ལོན	speech understanding
+སྐད-གདངས-རླབས-གཟུགས-ཨང-སྒྲིག	speech waveform coding
+སྐད-གདངས-ལ-ལྟོས-པའི-དྲན-སྐུལ	speech-based alerting
+སྐད-གདངས-ཤན-འབྱེད-ཆས	speech recognizer
+སྐད-གདངས-ཤན-འབྱེད-རྒྱུད-ཁོངས	speech recognition system
+སྐད-གདངས-ཤན-འབྱེད	speech recognition
+སྐད-གདངས-ཤལ-རིས	speech spectrogram
+སྐད-གདངས-ཤེས-རུང-ཚད	speech intelligibility
+སྐད-གདངས-སྒྲིག-གཅོད	speech processing
+སྐད-གདངས-སྡུད-སྒྲིལ	speech compression
+སྐད-གདངས-སྦྱོང-བརྡར	speech training
+སྐད-གདངས-སྦྲག-སྐུར	voice mail
+སྐད-གདངས-ཨང-སྒྲིག	speech coding; speech encoding
+སྐད-གདངས	speech
+སྐད-ཆ-ཤོད-སྟངས	speaking mode
+སྐད-དུང	speakerphone
+སྐད-བརྡ-ཁོར-ཡུག	language environment
+སྐད-བརྡ-གཙོ-བོ	host language
+སྐད-བརྡ-ཆགས-ཚུལ	language construct
+སྐད-བརྡ-ཤན-འབྱེད	speech recognition
+སྐད-བརྡ-སྒྲིག-གཅོད-བྱ-རིམ	language processor
+སྐད-བརྡ-སྒྲིག-བཀོད	language setting
+སྐད-བརྡ-སྒྲིག-སྲོལ	language rule
+སྐད-བརྡ-སྔོན-དཔག-སྒྲིག-གཅོད-ཆས	language preprocessor
+སྐད-བརྡ	language
+སྐད-བརྡར-དཔྱད-པའི-སྐད-བརྡ	metalanguage
+སྐད-རབས-གཉིས-པ	second-generation language
+སྐད-སྒྱུར	spoken-language translation
+སྐད-སྒྲ-ནང-འཇུག	voice input
+སྐད-སྒྲ-ཕྱིར-འདོན	voice output
+སྐད-སྒྲ-བཀའ	voice command
+སྐད-སྒྲ-བརྡ-སྟོན	voice prompt
+སྐད-སྒྲ-མིང-རྟགས	voice signature
+སྐད-སྒྲ-ཚོད-འཛིན-རྒྱུད-ཁོངས	voice control system
+སྐད-སྒྲ-ཚོད-འཛིན	voice control
+སྐད-སྒྲ-ཞབས-ཞུ-འཕྲུལ-ཆས	voice server
+སྐད-སྒྲ-འདེམས-བྱང	voice menu
+སྐད-སྒྲ-འཛིན-ཆས	voice controller
+སྐད-སྒྲ-ཡ-ལན	voice response
+སྐད-སྒྲ-ཤན-འབྱེད-སྡེ-ཚན	voice-recognition unit
+སྐད-སྒྲ-ཤན-འབྱེད	voice recognition
+སྐད-སྒྲ-སྔོན-ལྟ-ཆས	voice previewer
+སྐད-སྒྲ	voice
+སྐབས-དོན-རོགས-རམ	context help
+སྐབས-དོན	context
+སྐབས-བསྟུན-གསོག-ཆས	ram
+སྐབས-བསྟུན-གསོག-ལྷེབ	random memory card
+སྐབས-བསྟུན-གྲངས-རིམ-སྟར	random number sequence
+སྐབས-བསྟུན-གྲངས	random number
+སྐབས-བསྟུན-དྲ-རྒྱ	random network
+སྐབས-བསྟུན-བཅོལ-ལེན	random access
+སྐབས-བསྟུན-བཤར-འབེབས-མངོན-སྟོན-ཡོ-ཆས	calligraphic display device
+སྐབས-བསྟུན-མྱུར-གསོག	random
+སྐབས-བསྟུན-ཚངས-རིམ-སྟར-རྫུན-མ	pseudo-random number sequence
+སྐབས-བསྟུན-སྦྲེལ-མཐུད-དྲ-རྒྱ	randomly connected network
+སྐབས-སྡོད-བཀའ-བརྡ	pause instruction
+སྐབས-སྡོད	pause
+སྐར-དྲ-རྒྱ	star network
+གདུབ-དྲ-རྒྱ	ring network
+སྐར-ཆ-རེར-གཡེང-རྩིས-ས-ཡ	megaflops
+སྐར-ཆ-རེར-བཀའ-བརྡ-ས-ཡ	millions of instructions per second
+སྐར-ཆ-རེར-མཐུད-སྒྱུར	connection update per second
+སྐར-དབྱིབས-དྲ-རྒྱ	star network
+སྐར-མ-རེ	every minute
+སྐར-རྟགས	asterisk
+སྐུང-པ	to shrink
+སྐུང-མིང	anonymous
+སྐུང-འབྲི	abbreviation
+སྐུང-ཡིག-ལེན-མཁན	blind copy recipient
+སྐུང-ཡིབ	hide
+སྐུང-རིམ	hidden layer
+སྐུད-ཆུན-མདའ-གཅིག-མ	coaxial cable
+སྐུད-ཐོག-རོགས-རམ	inline help
+སྐུད-པ-ཉིས-རྐྱ-མ	twisted pair
+སྐུད-པ-མདའ-གཅིག-མ	coaxial pair
+སྐུད-མེད-ཁྱབ-ཆུང-དྲ-རྒྱ	wireless local area network
+སྐུད-འགྲིམས-འཚང-འཛུལ	between-the-lines entry
+སྐུད-རིམ	thread
+སྐུད-ལམ-མགྱོགས-ཚད	line speed
+སྐུད-ལམ-ལྐོག-ཉན	wiretapping
+སྐུད-ལམ	line
+སྐུམ-པ	to indent
+སྐུལ-ཆས-འདེམས-པ	select drives
+སྐུལ-ཆས	drive
+སྐུལ-འདེད-བྱ-རིམ-བསྐྱར-སྒྲིག	reinstall driver
+སྐུལ-འདེད-བྱ-རིམ	driver
+སྐུལ-འདེད	drive
+སྐུལ-སློང	activation
+སྐུལ-སློང-ཟིན-ཐོ	activation record
+སྐུལ-སློང-རྟེན-འབྱུང-གྲངས	activation function
+སྐུལ-སློང-རྣམ-པ	activation state
+སྐུལ-སློང-སྣེ-ཁྲིད	boot start
+སྐོགས-ཚིགས	shell site
+སྐོང-འཛུད	to nest
+སྐོང-རྟགས	filler
+སྐོར-ལམ	loop
+སྐོར	about
+སྐྱ-བོ	gray
+སྐྱ-ཚད-༥༠	gray
+སྐྱ-ཚད-ཁྱབ-ཁོངས	gray scale
+སྐྱ-སྨུག	lilac
+སྐྱུར-བ	resign
+སྐྱེ-དངོས-ཚད-འཇལ-གཏན-འཁེལ	biometric
+སྐྱེད-རུང-སྐད-བརྡ	extensible language
+སྐྱེད-སྐྱུང	zooming; scaling
+སྐྱེད-སྐྱུང-གྲུབ-འབྲས	scale effect
+སྐྱེད-སྐྱུང-ཏེ	zoom to
+སྐྱེད-སྒྲུབ-གནས-ཡུལ	generated address
+སྐྱེད-སྒྲུབ-དང-ཚོད-ལྟ	generate-and-test
+སྐྱེད-སྒྲུབ-རྟེན-འབྱུང-གྲངས	generating function
+སྐྱེད-སྒྲུབ-སྡེ-ཚན	generic unit
+སྐྱེད-སྒྲུབ	generate
+སྐྱེལ-གཏོང	to transmit
+སྐྱེལ-གཏོང-མ-བྱས-པ	not sending
+སྐྱེལ-མི-ཐུབ-པ	nondelivery
+སྐྱེལ-འཇུག	incoming
+སྐྱེལ-འཇོག	to upload
+སྐྱེལ-སྒུག-རྒྱུན-འཁྱོངས-ཞབས-ཞུ	hold-for-delivery service
+སྐྱེལ-སྤྲོད	delivery
+སྐྱོན-ཁྲོད-ཆ-སྙོམས-བཀོལ-སྤྱོད-དུས-ཚོད	mean operating time between failures
+སྐྱོན-ཅན	bad
+སྐྱོན-འཇོག-སྒྲིག	bug seeding
+སྐྱོན-འདུག	error exist
+སྐྱོན-འཛོལ	flaw; loophole
+སྐྱོན-རྗེས-འདེད	fault trace
+སྐྱོན-ལྟ-སྤྱོད	failure access
+སྐྱོན-སེལ-ཆས	debugger
+སྐྱོན-སེལ-འཆར-གཞི	disaster recovery plan
+སྐྱོན-སེལ	to debug
+སྐྱོན-སྔར-ལོག-ཆོག	allow failback
+སྐྱོན-སྲན	fault tolerance
+སྐྱོན-སྲུང-སྟངས-འཛིན	failsafe operation
+སྐྱོན	fault
+སྐྱོབ-ས	rescue point
+སྒ-སྒྲིལ	reel
+སྒམ-ཆུང-དཔེ-རིས	box diagram
+སྒམ-དབྱིབས-སྡུད-སྡེར	disk cartridge
+སྒུག-དུས	latency; waiting time
+སྒུག-པ	wait
+སྒུག-པའི-དུས-ཚོད	stand by time
+སྒུག-པའི-བརྗོད-ཚིག-འདེམས-གསེས	selective-wait statement
+སྒུག-པའི-སྒང	waiting
+སྒུག-སྡོད	waiting; standby
+སྒུལ-སློང-བཞིན-པ	starting
+སྒུལ-སློང-མི-ཐུབ-པ	could not start
+སྒེའུ-ཁུང	window
+སྒེའུ-ཁུང-ཁ-རྒྱག	close the window
+སྒེའུ-ཁུང-གནས-ས	window position
+སྒེའུ-ཁུང-གཙོ-བོ	primary window
+སྒེའུ-ཁུང-གསར-བཟོ	new window
+སྒེའུ-ཁུང-ཆེ-ཆུང	window size
+སྒེའུ-ཁུང-ཞིབ-ཐོ	window list
+སྒེའུ-ཁུང-འགེབས-པ	overlay window
+སྒེའུ-ཁུང-འདེམས-པ	select window
+སྒེའུ-ཁུང-འདེམས-བྱང	window menus
+སྒེའུ-ཁུང-འདེམས-ཚན	window options
+སྒེའུ-ཁུང-འཕར-ཐོན	eject window
+སྒེའུ-ཁུང-འབྱེད-པ	windowing
+སྒེའུ-ཁུང-ཡི-གེ	window text
+སྒེའུ-ཁུང-རིམ-བརྩེགས	window cascading
+སྒེའུ-ཁུང-རྗེས-མ	next window
+སྒེའུ-ཁུང-སོར-བཞག	keep window
+སྒེའུ-ཁུང-སྔོན-ལྟ	window preview
+སྒེའུ-སྒྲོམ	form
+སྒེར-གསང-སྲུང-བ	privacy protection
+སྒེར-གྱི-ཡིག-ཁུག	personal folders
+སྒེར-གྱི-རྩིས-འཁོར	personal computer
+སྒེར-དབང-ཆ-ཤས	private part
+སྒེར-དབང-རིགས-གྲས	private type
+སྒེར-དོན-གསང-དབང	privacy right
+སྒེར-མིང	personal name
+སྒེར-ལྡེ	private key
+སྒེར-སྤྱོད-ཁོངས-མིང	private domain name
+སྒེར-སྤྱོད-ཆེད-སྤྱོད-དོ-དམ-ཁོངས	private management domain
+སྒེར	private
+སྒོ-ལྕགས-བརྒྱབ-མཁན	locked by
+སྒོ-ལྕགས-རྒྱག	lock
+སྒོ	gate
+སྒྱུར-གཞིའི-སྐད-བརྡ	source language
+སྒྱུར-ཆས-བཀའ-བརྡ	translator directive
+སྒྱུར-ཆས	converter
+སྒྱུར-དཀྲོལ	demodulation
+སྒྱུར-དཔར-འཕྲུལ-འཁོར	interpreter(device)
+སྒྱུར-བ	convert; switch
+སྒྱོགས-རྟགས	cursor
+སྒྲ-ཁཱ	sound card
+སྒྲ-གཉིས-མ	diphone
+སྒྲ-གདངས	tone
+སྒྲ-གཤིས	sound quality
+སྒྲ-དུང	mic
+སྒྲ-མཚུངས-མིང	homonym
+སྒྲ-མེད	mute; no sounds
+སྒྲ-ཟློས	audio; sound frequency
+སྒྲ-འབེབས-འགོ-བཙུགས-པ	recording started
+སྒྲ-འབེབས-འཕྲུལ-ཆས	sound recorder
+སྒྲ-འབེབས-རྒྱུད-ཁོངས	rec system
+སྒྲ-འབེབས-རྩོལ-ནུས	rec capabilities
+སྒྲ-འབེབས-སྒྲ-ཚད	record volume
+སྒྲ-འབེབས	recording
+སྒྲ-རིག-བརྡ-རྟགས	acoustic signal
+སྒྲ-རིས	voiceprint
+སྒྲ-རྒྱུ	phoneme
+སྒྲ-རྟགས-རི-མོ	sonogram
+སྒྲ-ལམ-གྲངས-ཀ	channel number
+སྒྲ-ལམ-ཕྱིར-འདོན	sound channels output
+སྒྲ-ཤུགས	sound volume
+སྒྲ-སྐྱེད-ཆས-སྒྲིབ-པ	mute speaker
+སྒྲ-སྐྱེད-ཆས	speakers
+སྒྲ-སྒམ	sound box
+སྒྲ-ཨང-ཆས	vocoder; voice coder
+སྒྲ	sound
+སྒྲའི-ཡིག-ཆ	sound file
+སྒྲིག-གཅོད-ཆས-ཀྱི-གནས	processor bits
+སྒྲིག-གཅོད-ཆས-ཀྱི-ཉིང-ལྟེ	processor core
+སྒྲིག-གཅོད-ཆས-ཀྱི-ཕྱིའི-ཟློས-གྲངས	processor external frequency
+སྒྲིག-གཅོད-ཆས-ཀྱི-མགྱོགས-ཚད	processor speed
+སྒྲིག-གཅོད-ཆས-གཙོ-བོ	central processing unit
+སྒྲིག-གཅོད-ཆས-དུས-ཚོད	processor time
+སྒྲིག-གཅོད-ཆས-བར-ཁུལ	processor buffer
+སྒྲིག-གཅོད-ཆས	processor; processing unit
+སྒྲིག-གཅོད-བྱེད-ཐབས	operating methods
+སྒྲིག-གཅོད-བྱེད-བཞིན	processing
+སྒྲིག-གཅོད-བྱེད-སྟངས	modes of processing
+སྒྲིག-གཅོད-མང-པོ	multiprocessing
+སྒྲིག-གཅོད	handle
+སྒྲིག-གཞི-ཅན-གྱི-ཇུས-འགོད	structured design
+སྒྲིག-གཞི-ཅན-གྱི-བྱ-རིམ-ཇུས-འགོད	structured programming
+སྒྲིག-གཞི-ཅན-གྱི-བྱ-རིམ	structured program
+སྒྲིག-གཞི-ཅན-སྐོར-ཞིབ	structured walk-through
+སྒྲིག-གཞི-འགྲེལ-བརྗོད	structural description
+སྒྲིག-གཞི-སུབས	remove infrastructure
+སྒྲིག-གཞི	infrastructure
+སྒྲིག-གཞིའི-རི-མོ	structure chart
+སྒྲིག-ཆས-གནས-ཚད	device coordinate
+སྒྲིག-ཆས-དོ-དམ-ཆས	device manager
+སྒྲིག-ཆས-དོ-དམ	device administration
+སྒྲིག-ཆས-བར-མ	intermediate equipment
+སྒྲིག-ཆས-བར-སྟོང	device space
+སྒྲིག-ཆས-མིང	device name
+སྒྲིག-ཆས-ཚོད-འཛིན-ཡིག-རྟགས	device control character
+སྒྲིག-ཆས-རིགས-གྲས	device type
+སྒྲིག-ཆས-ལག-རྩལ	equipment technology
+སྒྲིག-ཆས-ལམ-འཁྲིད-སྣོན-པ	add device wizard
+སྒྲིག-ཆས-སྐུལ-འདེད-བྱ-རིམ	device drivers
+སྒྲིག-ཆས-སྒྱུར-བ	device transformation
+སྒྲིག-ཆས-སྒྲིག-འཇུག	device setup
+སྒྲིག-ཆས-སྣོན-པ	add device
+སྒྲིག-ཆས	device
+སྒྲིག-དཀའི-ཡི-གེ	complex language
+སྒྲིག-པ	set
+སྒྲིག-བཞིན-པ	installing
+སྒྲིག-བསྒྱུར-ལྡོག-མ	to decompile
+སྒྲིག-བསྒྱུར-ལྡོག-མའི-ཡོ-ཆས	decompiler
+སྒྲིག-འཁོར-གཙོ-བོ	central processing unit
+སྒྲིག-འཁོར-མང-པོ	multiprocessor
+སྒྲིག-འགལ	breach
+སྒྲིག-འགོ-འཛུགས-ས	assembled origin
+སྒྲིག-འགོད-བཟོ-བཅོས	change settings
+སྒྲིག-འགོད-ཞུགས-གྲངས	setting preferences
+སྒྲིག-འགོད-འདེམས-བྱང	setting menus
+སྒྲིག-འགོད	setting
+སྒྲིག-འཇུག	install
+སྒྲིག-འཇུག-གནང-རོགས	welcome to install
+སྒྲིག-འཇུག-ཆ-འཕྲིན	setup information
+སྒྲིག-འཇུག-ཆོག-པ	installable
+སྒྲིག-འཇུག-དཀར-ཆག	install directory
+སྒྲིག-འཇུག-དུས-རིམ	install state
+སྒྲིག-འཇུག-ནས-ཕྱིར-འཐོན	exit setup
+སྒྲིག-འཇུག-ནོར-འཁྲུལ	installation error
+སྒྲིག-འཇུག-བཀའ	setup command
+སྒྲིག-འཇུག-བྱ-རིམ-སྒུལ-སློང-མི-ཐུབ	unable to start the installer
+སྒྲིག-འཇུག-བྱ-རིམ	setup program
+སྒྲིག-འཇུག-བྱས-ཟིན	setup complete
+སྒྲིག-འཇུག-བྱེད-མི-ཆོག	do not allow installation
+སྒྲིག-འཇུག-མེད-པ	not installed
+སྒྲིག-འཇུག-ཟིན-པ	finish setup
+སྒྲིག-འཇུག-འདེམས-ཚན	setup options
+སྒྲིག-འཇུག-ཡིག-ཆ	setup file
+སྒྲིག-འཇུག-ལམ-ཁྲིད	installation wizard
+སྒྲིག-འཇུག-སྣེ-སྟོན	install tip
+སྒྲིག-འཛུགས-དོ-དམ-བྱ-རིམ	organizational management program
+སྒྲིག-ལྷུ	components
+སྒྲིག-སྒྱུར-གསལ-བཤད-སྐད-བརྡ	compiler specification language
+སྒྲིག-སྒྱུར-ཆས-བཀའ-བརྡ	compiler directive
+སྒྲིག-སྒྱུར-ཆས-ཚབ-ཨང	compiler code
+སྒྲིག-སྒྱུར-ཆས-སྒྲིག-མཁན	compiler compiler; metacompiler
+སྒྲིག-སྒྱུར-ཆས	compiler
+སྒྲིག-སྒྱུར-དུས-ཚོད	compilation duration
+སྒྲིག-སྒྱུར-དུས-རིམ	compile phase
+སྒྲིག-སྒྱུར-བྱ-རིམ-གྱི-སྐྱེད-སྒྲུབ-བྱ-རིམ	compiler generator
+སྒྲིག-སྒྱུར-བྱ-རིམ	compiler; compiling program
+སྒྲིག-སྒྱུར-ཤེས-བྱ	compiled knowledge
+སྒྲིག-སྒྱུར-སྡེ-ཚན	compilation unit
+སྒྲིག-སྒྱུར	compilation
+སྒྲིག-སྦྱོར-བྱེད-མཁན	installed by
+སྒྲིག-སྦྱོར	tile
+སྒྲིག-སྲོལ-ཟླ-སྒྲིག	rule matching
+སྒྲིག-སྲོལ-ལ-བརྟེན-པའི-འདྲེས-གྲུབ	rule-based synthesis
+སྒྲིག-སྲོལ-ལ-བརྟེན-པའི-རྒྱུད-ཁོངས	rule-based system
+སྒྲིག-ཨང	numerous sign
+སྒྲིབ-པ	shielding
+སྒྲུག-འདོན	to extract
+སྒྲུག-ལེན-ཡོ-ཆས	pick device
+སྒྲུབ-ཚད-གླེང-སྒྲོམ	progress dialog
+སྒྲུབ-ཚད-སྟོན-ཆས	progress indicator
+སྒྲུབ-ཚད	progress
+སྒྲོག-པ	padlocking
+སྒྲོག-མཐུད-ཡི-གེ	socket
+སྒྲོག-མཐུད	socketing
+སྒྲོག-འགག	deadlock
+སྒྲོག-རྒྱག-པ	lockout
+སྒྲོན-བརྙན-གྲུབ-འབྲས	filmstrip effect
+སྒྲོན-བརྙན-མཐོང-རིས	filmstrip view
+སྒྲོན-བརྙན	filmstrip
+སྒྲོམ-གཞི-བར-ཁུལ	frame buffer
+སྒྲོམ-གཞི	frame
+སྒྲོམ-བུའི-རེའུ-མིག	chapin chart
+སྒྲོམ-རིས	block diagram
+སྔ-དུས-ཀྱི-སྡོམ-པ	early binding
+སྔ-ཕྱིར	consecutive
+སྔ-འདྲེན-ཚབ-ཨང	preamable
+སྔར-ཡོད	built-in; predefined
+སྔོ-དཀར	white blue
+སྔོ-ལྗང	teal
+སྔོ-སྐྱ-ལྗང-སྐྱ	aqua green
+སྔོ-སྐྱ	aqua
+སྔོན-ཀློག-སྡུད-མགོ	pre-read head
+སྔོན-གསོག	to prestore
+སྔོན-དཔག-ལེན-མཁན	intended recipient
+སྔོན-དཔག-ཨང-སྒྲིག	prediction coding
+སྔོན-པོ	blue
+སྔོན-ཕྲེང-མཇུག-གཞུང	across; then down
+སྔོན-ཕྲེང-ལྟར-ཤོག-ལྷེ-འདྲེན-པ	anticipatory paging
+སྔོན-བཀོད-མཚོན-གཞིའི-ངོ-རྟགས	predefined identifier
+སྔོན-བཀོད-རིགས-གྲས	predefined type
+སྔོན-བཀོད	predefined
+སྔོན-བཤེར-དུས-ཚོད	prescanning time
+སྔོན-འགེབས	backward recovery
+སྔོན-འགོག-ཉམས-གསོ	preventive maintenance
+སྔོན-འགྲོའི-ཆ-རྐྱེན	precondition
+སྔོན-འགྲོའི-ཆ-ཤས	premise part
+སྔོན-འགྲོའི-སྒྲིག-གཅོད-བྱ-རིམ	preprocessor
+སྔོན-འགྲོའི-སྒྲིག-གཅོད	preprocessing
+སྔོན-འདེམས-སྡེ-ཚན	preference
+སྔོན-འདེམས	preferred
+སྔོན-འདོགས-ཐབས	prefix notation
+སྔོན-འཛུལ-སྔོན-ཐོན	oldest first
+སྔོན-ལྟ-བྱ-རིམ	previewer
+སྔོན-ལྟ-སྐྱེད-སྒྲུབ	generate preview
+སྔོན-ལྟ	preview
+སྔོན-སྒྲིག	bring to front; preset; default
+སྔོན-སྒྲིག-ཞུགས-གྲངས	preset parameter
+སྔོན-སྤྱོད-བཀོལ	operator precedence
+སྔོན-སྤྱོད-རིམ-པ	priority
+སྔོན-སྦྱོར	prefix
+སྙན-ཞུ	report
+སྙིགས-སྒམ-གཙང-སེལ	empty recycle bin
+སྙིགས-སྣོད	recycle bin
+སྙེར-སུལ	waviness
+སྙོམ-སྒྲིག	alignment
+སྙོམ-སྒྲིག-ཆས	modem
+སྙོམ-སྒྲིག-ཕྱོད	modulation rate
+སྙོམ-སྒྲིག-རུང-བའི-བསྡོམས-འབོར	adjustable-size aggregate
+སྙོམས-གཏན-ཆ-འཕྲིན-ཁུངས	stationary information source
+སྙོམས-གཏན-བརྡ-འཕྲིན-ཁུངས	stationary message source
+སྙོམས-ཐང	mean
+སྙོམས-འདིང	tile
+སྟབས-བདེ-ཚོར-ཆས	simple perceptron
+སྟབས-བདེ	simple
+སྟབས-བདེའི-གསང-ཨང	simple password
+སྟབས-བདེའི-གསལ-བཤད	description of simple
+སྟབས-བདེའི-བརྗོད-ཚིག	simple statement
+སྟབས-བདེའི-ཡིག-ཆ	simple file
+སྟབས-བདེའི-ལྷོད-གཏོང	simple buffering
+སྟར-གཅིག-གཡས-སྤོ	move right a column
+སྟར-གཅིག-གཡོན-སྤོ	move a column to left
+སྟར-བརྗེ	change column
+སྟར-ཞེང	column width
+སྟར-རང-སྒྲིག	auto arrange
+སྟར-སྒྲིག	arrange
+སྟར-སྒྲིག-བྱེད-སྟངས	order by
+སྟར-སྒྲིག-སྒེའུ-ཁུང	arranges windows
+སྟར	column
+སྟེགས-འཇོག-རྩིས-འཁོར	desktop
+སྟེགས-རྒྱབ-ཞབས-ཞུ	background service
+སྟེགས-རྒྱབ-འཁོར-སྐྱོད	working in background
+སྟེགས-སྟེང-རྩིས-ཆས	desk-top calculator
+སྟེང	top
+སྟེང-ཐག	top margin
+སྟེང-ཡིག	superscript
+སྟོང-གནས-མཚམས-གཅོད-རྟགས	kilobit separator
+སྟོང-ཆ	blank; blank character
+སྟོང-པ	empty
+སྟོང-པའི-སྨྱན-གཟུགས	blank medium
+སྟོང-མིག	space
+སྟོང-ཟུར-སྐར-ཆ	milliseconds
+སྟོང-འཇོག	blanking
+སྟོང-འཇོག-ཡིག-རྟགས	space character
+སྟོང-རྟགས-སྲ-མོ	hard space
+སྟོང-ལུས-ཡིག-རྟགས	required character
+སྟོང-ལུས	opening
+སྟོང-སངས-སྡུད-ཐགས-འཇུག-སྒམ	vacuum column
+སྟོད-རྟགས-བར-གསེང	superscript interval
+སྟོན-མདའ-སྟོང-པ	null pointer
+སྟོན-མདའ	pointer
+སྟོན-མདའི-རིགས-གྲས	pointer type
+སྟོན-འགྲེམས-ཟིན-བྲིས	presentation document
+སྟོན-འགྲེམས-ཡིག-ཆ	presentation document
+སྟོན-འགྲེམས-རི-མོ	presentation graph
+སྟོན-འགྲེམས	presentation
+སྟོན-རྟགས	indicator
+སྡུད-ཁཱ-གསོག-ཆས	magnetic card storage
+སྡུད-ཁཱ	magnetic card
+སྡུད-གནས	rendezvous
+སྡུད-ཐག-གཙང-འཁྲུད	cleaning cartridge
+སྡུད-ཐགས-གསོག-ཆས	magnetic tape storage
+སྡུད-ཐགས-མགོ-རྟགས	beginning-of-tape marker
+སྡུད-ཐགས-མཇུག-དུམ	magnetic tape trailer
+སྡུད-ཐགས-མཇུག-རྟགས	end-of-tape marker
+སྡུད-ཐགས-འཕྲུལ-ཆས	magnetic tape unit
+སྡུད-ཐགས-སྐུལ-ཆས	magnetic tape drive; magnetic tape transport
+སྡུད-ཐགས-སྣེ-ཁྲིད-དུམ	magnetic tape leader
+སྡུད-ཐགས	magnetic tape
+སྡུད-ཐོ	magnetic recording
+སྡུད-པར-འཁོར	magnetographic printer
+སྡུད-མགོ-གྲངས	head number
+སྡུད-མགོ-བརྗེ-སྒྱུར	head switching
+སྡུད-མགོ-བརྡར-འཕྲད	head crash
+སྡུད-མགོ-སྒར-ཁུལ	head loading zone
+སྡུད-མགོ	magnetic head
+སྡུད-འགོད	enrollment
+སྡུད-རྔ-གསོག-ཆས	magnetic drum storage
+སྡུད-རྔ	magnetic drum
+སྡུད-རྔའི-འཕྲུལ-འཁོར	magnetic drum unit
+སྡུད-ལམ-བར-ཐག	track pitch
+སྡུད-ལམ-བརྗེ	alternate track; alternative track
+སྡུད-ལམ-ཚོགས	band
+སྡུད-ལམ-སྟུག-ཚད	track density
+སྡུད-ལམ	track
+སྡུད-ལྟེ	magnetic core
+སྡུད-སྒྲིལ-ཕྱིར-འདོན	compression out
+སྡུད-སྒྲིལ-བྱ-རིམ	compressor
+སྡུད-སྒྲིལ-མ-བྱས-པ	uncompressed
+སྡུད-སྒྲིལ-སྟུག-ཚད	packing density
+སྡུད-སྒྲིལ-སྤུས-ཚད	compression quality
+སྡུད-སྒྲིལ	compress
+སྡུད-སྡེར-ཁུལ-ལག	disk partition
+སྡུད-སྡེར-གང-བ	disk full
+སྡུད-སྡེར-གཏོགས-གཤིས	disk properties
+སྡུད-སྡེར-གསོག-ཆས	magnetic disk storage
+སྡུད-སྡེར-གྲ-སྒྲིག-མེད-པ	disk not ready
+སྡུད-སྡེར-ཆག-གྲུགས-སྒྲིག-པའི-བྱ-རིམ	disk defragmenter
+སྡུད-སྡེར-དང-སྡུད-མགོའི-སྒྲིག-ཆས	head/disk assembly
+སྡུད-སྡེར-དོ-དམ-ཆས	disk administrator
+སྡུད-སྡེར-དོ-དམ	disk management
+སྡུད-སྡེར-པར-སློག	copy disk
+སྡུད-སྡེར-བར-སྟོང	disk space
+སྡུད-སྡེར-བར-སྟོང-གྲོལ-བ	free disk space
+སྡུད-སྡེར-ཚོ	disk pack
+སྡུད-སྡེར-ཞུགས-གྲངས	disk parameters
+སྡུད-སྡེར-འཕྲུལ-འཁོར	magnetic disk unit
+སྡུད-སྡེར-རྣམ-གཞག-བཟོ-བ	format disk
+སྡུད-སྡེར-སྐུལ-ཆས	disk drive
+སྡུད-སྡེར	magnetic disk
+སྡུད-སྣག	magnetic ink
+སྡུད-སྣག-ཡིག-རྟགས-ཀློག-ཆས	magnetic ink character reader
+སྡུད-སྣག-ཡིག-རྟགས-ཤན-འབྱེད	magnetic ink character recognition
+སྡུད-སྣག-ཡིག-རྟགས	magnetic ink character
+སྡུར-ཆས	comparator
+སྡུར-ཕྲེང-རྐྱེན-ཆ	scale factor; scaling factor
+སྡུར-བ	to compare
+སྡུར-ཚད	scale
+སྡེ-ཚན-ཕྲེང	unit string
+སྡེ-ཚན-ཚོད-ལྟ	unit test
+སྡེ-ཚན-སྣོན-པ	add item
+སྡེ-ཚན	items; cell
+སྡེབ-གཅོད	batch processing
+སྡེབ-གཏོང	group sending
+སྡེབ-གྲགས	reverb
+སྡེབ-བསྒྲིགས-མེད-པ	unconfigured
+སྡེབ-ལེན-མིན-པ	non-lon unction
+སྡེབ-ལེན	conjunction
+སྡེབ-སྒྲིག	configuration; combine
+སྡེབ-སྒྲིག-གློག-ལམ	combinational circuit
+སྡེབ-སྒྲིག-བྱ-རིམ	configure program
+སྡེབ-སྒྲིག-ཚོད-འཛིན-ཨུ-ཡོན-ལྷན-ཁང	configuration control board
+སྡེབ-སྒྲིག-ཡིག-ཆ	config file
+སྡེབ-སྒྲིག-རི-མོ	combination chart
+སྡེབ-སྒྲིག-རྒྱུད-ཁོངས	configure system
+སྡེབ-སྒྲིག-ས-ཚུགས	combined station
+སྡེབ-སྒྲིག-སྒྲོམ-བུ	combo box
+སྡེབ-སྦྱོར-གྱི-སྒྲིག-སྲོལ	prosody rule; prosodic rule
+སྡེར-གོར	puck
+སྡེར-རྐྱང-གི-ཤོང-ཚད	single disk capacity
+སྡེར	disk
+སྡོང-དབྱིབས-དྲ-རྒྱ	tree network
+སྡོང-དབྱིབས-བཤེར-འཚོལ	tree search
+སྡོང-དབྱིབས-སྒྲིག-གཞི	tree structure
+སྡོང-འགྲེམས	tree
+སྡོད-གནས-ཀྱི-ཞུགས-གྲངས-ཟུང-འབྲེལ	positional parameter association
+སྡོམ-ཆུང	subtotal
+སྡོམ-ཆུང-རྩོལ-ནུས	subtotal function
+སྡོམ-དྲ	spidernet
+སྡོམ-པ	binding
+སྡོམ-པའི-དུས-ཚོད	binding time
+སྣག-གཏོར-པར-འཁོར	ink jet printer
+སྣག-ཚ-མི-འདང	toner low
+སྣག-རིས-ཚུལ-བྲིས	inking
+སྣང-མེད-གཏོང	ignore
+སྣང-ཚུལ	scene
+སྣེ-ཁྲིད-བྱ-རིམ	bootstrap
+སྣེ-ཁྲིད-རེའུ-མིག	directory
+སྣེ-ཁྲིད-སྣོན-འཇུག-ཆས	bootstrap loader
+སྣེ-ཁྲིད	boot
+སྣེ-གཉིས-སྙོམ-སྒྲིག	justify
+སྣེ-འགྱུར-ཀླད-ཀོར-དུ-དྲིལ-བའི-ལུགས-ཀྱི-ཟིན-ཐོ-འགོད-ཐབས	polarized return-to-zero recording
+སྣེ-ཤན	wizard
+སྣོད-ཆས	container
+སྣོན-ཆས	adder
+སྣོན-མི-ཐུབ	cannot add
+སྣོན-འཇུག	load
+སྣོན-འཇུག-ཆས	loader
+སྣོན-འཇུག-དཔེ-དུམ	load module
+སྣོན-འཇུག-ནས-ལག-བསྟར	load-and-go
+སྣོན-འཇུག-བྱེད-ས	loaded origin
+སྣོན-འཇུག-བྱེད-སྟངས	add mode
+སྣོན-འཇུག-མིན-པའི-རྩོལ-ནུས	nonadd function
+སྣོན-འཕྲིའི-ཡོ-ཆས	adder-subtracter
+སྣོན-རྩིས-ཆ-བསགས-རྩིས-ཆས	summing integrator
+སྣོལ-བ	cross
+སྣོལ-བའི-རྟོག-འཆར-དྲ-རྒྱ	crossbar associative network
+སྣོལ-འདྲེས	to interleave
+སྣོལ-རེས-བྱེད-སྟངས	interactive mode
+སྣོལ-རེས-ཚུལ-གྱི-ཁོར-ཡུག	interactive environment
+སྣོལ-རེས-ཚུལ-གྱི-མཐོང-རུང-ཡིག-རིས	interactive videography
+སྣོལ-རེས-ཚུལ-གྱི-རྩིས-འཁོར-རིས-དབྱིབས	interactive computer graphics
+སྣོལ-རེས-ཚུལ-གྱི-སྐད-བརྡ	interactive language
+སྣོལ-རེས-ཚུལ-གྱི-སྦྱོང-བརྡར	interactive training
+སྣོལ-རེས-ཚུལ	interactive
+སྣོལ-རེས-སྐད-སྒྲ-ཡ-ལན	interactive voice response
+སྣོལ-རེས	interactive
+སྣོལ	intersection
+སྤུང-རྩེག	stack
+སྤུས-ཚད-འགན-ལེན	quality assurance
+སྤུས-ཚད	quality
+སྤེལ-རྒྱུགས-གློག-ཁུངས-རྩིས-ཆས	mains-powered calculator
+སྤོ-གསོག	dump
+སྤོ-བ	move
+སྤོ-འབུད	remove
+སྤོ-འབེབས	to transcribe
+སྤོ-ཡོ-ཚད	offset
+སྤོ-རུང-CPཨཱུ	mobile CPU
+སྤོ-རུང-PC	mobile PC
+སྤོ-རུང	moveable; portability
+སྤོ-རུང-གསོག-ཆས	removable storage
+སྤོ-རུང-སྡུད-ཐག	removable tape
+སྤོ-རུང-སྡུད-སྡེར-སྐུལ-ཆས	removable disk drive
+སྤོ-རུང-སྡུད-སྡེར	removable disk
+སྤོ-སྒྱུར-བཀའ-བརྡ	jump instruction
+སྤོ-སྒྱུར	transmit; transform
+སྤོ	migrate
+སྤྱི-ཁོག-ཞིབ-བརྗོད	outline representation
+སྤྱི-ཐང	aggregate value
+སྤྱི-བཏང-ཡིག-གཟུགས	regular font
+སྤྱི-བསྡོམས-འབིགས-འཁོར	summary punch
+སྤྱི-མཐུན-མིང	common name
+སྤྱི-མཚན-གཞི-གྲངས-ཀྱི-རིགས-གྲས	abstract data type
+སྤྱི-འགྲོས	formula
+སྤྱི-རྣམ-གནོན-འཇགས	common mode rejection
+སྤྱི-རྣམ-གློག-གནོན	common mode voltage
+སྤྱི-ལྡེ	public key
+སྤྱི-ལྡེའི-གསང-ཡིག-ལག-རྩལ	public-key cryptography
+སྤྱི-སྤྱོད-ཀྱི-རྒྱུན-ལྡན-བྱ-རིམ	utility routine
+སྤྱི-སྤྱོད-ཁྲིད-པང	udeflector
+སྤྱི-སྤྱོད-གནས-ཡུལ	public address
+སྤྱི-སྤྱོད-དུས-ཚོད	elapsed time
+སྤྱི-སྤྱོད-བཅོལ-ཆས	general purpose register
+སྤྱི-སྤྱོད	public
+སྤྱིའི-དུས-ཚོད-ལྷག-མ	total time remaining
+སྤྱིའི-ཤོག-གྲངས	total pages
+སྤྱིའི-ཤོང-ཚད	total capacity
+སྤྱིར-བཏང	general; normal
+སྤྱིར-བཏང-གཏོགས-གཤིས-ཤོག-ལྷེ	generic property page
+སྤྱིར-བཏང-གི-ཚེག-རྟགས	normal punctuation
+སྤྱིར-བཏང-གྲབས-ཉར	normal backup
+སྤྱིར-བཏང-ཡིག-གཟུགས	normal font
+སྤྱོད-ཆོག-སྒྲིག-ཆས-གང-རུང-སྤྱོད-པ	use any available device
+སྤྱོད-པ-པོ-འདི-ངོས-ལེན	accept this user
+སྤྱོད-བཞིན-པ	in use
+སྤྱོད-མཁན-གནས-ཚད	user coordinate
+སྤྱོད-མཁན-གནས-ཡུལ	user's address
+སྤྱོད-མཁན-གསར-སྣོན	add new user
+སྤྱོད-མཁན-གྱི-གནས-ཚུལ-མདོར-བསྡུས	user profile
+སྤྱོད-མཁན-གྱི-ཏར-ཡིག	telex
+སྤྱོད-མཁན-གྱི-ལམ-སྟོན	user's guide
+སྤྱོད-མཁན-གྲངས	user number
+སྤྱོད-མཁན-ངོ-རྟགས	user ID; user identification
+སྤྱོད-མཁན-ངོ-སྤྲོད-མདོར-བསྡུས	user profile
+སྤྱོད-མཁན-དགོས-ཆས	user facility
+སྤྱོད-མཁན-མང-ཤོས	max user
+སྤྱོད-མཁན-མཆན-སྒྲིག-རྒྱུད-ཁོངས	user-tuned system; speaker-adaptive system
+སྤྱོད-མཁན-མཐའ-སྣེ	user terminal
+སྤྱོད-མཁན-མཐུད-ངོས	user interface
+སྤྱོད-མཁན-མཐོང-རིས	user view
+སྤྱོད-མཁན-མཛའ-མཐུན-ཅན	user-friendly
+སྤྱོད-མཁན-མིང	user name
+སྤྱོད-མཁན-ཞབས-ཞུ-རྣམས-གྲངས	user class of service
+སྤྱོད-མཁན-འཆར-ངོས-སྒྲིག-སྟངས-ལ-སྒོ-ལྕགས-རྒྱག	lock IU layout
+སྤྱོད-མཁན-ལག-དེབ	user manual
+སྤྱོད-མཁན-ལས-ཚབ	user agent
+སྤྱོད-མཁན-སྡེབ-སྒྲིག-ཡིག-ཆ	user profile
+སྤྱོད-མཁན-སྣོན-པ	add user
+སྤྱོད-མཁན	user
+སྤྱོད-མཚམས-བཞག-པའི-རྩིས-ཁྲ	disable account
+སྤྱོད-མི-ཆོག	disabled
+སྤྱོད-མི-ཆོག-པ	unavailable
+སྤྱོད-མི-རུང-བ	unavailable
+སྤྱོད-མི-རུང-བའི-དུས-ཚོད	unavailable time
+སྤྱོད-མེད-བཀའ-བརྡ	no-operation instruction
+སྤྱོད-ཡུལ-ཁྱད-པར-ཅན-གྱི-སྐད-བརྡ	special-purpose language
+སྤྱོད-རུང	available
+སྤྱོད-རུང-ཐོན-ཁུངས	available resource
+སྤྱོད-རུང-དངོས-ལུགས-ནང-གསོག	available physical memory
+སྤྱོད-རུང-དུས-ཚོད	available time
+སྤྱོད-རུང-བར-སྟོང	free space
+སྤྱོད-རུང-བར-སྟོང-མི-འདང-བ	no sufficient available
+སྤྱོད-རུང-བར-སྟོང-སྤྱི-གྲངས	total free space
+སྤྱོད-རུང-ཚོད-ལྟ	usability test
+སྤྱོད-རུང-རང-བཞིན	availability
+སྤྱོད-རུང-རྟོག-བཟོའི-ནང-གསོག	available virtual memory
+སྤྱོད-ལུགས	usage
+སྤྱོད-སྒོ-སྤྱིར-བཏང-བའི-སྐད-བརྡ	general-purpose language
+སྤྱོད-སྟོང-བཀའ-བརྡ	no operation instruction
+སྤྱོད	enable
+སྤྲུག-པ	jitter
+སྤྲོ-གསེང-རོལ-རྩེད	entertainment
+སྦས-ཚུལ-གྱི-བཅུ-གོང-འགྲིལ-ལུགས-རིགས-གྲས	implied decimal type
+སྦོམ-འབྲིང	wider
+སྦྱངས-པའི-དོན-སྤྱི-ཁག-ཅིག	partially learned concept
+སྦྱར-བ	paste
+སྦྱོང-བརྡར	training
+སྦྱོང-ཡུན	epoch
+སྦྱོར-ཀློག-བརྒྱུད-ལམ	read path
+སྦྱོར-འབྲི-བཤེར-བ	spelling check
+སྦྱོར-འབྲི	spelling
+སྦྲག-སྐུར-ཁུག-མ	mail folder
+སྦྲག-སྐུར-དྲ-སྒོ	mail gateway
+སྦྲག-སྐུར-འགྲེམས-ཆས	mail exploder
+སྦྲག-སྐུར-རྒྱང-བསྒྲགས-ཆས	mail broadcaster
+སྦྲག-སྐུར-ལེན-མཁན	mail recipient
+སྦྲག-སྐུར	mail
+སྦྲག-སྒམ	mailbox
+སྦྲག-ཨང	zip code
+སྦྲེལ-བཞིན-པ	connection in progress
+སྦྲེལ-མཐུད-གསལ-ཐོ	chained list; linked list
+སྦྲེལ-མཐུད-དང-ནང-འཇུག	linking and loading
+སྦྲེལ-མཐུད-ཕྲལ-གཅོད	break link
+སྦྲེལ-མཐུད-བཅད-པ	disconnect
+སྦྲེལ-མཐུད-བཟོ	create link
+སྦྲེལ-མཐུད-བྱ-ཡུལ	link object
+སྦྲེལ-མཐུད-བྱ-རིམ	linker
+སྦྲེལ-མཐུད-ཚིག-སྒྲུབ-ཤན-འབྱེད	connected-words recognition
+སྦྲེལ-མཐུད-འགྲོ-ལམ	link path
+སྦྲེལ-མཐུད-རེའུ-མིག-ལས-བཤེར-འཚོལ	chained list search; linked list search
+སྦྲེལ-མཐུད-རྩོམ-སྒྲིག-བྱ-རིམ	linkage editor
+སྦྲེལ-མཐུད-སྡེ-ཚན-མཐུད-ཁ	attachment unit interface
+སྦྲེལ-མཐུད-སྣོན-འཇུག-ཆས	linking loader
+སྦྲེལ-མཐུད-སྦྱར-བ	paste link
+སྦྲེལ-མཐུད	link; linkage; join
+སྦྲེལ-མི-ཐུབ-པ	unable to connect
+སྦྲེལ-རྟགས	dash
+སྨར-ཐང-སྲུང-སྐྱོང-རྒྱུད-ཁོངས	truth maintenance system
+སྨར-བའི-གཉིས-གོང-འགྲིལ-ལུགས	pure binary numeration system
+སྨུག-ནག	dark magenta
+སྨུག-པོ	purple
+སྨུག-སྐྱ	light fuchsia
+སྨོ-ཎ-བགྲང-གྲངས-ཆས	modulo-n counter
+སྨྱན-གཟུགས-གཏོང-ཆས	media player
+སྨྱན-གཟུགས-ཕྱིར-ལྡེམ-ལམ-འཁྲིད	media eject wizard
+སྨྱན-གཟུགས-བར-འཇུག-ལམ-འཁྲིད	media inject wizard
+སྨྱན-གཟུགས-མཁོ-ཕབ	media copies
+སྨྱན-གཟུགས-མཐུད-ཁ-སྦྲེལ-ཆས	medium interface connector
+སྨྱན-གཟུགས-མིང	media name
+སྨྱན-གཟུགས-འཇུག-པ	load media
+སྨྱན-གཟུགས-འབྲེལ-ཡོད-མཐུད-ཁ	medium dependent interface
+སྨྱན-གཟུགས-ལྟ-སྤྱོད-ཚོད-འཛིན-གྲོས-མཐུན	medium access control protocol
+སྨྱན-གཟུགས-ལྟ-སྤྱོད-ཚོད-འཛིན-བུ-རིམ	medium access control sublayer
+སྨྱན-གཟུགས-ལྟ-སྤྱོད-ཚོད-འཛིན	medium access control
+སྨྱན-གཟུགས-སྟོང-པ	empty medium
+སྨྱན-གཟུགས-སྦྲེལ-མཐུད-སྡེ-ཚན	medium attachment unit
+སྨྱན-གཟུགས	media
+སྨྱན-མང	multimedia
+སྨྱུག-ཁམ-ཡིག-རྟགས-སྐྱེད-ཆས	stroke character generator
+སྨྱུག-ཁམ-སྒྲིག-ཆས	stroke device
+སྲ-ཆས	firmware
+སྲ-སྐྱོན	hard error
+སྲ-སྡེར-ཀྱི-ཤོང-ཚད	hard disk capacity
+སྲ-སྡེར-ཁེངས-ཟིན-པ	hard disk is full
+སྲ-སྡེར-གློག-གསོད	turn off hard disks
+སྲ-སྡེར	hard disk
+སྲིད-པའི-རྒྱུ-རྐྱེན	suggested cause
+སྲིད-འཛིན-དོ-དམ-ཁོངས-མིང	administration domain name
+སྲིད-འཛིན-དོ-དམ-ཁོངས	administration management domain
+སྲུང-པ	guard
+སྲུང-སྐྱོང	maintenance
+སྲུང-སྐྱོང-ངོས-པང	maintenance panel
+སྲུང-སྐྱོང-བྱ-རིམ	maintenance program
+སྲུང-སྐྱོང-རུང-བའི-རང-བཞིན	maintainability
+སྲུང-སྐྱོང-རྙི-སྒོ	maintenance hook
+སྲུང-སྐྱོང-སྣེ-ཤན	maintenance wizard
+སྲུང-སྐྱོབ-མེད-པ	no protection
+སྲུང-སྐྱོབ-རྒྱུན-འགལ	protection exception
+སྲུང-སྐྱོབ-སྒྲིག-ཆས	protection device
+སྲུང-སྐྱོབ	protection; guard
+སྲུང-སྒོ-འབྱེད-པ	open guard
+སྲོག-ལ-མ-ཐུག-པའི-སྐྱོན	failsoft
+སླ-མོའི-རིགས-གྲས	simple type
+སླར-གཏོང	playback
+སླར-འཛུལ	reentrant
+སླར-ཡང	again
+སློག-འཁོར	flip
+སློབ-སྦྱོང	learning
+སློབ-སྦྱོང-ཐབས-ཇུས	learning strategy
+སློབ-སྦྱོང-ཕྱོད	learning rate
+སློབ-སྦྱོང-རྩིས-ཐབས	learning algorithm
+སློབ-སྦྱོང-ལག-རྩལ	learning techniques
+ཧ-ཞི-གདོང-ཐུག	hash clash
+ཧ-ཞི-གནས-འཚོལ	hash addressing
+ཧ-ཞི-ཐང	hash value
+ཧ-ཞི-རེའུ-བཤེར-འཚོལ	hash table search
+ཧ-ཞི-རྟེན-འབྱུང-གྲངས	hash function
+ཧ-ཞིའི-ལུགས	hashing
+ཧེ-པེན-སློབ-སྦྱོང	hebbian learning
+ཧེ-བག	error
+ཧེ-བག-ཁྱབ-ཁོངས	error range
+ཧོ-ཕུ-ཧྥེལ-ཏི-དྲ-རྒྱ	hopfield network
+ཧོ-ཙི	hertz
+ཧོབ-བརྙན-བྱ-རིམ	snapshot program
+ཧོབ-བརྙན-སྤོ-གསོག	snapshot dump
+ཧྥེང-གྲིབ-ནག	phong shading
+ཧྲིལ-གྲངས-རིགས-གྲས	integer type
+ཧྲིལ-གྲངས	integer; integer number
+ཧྲིལ-པོ-བཙལ-ནས-བརྗེ	global search and replace
+ཧྲིལ-ལྗོངས-སྒྱུར-བ	panoramic translating
+ཨ-ལོག	tumbling
+ཨང-ཀི	numeral
+ཨང-ཀི-ཚབ-ཨང	numeric code
+ཨང-ཀིའི-ཡི-གེ	numeric word
+ཨང-ཀིའི-ཡིག-རྟགས-ཚོགས-སྤྱི	numeric character set
+ཨང-གནོན-ཞབས-ཞུ-ཆས	dial-up server
+ཨང-གནོན-འདེམས-ཚན	dial-up option
+ཨང-གནོན	dial
+ཨང-གསབ-ཡོ-ཆས	complementer
+ཨང-ཆད	drop-out
+ཨང-འབེབས-ཆས	decoder
+ཨང-རྟགས-ཆད-ས	code breakpoint
+ཨང-རྟགས-ཐིག	barcode
+ཨང-རྟགས-སྒྲིག-མེད-པ	unnumbered
+ཨང-རྩིས-གཏན-ཚིགས-རྩིས-ཆས	calculator with arithmetic logic
+ཨང-རྩིས-གནས-སྤོ	arithmetic shift
+ཨང-རྩིས-བཀའ-བརྡ	arithmetic instruction; arithmetical instruction
+ཨང-རྩིས-ལུགས-རྩིས	arithmetic operation
+ཨང-རྩིས-ལྷུ-ཆས	arithmetic unit
+ཨང-རྩིས	arithmetic
+ཨང-རྫུས	drop-in
+ཨང-སྒྲིག	to encode
+ཨང-སྒྲིག-ཆ-འཕྲིན-རིགས-གྲས	encoded information type
+ཨང-སྒྲིག-ཆས	encoder
+ཨང-སྒྲིག-ཇུས-གཞི	coding scheme
+ཨང-སྒྲིག-མཚོན-སྟངས	coded representation
+ཨང-སྒྲིག-ཚོགས-སྤྱི	coded set
+ཨང-སྒྲིག-འདྲ-རིས	coded image
+ཨང-སྒྲིག-ཡིག-རྟགས-ཚོགས-སྤྱི	coded character set
+ཨེ-ཐེར-དྲ-རྒྱ	ethernet
+ཀུན-མཚུངས-མ-ཡིན-ལུགས-རྩིས	non-identity operation
+ཀུན-མཚུངས-ལུགས-རྩིས	identity operation
+ཁྱབ-མཉམ-མིན-པའི-ལུགས-རྩིས	non-equivalence operation
+ཁྱབ-མཉམ-ལུགས-རྩིས	equivalence operation
+ཁྱབ-འདུས-གཉུག-ལྷུ	if-then element
+ཁྱབ-འདུས-ལུགས-རྩིས	if-then operation
+ཁྱབ-འདུས-སྒོ	if-then gate
+ཐ-དད-ཡང-ན-གཉུག-ལྷུ	EXCLUSIVE-OR element
+ཐ-དད-ཡང-ན-ལུགས-རྩིས	EXCLUSIVE-OR operation
+ཐ-དད-ཡང-ན-སྒོ	EXCLUSIVE-OR gate
+དང-མིན-གཉུག-ལྷུ	NAND element; NOT-AND element
+དང-མིན-ལུགས-རྩིས	NAND operation; NOT-BOTH operation
+དང-མིན-སྒོ	NAND gate
+དང-གཉུག-ལྷུ	AND element
+དང-ལུགས-རྩིས	AND operation
+དང-སྒོ	AND gate
+ནུས-མཚུངས-གཉུག-ལྷུ	IF-AND-ONLY-IF element
+ནུས-མཚུངས-སྒོ	IF-AND-ONLY-IF gate
+བཀག-འགོག-གཉུག-ལྷུ	not-if-then element
+བཀག-འགོག-བརྡ-རྟགས	inhibiting signal
+བཀག-འགོག-ལུགས-རྩིས	not-if-then operation
+བཀག-འགོག-སྒོ	not-if-then gate
+མང-ཤོས-གཏན-ཁེལ-གཉུག-ལྷུ	majority element
+མང-ཤོས-གཏན-ཁེལ-ལུགས-རྩིས	majority operation
+མང-ཤོས-གཏན-ཁེལ-སྒོ	majority gate
+མཚམས-གཉུག-ལྷུ	threshold element
+མཚམས-སྒོ	threshold gate
+མིན-ལུགས-རྩིས	NOT operation
+མིན-གཉུག-ལྷུ	NOT element
+མིན-སྒོ	NOT gate
+ཡང-ན-གཉུག-ལྷུ	inclusive-)OR element
+ཡང-ན-ལུགས-རྩིས	OR operation; INCLUSIVE-OR operation
+ཡང-ན-སྒོ	inclusive-)OR gate
+ཡང-མིན-གཉུག-ལྷུ	NOR element
+ཡང-མིན-ལུགས-རྩིས	NOR operation; NEITHER-NOR operation
+ཡང-མིན-སྒོ	NOR gate
+ཡོངས-མཐུན-གཉུག-ལྷུ	identikit element
+ཡོངས-མཐུན-སྒོ	identity gate
+རོགས-རམ-ཁ-འབྱེད	open help
